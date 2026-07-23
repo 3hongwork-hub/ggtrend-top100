@@ -1,0 +1,4 @@
+# 파이썬 및 캐시 제외 설정
+__pycache__/
+*.pyc
+.DS_Store
