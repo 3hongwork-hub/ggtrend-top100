@@ -16,6 +16,17 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(res => res.json())
     .then(data => {
       allTrends = data.trends || [];
+      
+      const now = new Date();
+      const dateStrShort = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
+      const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
+      const dateStrFull = `${now.getFullYear()}년 ${now.getMonth() + 1}월 ${now.getDate()}일 (${weekdays[now.getDay()]})`;
+
+      const headerDateElem = document.getElementById('header-date');
+      const heroDateElem = document.getElementById('hero-date');
+      if (headerDateElem) headerDateElem.textContent = dateStrShort;
+      if (heroDateElem) heroDateElem.textContent = dateStrFull;
+
       if (updateTimeElem && data.updated_at) {
         updateTimeElem.textContent = `최종 업데이트: ${data.updated_at} (KST)`;
       }
