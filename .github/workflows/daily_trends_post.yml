@@ -1,0 +1,51 @@
+name: Daily Google Trends Post & GitHub Pages Deployment
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 9시 (UTC 00:00) 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Fetch Trends and Generate Post
+        run: |
+          python scripts/fetch_trends.py
+
+      - name: Commit and Push Data & Posts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily google trends top 100 & issue summary [skip ci]"
+          branch: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
