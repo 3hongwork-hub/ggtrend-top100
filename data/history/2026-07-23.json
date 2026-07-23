@@ -1,12 +1,66 @@
 {
   "date": "2026-07-23",
-  "updated_at": "2026-07-23 16:52:37",
+  "updated_at": "2026-07-23 07:55:44",
   "count": 100,
   "trends": [
     {
+      "title": "푸바오",
+      "traffic": "1000+",
+      "summary": "• ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’\n• 생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장\n• 생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다",
+      "news": [
+        {
+          "title": "’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260723110321HDY",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260723048500061",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260723092753858",
+          "source": "Daum"
+        }
+      ],
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLnDHzMBYt7IG2n8nxa34Db50mf_C0tVjeUk99NyuTiHp_67N5JsxRUdRun5A",
+      "rank": 1
+    },
+    {
+      "title": "mlb",
+      "traffic": "1000+",
+      "summary": "• Honeycutt family soaks in MLB All-Star festivities\n• Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage\n• Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ",
+      "news": [
+        {
+          "title": "Honeycutt family soaks in MLB All-Star festivities",
+          "snippet": "",
+          "url": "https://www.mainstreetdailynews.com/sports/honeycutt-family-soaks-in-mlb-all-star-festivities",
+          "source": "Mainstreet Daily News Gainesville"
+        },
+        {
+          "title": "Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage",
+          "snippet": "",
+          "url": "https://www.wruf.com/headlines/2026/07/15/newberry-slugger-florida-commit-tavis-honeycutt-showcases-power-on-mlb-all-star-stage/",
+          "source": "WRUF"
+        },
+        {
+          "title": "Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ",
+          "snippet": "",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/23/XCVR5KKZXJBUTJZFEYU6S5ITJM/",
+          "source": "Chosunbiz"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUe61jjPqqt9EkBY__85Btydst0bSowUCKAduJ-PtlfonE1-6KcQiWewOTucc",
+      "rank": 2
+    },
+    {
       "title": "윤건영",
-      "traffic": "100+",
-      "summary": "• [고수다] \"유시민 썩은 비평으로 대통령 난도질\"‥\"범죄자가 서울시장 해선 안 돼\"\n• [속보] 강득구 \"유시민, 李대통령 공개 저격…선 넘고 있다\"\n• “유시민=예방주사”라는 ‘친문’ 윤건영…“주사도 한두 대여야지”",
+      "traffic": "200+",
+      "summary": "• [고수다] \"유시민 썩은 비평으로 대통령 난도질\"‥\"범죄자가 서울시장 해선 안 돼\"\n• [속보] 강득구 \"유시민, 李대통령 공개 저격…선 넘고 있다\"\n• \"뉴이재명 수장은 이 대통령\" 유시민에…\"진중권 자리로\" 반발",
       "news": [
         {
           "title": "[고수다] \"유시민 썩은 비평으로 대통령 난도질\"‥\"범죄자가 서울시장 해선 안 돼\"",
@@ -21,68 +75,68 @@
           "source": "경기일보"
         },
         {
-          "title": "“유시민=예방주사”라는 ‘친문’ 윤건영…“주사도 한두 대여야지”",
+          "title": "\"뉴이재명 수장은 이 대통령\" 유시민에…\"진중권 자리로\" 반발",
           "snippet": "",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1269564.html",
-          "source": "한겨레"
+          "url": "https://news.jtbc.co.kr/article/NB12309667",
+          "source": "JTBC"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ogk7rBdMS9WV109GnEYW4zNwwKYkmcQJP1Opqm8tBbPfdVIxxQRmQgwOeOQ",
-      "rank": 1
+      "rank": 3
+    },
+    {
+      "title": "국민성장펀드",
+      "traffic": "100+",
+      "summary": "• 전력·용수만 필요할까? 서남권 반도체 클러스터 성공의 키는 광물…자원외교에 성패 달렸다\n• 충주시, 반도체 핵심광물 생산 기업과 업무협약…생산시설 구축\n• 「경제안보외교센터–日 지경학연구소 2026 경제안보 공동 워크숍」 개최",
+      "news": [
+        {
+          "title": "전력·용수만 필요할까? 서남권 반도체 클러스터 성공의 키는 광물…자원외교에 성패 달렸다",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260723153510659",
+          "source": "Daum"
+        },
+        {
+          "title": "충주시, 반도체 핵심광물 생산 기업과 업무협약…생산시설 구축",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260723105800064",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "「경제안보외교센터–日 지경학연구소 2026 경제안보 공동 워크숍」 개최",
+          "snippet": "",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=438573",
+          "source": "서울Pn"
+        }
+      ],
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVi8z14zJHg-Es5_IUNi5SDZnNnfN4U_iVEx7DYFlhNDrWU00VlK4kucUBlVo",
+      "rank": 4
     },
     {
       "title": "산불",
       "traffic": "2000+",
-      "summary": "• 영덕국유림관리소, 유아 대상 산불예방 연극·체험 프로그램 '초록숲 안전여행' 운영\n• 영덕국유림관리소, 유아 대상 산불예방 체험교육 운영\n• \"물총으로 산불 막나\"…유아 산불체험교육 실효성 논란",
+      "summary": "• “41도 폭염 끓더니 12도 ‘뚝’ 떨어졌다”…유럽 이번엔 폭우·뇌우 비상\n• 프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65%\n• 세계기상특성 \"유럽 가뭄 원인은 기후변화, 높아진 기온이 수분 증발량 최대 80배 높여\"",
       "news": [
         {
-          "title": "영덕국유림관리소, 유아 대상 산불예방 연극·체험 프로그램 '초록숲 안전여행' 운영",
+          "title": "“41도 폭염 끓더니 12도 ‘뚝’ 떨어졌다”…유럽 이번엔 폭우·뇌우 비상",
           "snippet": "",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=438676",
-          "source": "서울Pn"
-        },
-        {
-          "title": "영덕국유림관리소, 유아 대상 산불예방 체험교육 운영",
-          "snippet": "",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=714448",
-          "source": "경북도민일보"
-        },
-        {
-          "title": "\"물총으로 산불 막나\"…유아 산불체험교육 실효성 논란",
-          "snippet": "",
-          "url": "https://www.kbsm.net/news/view.php?idx=527710",
-          "source": "경북신문"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
-      "rank": 2
-    },
-    {
-      "title": "맹승지",
-      "traffic": "200+",
-      "summary": "• ‘무도’ 맹승지, 12년 만에 인중축소술…“실패하면 잃을 게 너무 많아” [SD톡톡]\n• 맹승지, ‘인중축소+입꼬리 성형’ 후 달라진 비주얼…“어려 보여” 만족 - 스타투데이\n• 맹승지, 인중·입꼬리 수술 후 변화 공개…12년 만에 성형 고백",
-      "news": [
-        {
-          "title": "‘무도’ 맹승지, 12년 만에 인중축소술…“실패하면 잃을 게 너무 많아” [SD톡톡]",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260723133949022",
+          "url": "https://v.daum.net/v/20260723135737683",
           "source": "Daum"
         },
         {
-          "title": "맹승지, ‘인중축소+입꼬리 성형’ 후 달라진 비주얼…“어려 보여” 만족 - 스타투데이",
+          "title": "프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65%",
           "snippet": "",
-          "url": "https://www.mk.co.kr/news/hot-issues/12105133",
-          "source": "매일경제"
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202607231104452414&s_hcd=",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "맹승지, 인중·입꼬리 수술 후 변화 공개…12년 만에 성형 고백",
+          "title": "세계기상특성 \"유럽 가뭄 원인은 기후변화, 높아진 기온이 수분 증발량 최대 80배 높여\"",
           "snippet": "",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16143253",
-          "source": "톱스타뉴스"
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442944",
+          "source": "비즈니스포스트"
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGNNmmNEf2o2AlWL8ftJpo9I8HonnWaLkF9BSqfYdVDor3Cd2B7XPx4FqNa_I",
-      "rank": 3
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStwmQZ3y570nyuQU5wvYLODvpjxyDNmuE66HrWJxwcEBZuZYr_jCERU1ettT4",
+      "rank": 5
     },
     {
       "title": "박은빈",
@@ -109,11 +163,38 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MWGHRg2YUWuAJ41f13FVcA1dYRCtOmFmnCY7FkAWMY-RygUaaRznF6Ipf7o",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "title": "맹승지",
+      "traffic": "200+",
+      "summary": "• ‘무도’ 맹승지, 12년 만에 인중축소술…“실패하면 잃을 게 너무 많아” [SD톡톡]\n• 맹승지, ‘인중축소+입꼬리 성형’ 후 달라진 비주얼…“어려 보여” 만족 - 스타투데이\n• 맹승지, 인중·입꼬리 수술 후 변화 공개…12년 만에 성형 고백",
+      "news": [
+        {
+          "title": "‘무도’ 맹승지, 12년 만에 인중축소술…“실패하면 잃을 게 너무 많아” [SD톡톡]",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260723133949022",
+          "source": "Daum"
+        },
+        {
+          "title": "맹승지, ‘인중축소+입꼬리 성형’ 후 달라진 비주얼…“어려 보여” 만족 - 스타투데이",
+          "snippet": "",
+          "url": "https://www.mk.co.kr/news/hot-issues/12105133",
+          "source": "매일경제"
+        },
+        {
+          "title": "맹승지, 인중·입꼬리 수술 후 변화 공개…12년 만에 성형 고백",
+          "snippet": "",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16143253",
+          "source": "톱스타뉴스"
+        }
+      ],
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGNNmmNEf2o2AlWL8ftJpo9I8HonnWaLkF9BSqfYdVDor3Cd2B7XPx4FqNa_I",
+      "rank": 7
     },
     {
       "title": "보스턴 레드삭스",
-      "traffic": "500+",
+      "traffic": "1000+",
       "summary": "• 하지원, MLB ‘승리의 시구’…보스턴 80년만에 15연승\n• '승리요정' 하지원, 韓 배우 최초 미국 펀웨이 파크 시구 \"감동\" - 머니투데이\n• MLB 보스턴, 80년 만에 15연승…구단 타이기록 작성",
       "news": [
         {
@@ -136,24 +217,24 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJS0n2n8ofS_iBCo96YdtjhvvXg654Npbg0O0kgi75tjdRJR2i2yeQ2Myqq4s",
-      "rank": 5
+      "rank": 8
     },
     {
       "title": "흡연",
       "traffic": "200+",
-      "summary": "• 흡연만 해도 지방간 위험 '쑥'…2030 비만·과음 없어도 안심 못해\n• 비만도, 애주가도 아닌데 지방간…2030대 노리는 의외의 복병 [헬시타임]\n• 젊은 성인 흡연과 지방간 연관성 규명",
+      "summary": "• 비만도, 애주가도 아닌데 지방간…2030대 노리는 의외의 복병 [헬시타임]\n• 흡연만 해도 지방간 위험 '쑥'…2030 비만·과음 없어도 안심 못해\n• 젊은 성인 흡연과 지방간 연관성 규명",
       "news": [
+        {
+          "title": "비만도, 애주가도 아닌데 지방간…2030대 노리는 의외의 복병 [헬시타임]",
+          "snippet": "",
+          "url": "https://www.sedaily.com/article/20070971",
+          "source": "서울경제"
+        },
         {
           "title": "흡연만 해도 지방간 위험 '쑥'…2030 비만·과음 없어도 안심 못해",
           "snippet": "",
           "url": "https://www.hankyung.com/article/202607232390v",
           "source": "한국경제"
-        },
-        {
-          "title": "비만도, 애주가도 아닌데 지방간…2030대 노리는 의외의 복병 [헬시타임]",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20260723n18164",
-          "source": "네이트"
         },
         {
           "title": "젊은 성인 흡연과 지방간 연관성 규명",
@@ -162,8 +243,8 @@
           "source": "이데일리"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrwSPqRpdv2NrSM36b3kkjfTnDRfcskC3NAgHEA43S12czvzxotmEU1GlXkb0",
-      "rank": 6
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFFodVJIdZe61pzBQJrLeXJVOgswK9SQ0HowxNaQWD24cSepdoa4DIatpfGnw",
+      "rank": 9
     },
     {
       "title": "삼성sdi",
@@ -190,87 +271,6 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe1GliGgIxeF9lQDNyEcT5OZiYsYLbFAOnW-Fmnp_FI9oTlo4CAw32BKuJFAA",
-      "rank": 7
-    },
-    {
-      "title": "군대",
-      "traffic": "200+",
-      "summary": "• 병무청, 베트남 거주 한·베 가정 자녀 대상 병역체험 프로그램 실시\n• \"낯설었던 국방의 의무, 자부심으로 채우다\" 한·베가정 자녀들의 첫 병역 체험\n• 베트남 거주 한·베가정 자녀 대상 병역체험 프로그램 실시",
-      "news": [
-        {
-          "title": "병무청, 베트남 거주 한·베 가정 자녀 대상 병역체험 프로그램 실시",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260723_0003720578",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"낯설었던 국방의 의무, 자부심으로 채우다\" 한·베가정 자녀들의 첫 병역 체험",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260723112129613",
-          "source": "Daum"
-        },
-        {
-          "title": "베트남 거주 한·베가정 자녀 대상 병역체험 프로그램 실시",
-          "snippet": "",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=438827",
-          "source": "서울Pn"
-        }
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GKqGgJ1apfNcilNrWawdd-q-SJc3iepJRwx6Fle6P1mptwIWEIduZ5KL3pg",
-      "rank": 8
-    },
-    {
-      "title": "철도망",
-      "traffic": "1000+",
-      "summary": "• 충남도·시군, 민선9기 첫 지방정부회의…주요 정책·현안 논의\n• 공주시, 백제 고도 정체성 회복 한옥단지 조성사업 건의\n• 박수현 지사 \"잘못된 제도와 관행 고쳐 도민 행복 이룰 것\"",
-      "news": [
-        {
-          "title": "충남도·시군, 민선9기 첫 지방정부회의…주요 정책·현안 논의",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260723163952123",
-          "source": "Daum"
-        },
-        {
-          "title": "공주시, 백제 고도 정체성 회복 한옥단지 조성사업 건의",
-          "snippet": "",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=710086",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "박수현 지사 \"잘못된 제도와 관행 고쳐 도민 행복 이룰 것\"",
-          "snippet": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253629",
-          "source": "OhmyNews"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMzYHhbxo_Eifs_bEHKo-daidKaaCB0Wqb6iWI4AN86_JPl585vDmW7A5EyPI",
-      "rank": 9
-    },
-    {
-      "title": "이정재",
-      "traffic": "500+",
-      "summary": "• '호프' 이번엔 '무빙' 조합…조인성·강풀 작가 GV 개최\n• 이정재, ‘오징어 게임’ 감독과 ‘호프’ GV 깜짝 등장…정호연 지원사격\n• 강풀이 묻고 조인성이 답하는 '호프' Q&A…성기 비화 밝힌다",
-      "news": [
-        {
-          "title": "'호프' 이번엔 '무빙' 조합…조인성·강풀 작가 GV 개최",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260722103553520",
-          "source": "Daum"
-        },
-        {
-          "title": "이정재, ‘오징어 게임’ 감독과 ‘호프’ GV 깜짝 등장…정호연 지원사격",
-          "snippet": "",
-          "url": "https://sports.khan.co.kr/article/202607231252003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "강풀이 묻고 조인성이 답하는 '호프' Q&A…성기 비화 밝힌다",
-          "snippet": "",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669876",
-          "source": "SBS 뉴스"
-        }
-      ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYOWz-zJMWJ3RMcEhToOBFa3OGbYtItuFHFeXAfiFpT2esed6TUr2M44QcYhk",
       "rank": 10
     },
     {
@@ -505,30 +505,30 @@
       "rank": 19
     },
     {
-      "title": "azzi fudd",
-      "traffic": "1000+",
-      "summary": "• Fudd, Mabrey, Howard among WNBA All-Star 3-point contestants\n• Sabrina Ionescu denies report that she turned down chance to compete in WNBA 3-point contest: 'I can't decline an offer I never got officially invited to'\n• Caitlin Clark declines WNBA 3-Point Contest invitation, dealing major blow to All-Star Weekend and ESPN",
+      "title": "colman domingo",
+      "traffic": "2000+",
+      "summary": "• White House Panics Over Fears Melania Could Go Rogue: Author\n• Jimmy Kimmel’s Replacement Jokingly Compares Melania Trump to Dracula\n• Donald Trump and Melania's Marriage Is at Its 'Lowest Point,' Author Claims They Are 'Barely Speaking'",
       "news": [
         {
-          "title": "Fudd, Mabrey, Howard among WNBA All-Star 3-point contestants",
+          "title": "White House Panics Over Fears Melania Could Go Rogue: Author",
           "snippet": "",
-          "url": "https://www.espn.com/wnba/story/_/id/49420142/fudd-mabrey-howard-wnba-all-star-3-point-contestants",
-          "source": "ESPN"
+          "url": "https://www.thedailybeast.com/white-house-panics-over-fears-melania-could-go-rogue-michael-wolff/",
+          "source": "The Daily Beast"
         },
         {
-          "title": "Sabrina Ionescu denies report that she turned down chance to compete in WNBA 3-point contest: 'I can't decline an offer I never got officially invited to'",
+          "title": "Jimmy Kimmel’s Replacement Jokingly Compares Melania Trump to Dracula",
           "snippet": "",
-          "url": "https://sports.yahoo.com/wnba/article/sabrina-ionescu-denies-report-that-she-turned-down-chance-to-compete-in-wnba-3-point-contest-i-cant-decline-an-offer-i-never-got-officially-invited-to-233501276.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.yahoo.com/entertainment/tv/articles/jimmy-kimmel-replacement-jokingly-compares-130148494.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Caitlin Clark declines WNBA 3-Point Contest invitation, dealing major blow to All-Star Weekend and ESPN",
+          "title": "Donald Trump and Melania's Marriage Is at Its 'Lowest Point,' Author Claims They Are 'Barely Speaking'",
           "snippet": "",
-          "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-declines-wnba-3-point-contest-invitation-dealing-major-blow-all-star-weekend-espn",
-          "source": "Fox News"
+          "url": "https://www.morninghoney.com/p/donald-trump-and-melanias-marriage-is-at-its-lowest-point-author-claims-they-are-barely-speaking",
+          "source": "Morning Honey"
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY5iN1hmxBoj_UT5JKZYEOHplLA4hBkUsyVDphUP_AHgbA5-k_9IT1AfE7aFs",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcSdBUvt3EczilbF2okrU7KOUtQ9TH79slPmbtiGRvLZWl3K1-zHZ9OF6kP3M",
       "rank": 20
     },
     {
@@ -615,7 +615,7 @@
     {
       "title": "アスレチックス",
       "traffic": "200+",
-      "summary": "• 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定\n• アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術\n• MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
+      "summary": "• 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定\n• 【MLB】アスレチックス23歳新人、自打球直撃で「睾丸破裂」　メジャー初アーチ直後の打席でまさかの“悪夢”\n• MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
       "news": [
         {
           "title": "【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定",
@@ -624,10 +624,10 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術",
+          "title": "【MLB】アスレチックス23歳新人、自打球直撃で「睾丸破裂」　メジャー初アーチ直後の打席でまさかの“悪夢”",
           "snippet": "",
-          "url": "https://www.nikkansports.com/m/baseball/mlb/news/202607220000551_m.html?mode=all",
-          "source": "日刊スポーツ"
+          "url": "https://topics.smt.docomo.ne.jp/article/spread/sports/spread-392914",
+          "source": "ｄメニューニュース"
         },
         {
           "title": "MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
@@ -696,13 +696,13 @@
     {
       "title": "御嶽海",
       "traffic": "200+",
-      "summary": "• 【大相撲名古屋場所11日目】御嶽海は10敗目 藤青雲に寄り切りで敗れる あす23日12日目は大青山と対戦\n• 御嶽海は11敗目【大相撲名古屋場所12日目】\n• 【大相撲９日目】御嶽海は阿武剋に敗れて８敗目 負け越し決まる【長野】（2026年7月20日掲載）｜日テレNEWS NNN",
+      "summary": "• 御嶽海は11敗目【大相撲名古屋場所12日目】（信濃毎日新聞デジタル）\n• 御嶽海は11敗目【大相撲名古屋場所12日目】\n• 【大相撲９日目】御嶽海は阿武剋に敗れて８敗目 負け越し決まる【長野】（2026年7月20日掲載）｜日テレNEWS NNN",
       "news": [
         {
-          "title": "【大相撲名古屋場所11日目】御嶽海は10敗目 藤青雲に寄り切りで敗れる あす23日12日目は大青山と対戦",
+          "title": "御嶽海は11敗目【大相撲名古屋場所12日目】（信濃毎日新聞デジタル）",
           "snippet": "",
-          "url": "https://newsdig.tbs.co.jp/articles/-/2819643?display=1",
-          "source": "TBS NEWS DIG"
+          "url": "https://news.yahoo.co.jp/articles/d985498ac2f97149aabba49ed1a44f33ceca6c29",
+          "source": "Yahoo!ニュース"
         },
         {
           "title": "御嶽海は11敗目【大相撲名古屋場所12日目】",
@@ -717,7 +717,7 @@
           "source": "日テレNEWS NNN"
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_5TcTqQTyU_9q32iPsHiLP7txsjQlT08ur4siSe0o0EZR0H_nC_h6r7OamsM",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbUBizd3d54lV58ciXSDUoMFQB-lhXc22UqoaHR3L5jg5KlmMNqnS9ps1eBqA",
       "rank": 27
     },
     {
@@ -802,6 +802,33 @@
       "rank": 30
     },
     {
+      "title": "胡志偉",
+      "traffic": "100+",
+      "summary": "• 胡志偉赴英｜英媒報道機場被扣要遣返 據了解，胡志偉已成功入境\n• 35+顛覆案︱英媒：胡志偉抵英國於機場被扣留 護照遭沒收 或七日內遣返香港\n• 胡志偉被英政府拒入境兼沒收BNO 網民：兩面不是人！",
+      "news": [
+        {
+          "title": "胡志偉赴英｜英媒報道機場被扣要遣返 據了解，胡志偉已成功入境",
+          "snippet": "",
+          "url": "https://thecollectivehk.com/47%E4%BA%BA%E6%A1%88%EF%BD%9C%E8%8B%B1%E5%9C%8B%E3%80%8A%E6%B3%B0%E6%99%A4%E5%A3%AB%E5%A0%B1%E3%80%8B%E5%A0%B1%E9%81%93%E3%80%80%E8%83%A1%E5%BF%97%E5%81%89%E8%B5%B4%E8%8B%B1%E8%A2%AB%E6%89%A3%E7%95%99/",
+          "source": "集誌社"
+        },
+        {
+          "title": "35+顛覆案︱英媒：胡志偉抵英國於機場被扣留 護照遭沒收 或七日內遣返香港",
+          "snippet": "",
+          "url": "https://www.stheadline.com/politics/3596664/35%E9%A1%9B%E8%A6%86%E6%A1%88%E8%8B%B1%E5%AA%92%E8%83%A1%E5%BF%97%E5%81%89%E6%8A%B5%E8%8B%B1%E5%9C%8B%E6%96%BC%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%89%A3%E7%95%99-%E8%AD%B7%E7%85%A7%E9%81%AD%E6%B2%92%E6%94%B6-%E6%88%96%E4%B8%83%E6%97%A5%E5%85%A7%E9%81%A3%E8%BF%94%E9%A6%99%E6%B8%AF",
+          "source": "星島頭條"
+        },
+        {
+          "title": "胡志偉被英政府拒入境兼沒收BNO 網民：兩面不是人！",
+          "snippet": "",
+          "url": "https://www.kinliu.hk/news/%E8%83%A1%E5%BF%97%E5%81%89%E8%A2%AB%E8%8B%B1%E6%94%BF%E5%BA%9C%E6%8B%92%E5%85%A5%E5%A2%83%E5%85%BC%E6%B2%92%E6%94%B6BNO-%E7%B6%B2%E6%B0%91%EF%BC%9A%E5%85%A9%E9%9D%A2%E4%B8%8D%E6%98%AF%E4%BA%BA%EF%BC%81/188403.html?id=51&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F",
+          "source": "堅料網"
+        }
+      ],
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzEPIztN9DlepL9XbaXXLf1x9vPPs0YP7iaJXeVsvXkixCNOPzPy5LjkCBp1c",
+      "rank": 31
+    },
+    {
       "title": "andy peters",
       "traffic": "500+",
       "summary": "• GMB's Andi Peters announces departure of beloved colleague\n• Good Morning Britain hosts say goodbye to 'amazing' ITV colleague live on air\n• GMB: Andi Peters reveals it's his final day working with colleague",
@@ -826,7 +853,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtm2ehnQS4LmMev1Hd5Z3A6ilC8LVgqJR43sOAMCCJY8Vgz0YIvellrz_K3iQ",
-      "rank": 31
+      "rank": 32
     },
     {
       "title": "defence",
@@ -853,12 +880,12 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDOemRSaeDCDljVU0m7YMFR8-Heffr33YoK8ciQ0u1-6-5wfYJtvn4reWh7uI",
-      "rank": 32
+      "rank": 33
     },
     {
       "title": "fans petition fifa to replay the world cup final match",
       "traffic": "200+",
-      "summary": "• 'Kick Argentina out of the World Cup' petition nearly breaks Guinness World Record\n• Sore losers? Argentina fans cry foul, demand FIFA replay World Cup final\n• Over 23 million... Petition demands Argentina's lifetime expulsion from the World Cup",
+      "summary": "• 'Kick Argentina out of the World Cup' petition nearly breaks Guinness World Record\n• Sore losers? Argentina fans cry foul, demand FIFA replay World Cup final\n• Petition to replay Argentina vs Spain 2026 World Cup Final surpasses 61,000 signatures",
       "news": [
         {
           "title": "'Kick Argentina out of the World Cup' petition nearly breaks Guinness World Record",
@@ -873,14 +900,14 @@
           "source": "Ynetnews"
         },
         {
-          "title": "Over 23 million... Petition demands Argentina's lifetime expulsion from the World Cup",
+          "title": "Petition to replay Argentina vs Spain 2026 World Cup Final surpasses 61,000 signatures",
           "snippet": "",
-          "url": "https://www.goal.com/en/news/exceeding-23-million-petition-demands-argentina-s-lifetime-expulsion-from-the-world-cup/bltcf00248a52aa4c3d",
-          "source": "Goal.com"
+          "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/argentine-fans-launch-petition-to-replay-the-2026-world-cup-final-signatures-surpass-61-000-2026-07-22",
+          "source": "beIN SPORTS"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3OpA7xJ1tR2n1NRDWb3s4tjoUl_Anzx1YCMpEo0samIKGQoVa6j9E-M_Z_Q",
-      "rank": 33
+      "rank": 34
     },
     {
       "title": "trainspotting the musical review",
@@ -907,7 +934,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPSmLdYwiepZjZYIZmPAWI9xg6V3JtKoC_CbhLRHHAB7w9TNAUeRg_PJZYArw",
-      "rank": 34
+      "rank": 35
     },
     {
       "title": "jimothy raccoon",
@@ -934,7 +961,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSEkvWXNLl5sFrOFtCC6-0H0-O8ANEDdZHvcaVULEpq0D978TpF42xsN0sACQ",
-      "rank": 35
+      "rank": 36
     },
     {
       "title": "richard madeley",
@@ -961,7 +988,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKk5Fu7br4_A1RJCOr7tIAnZhDeaT4FWcGQELzuYT8q4GIofeeMT2Y7T4g4M",
-      "rank": 36
+      "rank": 37
     },
     {
       "title": "jade little mix",
@@ -988,7 +1015,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbGYOBmsZxJgLNEpZGbE1r9tWc0guINKprlQh29OIYi_9khdqC_3EvxiWojq0",
-      "rank": 37
+      "rank": 38
     },
     {
       "title": "latitude",
@@ -1015,7 +1042,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiumrIKUF0Kx0slb-SvHm-tDinFMiGiFWApsYzTFMlWKoDFu6z3pEc0CE3r9s",
-      "rank": 38
+      "rank": 39
     },
     {
       "title": "charley hull",
@@ -1042,33 +1069,6 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmZfBzThTrtvOqjePMTiX1W3b_K8tsMlzuWAYW7MNrerxJEDecBMjx5-66NhA",
-      "rank": 39
-    },
-    {
-      "title": "houthis",
-      "traffic": "1000+",
-      "summary": "• Houthis claim attack on Saudi tankers in Red Sea\n• Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live\n• Oil jumps to $96 after Houthis attack two Saudi Arabian oil tankers",
-      "news": [
-        {
-          "title": "Houthis claim attack on Saudi tankers in Red Sea",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko",
-          "source": "BBC"
-        },
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news?page=with%3Ablock-6a6180c78f0890a39cdc4adb",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Oil jumps to $96 after Houthis attack two Saudi Arabian oil tankers",
-          "snippet": "",
-          "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
-          "source": "Financial Times"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJVCU1sPLLmVVlMnXOQDtbeYZsy-WWx_sUVZwEO0-TT-lWkrT6iYU8FtZ45W0",
       "rank": 40
     },
     {
@@ -1182,7 +1182,7 @@
     {
       "title": "yellow warning - air quality",
       "traffic": "5000+",
-      "summary": "• Smoky skies expected for Lethbridge & area Thursday\n• Metro Vancouver issues air quality warning\n• Smoke might make its way into Calgary from B.C. later in the week",
+      "summary": "• Smoky skies expected for Lethbridge & area Thursday\n• Smoke returns to Calgary skies as wildfire haze drifts south\n• Smoke might make its way into Calgary from B.C. later in the week",
       "news": [
         {
           "title": "Smoky skies expected for Lethbridge & area Thursday",
@@ -1191,9 +1191,9 @@
           "source": "Lethbridge News Now"
         },
         {
-          "title": "Metro Vancouver issues air quality warning",
+          "title": "Smoke returns to Calgary skies as wildfire haze drifts south",
           "snippet": "",
-          "url": "https://www.ctvnews.ca/vancouver/article/metro-vancouver-issues-air-quality-warning/",
+          "url": "https://www.ctvnews.ca/calgary/article/smoke-returns-to-calgary-skies-as-wildfire-haze-drifts-south/",
           "source": "CTV News"
         },
         {
@@ -1452,10 +1452,10 @@
     {
       "title": "flinders medical centre",
       "traffic": "500+",
-      "summary": "• Breaking: Insect repellent release leaves 11 staff sick at major SA hospital\n• Hospital hit by insect repellent explosion\n• Hospital hit by hazmat emergency",
+      "summary": "• Insect repellent release leaves 11 staff sick at major SA hospital\n• Hospital hit by insect repellent explosion\n• Hospital hit by hazmat emergency",
       "news": [
         {
-          "title": "Breaking: Insect repellent release leaves 11 staff sick at major SA hospital",
+          "title": "Insect repellent release leaves 11 staff sick at major SA hospital",
           "snippet": "",
           "url": "https://www.abc.net.au/news/2026-07-23/insect-repellent-release-leaves-flinders-medical-staff-sick/106950996",
           "source": "ABC News & Headlines – Australian Broadcasting Corporation"
@@ -1473,7 +1473,7 @@
           "source": "The Australian"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrS62DWbLz6f2nHGlWNFcqQ-h14RFG08rn3PQvLEysS6P3fBI6SYg2htUqwac",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxEMq0nRTNDYstkPD7rOtJLuavOYOyh7DwQumjGPmR9CgE2QRdRJrXxN8WPVI",
       "rank": 55
     },
     {
@@ -1533,28 +1533,28 @@
     {
       "title": "b1 bomber",
       "traffic": "500+",
-      "summary": "• Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait\n• U.S. deploys B-1 bomber as attacks on Iran intensify\n• Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen",
+      "summary": "• Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers\n• Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen\n• Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait",
       "news": [
         {
-          "title": "Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait",
+          "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-          "source": "The New York Times"
-        },
-        {
-          "title": "U.S. deploys B-1 bomber as attacks on Iran intensify",
-          "snippet": "",
-          "url": "https://www.axios.com/2026/07/23/b-1-bomber-iran-war",
-          "source": "Axios"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers",
+          "source": "Al Jazeera"
         },
         {
           "title": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen",
           "snippet": "",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
           "source": "CBS News"
+        },
+        {
+          "title": "Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait",
+          "snippet": "",
+          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+          "source": "The New York Times"
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo0a_ax15BWAhgcyIimQNSh0Sdw0tNZS_lcWqq0a6LwZtgHZWyBox44WvNyLM",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdaAmuDui7Zo7Qk8DRckXfPum2LUdFomrdpcTDik2nkZBtHpSXMIm4n0xZTso",
       "rank": 58
     },
     {
@@ -2011,6 +2011,33 @@
       "rank": 75
     },
     {
+      "title": "houthis",
+      "traffic": "200+",
+      "summary": "• Oil jumps to $97 after Houthis attack two Saudi Arabian oil tankers\n• Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks\n• Tankers make sharp U-turns after Houthi shipping threat",
+      "news": [
+        {
+          "title": "Oil jumps to $97 after Houthis attack two Saudi Arabian oil tankers",
+          "snippet": "",
+          "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/07/23/world/live-news/iran-war-trump",
+          "source": "CNN"
+        },
+        {
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cn0n127lpzgo",
+          "source": "BBC"
+        }
+      ],
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuv_vZis6RAZbkyvJQX03fUE8UKgOP36SOgRDfkxC1bgXQWUHQq8EB8HMszVY",
+      "rank": 76
+    },
+    {
       "title": "remboursement impots",
       "traffic": "200+",
       "summary": "• Impôts : êtes-vous concernés par le remboursement prévu les 24 et 31 juillet ?\n• Impôt sur le revenu : des millions de ménages vont toucher un virement dans les prochains jours\n• Vous avez trop payé d'impôts en 2025 ? L'administration fiscale va vous rembourser à partir de vendredi 24 juillet",
@@ -2035,7 +2062,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlWo9fT-hMTUS8xUCPLn41bF4UfFNzrUWmMJvNUVlhSjIVbUx0_v0EmqjbtbA",
-      "rank": 76
+      "rank": 77
     },
     {
       "title": "रणबीर कपूर",
@@ -2062,7 +2089,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpnsJgzBgDPbC6k4nARAqvgcTysd5Azd6g0-Ows8pCo6LNGD-GJdB4rTI19zw",
-      "rank": 77
+      "rank": 78
     },
     {
       "title": "india 2027 odi squad predictions",
@@ -2089,7 +2116,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmxBhAdjfX0nWFtkrPpsccGEwzK1flYWCbtHaOWnN6vaDfd15-gqOyecG75BQ",
-      "rank": 78
+      "rank": 79
     },
     {
       "title": "ಇಕ್ಬಾಲ್ ಅನ್ಸಾರಿ",
@@ -2110,12 +2137,12 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3nfyTZ1-AY2PbCi42GUtJGWuI7d2OVQeOBM-2xwei4hxmlEwv-DEzxenZVU",
-      "rank": 79
+      "rank": 80
     },
     {
       "title": "सुप्रीम कोर्ट",
       "traffic": "200+",
-      "summary": "• सोनम रघुवंशी को फिर जाना होगा जेल, सुप्रीम कोर्ट ने रद्द की जमानत\n• सोनम रघुवंशी की जमानत पर आज फैसला: पिछली सुनवाई में सुप्रीम कोर्ट ने दी थी सरेंडर की सलाह; आज दोनों विकल्पो...\n• 'सरेंडर करो या...', सुप्रीम कोर्ट ने हनीमून कांड की आरोपी सोनम रघुवंशी को दिए दो ऑप्शन, 23 जुलाई को हो जाएगा फैसला",
+      "summary": "• सोनम रघुवंशी को फिर जाना होगा जेल, सुप्रीम कोर्ट ने रद्द की जमानत\n• सोनम रघुवंशी की जमानत पर आज फैसला: पिछली सुनवाई में सुप्रीम कोर्ट ने दी थी सरेंडर की सलाह; आज दोनों विकल्पो...\n• ‘सरेंडर करो या जमानत रद्द कर देंगे’, सुप्रीम कोर्ट ने सोनम रघुवंशी को दी वार्निंग",
       "news": [
         {
           "title": "सोनम रघुवंशी को फिर जाना होगा जेल, सुप्रीम कोर्ट ने रद्द की जमानत",
@@ -2130,14 +2157,14 @@
           "source": "Dainik Bhaskar"
         },
         {
-          "title": "'सरेंडर करो या...', सुप्रीम कोर्ट ने हनीमून कांड की आरोपी सोनम रघुवंशी को दिए दो ऑप्शन, 23 जुलाई को हो जाएगा फैसला",
+          "title": "‘सरेंडर करो या जमानत रद्द कर देंगे’, सुप्रीम कोर्ट ने सोनम रघुवंशी को दी वार्निंग",
           "snippet": "",
-          "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/indore/surrender-or-merit-supreme-court-gives-two-options-to-sonam-raghuvanshi-accused-in-honeymoon-scandal-verdict-expected-on-july-23/articleshow/132534420.cms",
-          "source": "Navbharat Times"
+          "url": "https://www.jansatta.com/legal-news/surrender-or-your-bail-will-be-cancelled-supreme-court-gives-sonam-raghuvanshi-two-options/4628217/",
+          "source": "Jansatta"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuB8wLvmf72eVSgkS052n3IFs7v0pjBs3TJ6p7YKFDGQZd0SlBdtnTekS-2OM",
-      "rank": 80
+      "rank": 81
     },
     {
       "title": "निवेशक",
@@ -2164,7 +2191,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6KzW7ZzCcfmYmvH7qcV3-2-7EMuKqf1b4aqd8OJYoA6JmLpDEUsQlquXMN9o",
-      "rank": 81
+      "rank": 82
     },
     {
       "title": "പണം",
@@ -2191,7 +2218,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqDxvYugVygo9xWF8bw2pbnCuGWMMEsvyyf4Iy6nIzo_qn3DT6IzqXJJYio40",
-      "rank": 82
+      "rank": 83
     },
     {
       "title": "ਰਾਸ਼ਨ ਕਾਰਡ",
@@ -2218,19 +2245,13 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqgLBnQjZI6MQfymXPm26H6qnmhqDGEIoHHoysloBU0nzfSEjY3lU-984bSOI",
-      "rank": 83
+      "rank": 84
     },
     {
       "title": "ప్రకాష్ రాజ్",
       "traffic": "1000+",
-      "summary": "• నటుడు ప్రకాష్‌ రాజ్‌కు భూ ఆక్రమణల నోటీసు\n• Prakash Raj: ఇది మరో స్వతంత్ర పోరాటం.. వాళ్లకు నేను అండగా నిలబడతా: ప్రకాష్ రాజ్ ట్వీట్ | Hindustan Times Telugu\n• కాక్రోచ్ పార్టీకి మద్దతుగా ప్రకాష్ రాజ్",
+      "summary": "• Prakash Raj: ఇది మరో స్వతంత్ర పోరాటం.. వాళ్లకు నేను అండగా నిలబడతా: ప్రకాష్ రాజ్ ట్వీట్ | Hindustan Times Telugu\n• కాక్రోచ్ పార్టీకి మద్దతుగా ప్రకాష్ రాజ్\n• అవసరమైతే దిల్లీకి వెళ్లి సీజేపీ ఆందోళనలో పాల్గొంటా",
       "news": [
-        {
-          "title": "నటుడు ప్రకాష్‌ రాజ్‌కు భూ ఆక్రమణల నోటీసు",
-          "snippet": "",
-          "url": "https://www.sakshi.com/telugu-news/national/10-acres-encroached-land-reclaimed-vagamon-survey-notice-issued-prakash-raj",
-          "source": "Sakshi"
-        },
         {
           "title": "Prakash Raj: ఇది మరో స్వతంత్ర పోరాటం.. వాళ్లకు నేను అండగా నిలబడతా: ప్రకాష్ రాజ్ ట్వీట్ | Hindustan Times Telugu",
           "snippet": "",
@@ -2242,20 +2263,26 @@
           "snippet": "",
           "url": "https://www.sakshi.com/video/news-videos/praksh-raj-ar-jantar-mantar-2850911",
           "source": "Sakshi"
+        },
+        {
+          "title": "అవసరమైతే దిల్లీకి వెళ్లి సీజేపీ ఆందోళనలో పాల్గొంటా",
+          "snippet": "",
+          "url": "https://www.eenadu.net/telugu-news/india/general/0799/126129332",
+          "source": "Eenadu"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvmaWHzuZzkeLbkL6wz6FJdOQBgkTw7yZQrsoffCsR_vWW9B8ODbq_F3pVpE8",
-      "rank": 84
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_Rr7jDTiOiJuh3_q199SJeXcLxRhh-fRvkEjWyp9QuPhGdOL262qzbXFws_4",
+      "rank": 85
     },
     {
       "title": "രാഷ്ട്രീയം",
       "traffic": "5000+",
-      "summary": "• ‘പ്രതിപക്ഷ നേതാവിനെ എടുത്തെറിഞ്ഞു; രാജ്യത്ത് ഇപ്പോള്‍ നടക്കുന്നത് അടിയന്തരാവസ്ഥ’\n• ഡൽഹി വിദ്യാർത്ഥി സമരത്തെ അനുകൂലിച്ച ടൊവിനോ യുടെ വീടിന് മുന്നിൽ വായമൂടികെട്ടി യുവമോർച്ച\n• 'അവർ നാടിന്റെ വാ​ഗ്ദാനം, കേൾക്കേണ്ടത് ഭരണകൂടത്തിന്‍റെ ഉത്തരവാദിത്തം'; വിദ്യാർത്ഥികൾക്ക് പിന്തുണയെന്ന് ആസിഫ് അലി",
+      "summary": "• അതൊന്നും അറിയാതെയാണ് മായയുടെ പ്രതികരണം, സമരത്തിന് വിദേശ ഫണ്ടിങ്, ചീത്തവിളിച്ചാലും പറയാനുള്ളത് ഞാൻ പറയും: മേജർ രവി\n• ഡൽഹി വിദ്യാർത്ഥി സമരത്തെ അനുകൂലിച്ച ടൊവിനോ യുടെ വീടിന് മുന്നിൽ വായമൂടികെട്ടി യുവമോർച്ച\n• 'അവർ നാടിന്റെ വാ​ഗ്ദാനം, കേൾക്കേണ്ടത് ഭരണകൂടത്തിന്‍റെ ഉത്തരവാദിത്തം'; വിദ്യാർത്ഥികൾക്ക് പിന്തുണയെന്ന് ആസിഫ് അലി",
       "news": [
         {
-          "title": "‘പ്രതിപക്ഷ നേതാവിനെ എടുത്തെറിഞ്ഞു; രാജ്യത്ത് ഇപ്പോള്‍ നടക്കുന്നത് അടിയന്തരാവസ്ഥ’",
+          "title": "അതൊന്നും അറിയാതെയാണ് മായയുടെ പ്രതികരണം, സമരത്തിന് വിദേശ ഫണ്ടിങ്, ചീത്തവിളിച്ചാലും പറയാനുള്ളത് ഞാൻ പറയും: മേജർ രവി",
           "snippet": "",
-          "url": "https://www.manoramaonline.com/news/latest-news/2026/07/22/joju-george-declares-india-under-emergency-amidst-protests.html",
+          "url": "https://www.manoramaonline.com/movies/movie-news/2026/07/23/neet-protest-major-ravi-analysis.html",
           "source": "Manorama Online"
         },
         {
@@ -2271,8 +2298,8 @@
           "source": "Asianet News Malayalam"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTui9IGa5RNs6_KepyU4kyot9cZHr3pKAnoSTDXA0ojbrV311Jlka4Q0EhwIiQ",
-      "rank": 85
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9i3TEwURPCO42zYgJrVNlDCPBSKlcsHWy5SHxNOKECsz23AgZjppqV_s2cuE",
+      "rank": 86
     },
     {
       "title": "mundo aberto",
@@ -2299,7 +2326,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8rCG9e6oagIaotd0L7zEeIW6uKkFCerRYzTqz1oYA4raXALOjvFfjAWfeOJM",
-      "rank": 86
+      "rank": 87
     },
     {
       "title": "peter jackson",
@@ -2314,7 +2341,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx_ABFVhjHHBtD9X5aXKhVBG8dmi6qZlShnN3Ac2sN7Q84OhyGX1rOJ6RQgxI",
-      "rank": 87
+      "rank": 88
     },
     {
       "title": "leandra leal",
@@ -2341,7 +2368,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPufDKLFab10tCYGZUOSoIgdi1ytn9y5WJzYYzgF4Ga7EklaT4naIJG9ZKc6g",
-      "rank": 88
+      "rank": 89
     },
     {
       "title": "bolivar",
@@ -2352,7 +2379,7 @@
           "title": "Luís Castro testa time misto do Grêmio antes de partida contra o Bolívar",
           "snippet": "",
           "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/07/22/luis-castro-testa-time-misto-do-gremio-antes-de-partida-contra-o-bolivar.ghtml",
-          "source": "ge"
+          "source": "GE"
         },
         {
           "title": "Bolívar x Grêmio: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Sul-Americana",
@@ -2368,7 +2395,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDWHg47v4h05165ddACQwbUVaBprO0i2sT-nwAKxuzTzZzHAmrbegjjZHzhkk",
-      "rank": 89
+      "rank": 90
     },
     {
       "title": "atlasintel",
@@ -2395,33 +2422,6 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFGDwLiCIi-TwbvAt7KSwgJwfhreAN5PUbA7bcIaWEJ2qG8rtvivKtWjSQPTw",
-      "rank": 90
-    },
-    {
-      "title": "danilo luiz da silva",
-      "traffic": "500+",
-      "summary": "• Palmeiras aumenta proposta por Danilo e aguarda decisão do Botafogo\n• Botafogo pretende usar Danilo Santos no Brasileiro e pode frustrar planos do Palmeiras\n• Auxiliar de Abel comenta negociação do Palmeiras por Danilo e defende elenco: 'Melhores são nossos'",
-      "news": [
-        {
-          "title": "Palmeiras aumenta proposta por Danilo e aguarda decisão do Botafogo",
-          "snippet": "",
-          "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/07/22/palmeiras-aumenta-proposta-por-danilo-e-aguarda-decisao-do-botafogo.ghtml",
-          "source": "GE"
-        },
-        {
-          "title": "Botafogo pretende usar Danilo Santos no Brasileiro e pode frustrar planos do Palmeiras",
-          "snippet": "",
-          "url": "https://esportes.r7.com/jogada-10/botafogo-pretende-usar-danilo-santos-no-brasileiro-e-pode-frustrar-planos-do-palmeiras-22072026/",
-          "source": "R7 Esportes"
-        },
-        {
-          "title": "Auxiliar de Abel comenta negociação do Palmeiras por Danilo e defende elenco: 'Melhores são nossos'",
-          "snippet": "",
-          "url": "https://www.lance.com.br/palmeiras/auxiliar-de-abel-comenta-negociacoes-do-palmeiras-por-danilo-e-defende-elenco-melhores-sao-nossos.html",
-          "source": "LANCE!"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQOwY5BrzLkRWazBXogRl0N0dYT6uibXL7YffgH0Ika-hmNBtvm98RzXc4Rpk",
       "rank": 91
     },
     {
@@ -2527,6 +2527,33 @@
       "rank": 95
     },
     {
+      "title": "john kennedy",
+      "traffic": "100+",
+      "summary": "• Pós-Copa deve acelerar mercado, e Fluminense tem expectativa de receber propostas; veja o cenário\n• Fluminense aguarda propostas, mas prioriza competitividade\n• Fluminense prioriza manter time competitivo em meio a propostas",
+      "news": [
+        {
+          "title": "Pós-Copa deve acelerar mercado, e Fluminense tem expectativa de receber propostas; veja o cenário",
+          "snippet": "",
+          "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/07/22/pos-copa-deve-acelerar-mercado-e-fluminense-tem-expectativa-de-receber-propostas-veja-o-cenario.ghtml",
+          "source": "ge"
+        },
+        {
+          "title": "Fluminense aguarda propostas, mas prioriza competitividade",
+          "snippet": "",
+          "url": "https://www.terra.com.br/esportes/fluminense/fluminense-aguarda-propostas-mas-prioriza-competitividade,6709d3aea1def9438683e221d7e5025a79vnc5qp.html",
+          "source": "Terra"
+        },
+        {
+          "title": "Fluminense prioriza manter time competitivo em meio a propostas",
+          "snippet": "",
+          "url": "https://odia.ig.com.br/esporte/fluminense/2026/07/7280558-fluminense-prioriza-manter-time-competitivo-em-meio-a-propostas.html",
+          "source": "O Dia"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbbZk97qB0fWLCvumJcLRySqdVu3EezBkuFOZMWdugNqmaiEsLNBI2dDImSxQ",
+      "rank": 96
+    },
+    {
       "title": "金 州 勇士",
       "traffic": "200+",
       "summary": "• 勇士为库里开出2年1.367亿 库里有望完成签约\n• 二十年一人一城？库里8月30日有资格续约最高2年1.367亿的合同\n• 场均26分拿7100万！库里到底值不值这个价？数据告诉你答案",
@@ -2551,7 +2578,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJRdXIprc2cl6OhrvC3dJRmZvlrW0BrWOxCN0bqm0GRwN-F9ZwcsMhHisx2c",
-      "rank": 96
+      "rank": 97
     },
     {
       "title": "今周刊",
@@ -2578,7 +2605,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO-8Mxtw6liGlxZv3Too0_w-gEqdOOTBsYYw7SkQUdzBASZcNVYqApxCDW9DE",
-      "rank": 97
+      "rank": 98
     },
     {
       "title": "旅遊 補助",
@@ -2586,7 +2613,7 @@
       "summary": "'旅遊 補助' 검색 급증 이슈입니다.",
       "news": [],
       "image": "",
-      "rank": 98
+      "rank": 99
     },
     {
       "title": "書記官",
@@ -2594,33 +2621,6 @@
       "summary": "'書記官' 검색 급증 이슈입니다.",
       "news": [],
       "image": "",
-      "rank": 99
-    },
-    {
-      "title": "緯 創 目標 價",
-      "traffic": "1000+",
-      "summary": "• 【Follow法人】外資掃貨緯創2.4萬張！3檔主動式ETF也獲青睞 逆勢出脫華邦電力積電\n• 外資買超173億元、終止連13賣 買超前十名中竟僅1檔電子股\n• 盤勢分析》籌碼有待沉澱 季線上震盪",
-      "news": [
-        {
-          "title": "【Follow法人】外資掃貨緯創2.4萬張！3檔主動式ETF也獲青睞 逆勢出脫華邦電力積電",
-          "snippet": "",
-          "url": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E6%8E%83%E8%B2%A8%E7%B7%AF%E5%89%B524%E8%90%AC%E5%BC%B5%EF%BC%813%E6%AA%94%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E4%B9%9F%E7%8D%B2%E9%9D%92%E7%9D%9E-%E9%80%86%E5%8B%A2%E5%87%BA%E8%84%AB%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%8A%9B%E7%A9%8D%E9%9B%BB-071209726.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "外資買超173億元、終止連13賣 買超前十名中竟僅1檔電子股",
-          "snippet": "",
-          "url": "https://udn.com/news/story/7251/9644510",
-          "source": "UDN"
-        },
-        {
-          "title": "盤勢分析》籌碼有待沉澱 季線上震盪",
-          "snippet": "",
-          "url": "https://ec.ltn.com.tw/article/paper/1763678",
-          "source": "自由財經"
-        }
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5D3osJmNYUUArsx_eO7EXIJw1sNjBOdFDqn0z4sknZe8DAFQy75jaPSZiCY",
       "rank": 100
     }
   ]
