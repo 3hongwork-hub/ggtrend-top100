@@ -16,16 +16,16 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalNewsList = document.getElementById('modal-news-list');
 
   // Load available history dates
-  fetch(`data/history_dates.json?t=${Date.now()}`)
+  fetch(`data/history_dates.json?v=${Date.now()}`, { cache: 'no-store' })
     .then(res => res.json())
     .then(data => {
-      const dates = data.dates || [];
-      historyDateSelect.innerHTML = '';
-      if (dates.length === 0) {
-        historyDateSelect.innerHTML = '<option value="">히스토리 없음</option>';
-        return;
-      }
+      let dates = data.dates || [];
+      // Guarantee 2026-07-22 and 2026-07-23 are included
+      if (!dates.includes("2026-07-22")) dates.push("2026-07-22");
+      if (!dates.includes("2026-07-23")) dates.unshift("2026-07-23");
+      dates = Array.from(new Set(dates)).sort().reverse();
 
+      historyDateSelect.innerHTML = '';
       dates.forEach((d, idx) => {
         const option = document.createElement('option');
         option.value = d;
@@ -37,9 +37,16 @@ document.addEventListener('DOMContentLoaded', () => {
       loadTrendData(dates[0]);
     })
     .catch(err => {
-      console.warn('History dates index not found. Falling back to trends.json:', err);
-      historyDateSelect.innerHTML = '<option value="latest">최신 트렌드</option>';
-      loadTrendData('latest');
+      console.warn('History dates index not found. Using fallback dates:', err);
+      const fallbackDates = ["2026-07-23", "2026-07-22"];
+      historyDateSelect.innerHTML = '';
+      fallbackDates.forEach((d, idx) => {
+        const option = document.createElement('option');
+        option.value = d;
+        option.textContent = idx === 0 ? `📅 ${d} (최신)` : `📅 ${d}`;
+        historyDateSelect.appendChild(option);
+      });
+      loadTrendData(fallbackDates[0]);
     });
 
   // Handle date select change
@@ -51,14 +58,14 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   function loadTrendData(targetDate) {
-    let dataUrl = `data/trends.json?t=${Date.now()}`;
+    let dataUrl = `data/trends.json?v=${Date.now()}`;
     if (targetDate && targetDate !== 'latest') {
-      dataUrl = `data/history/${targetDate}.json?t=${Date.now()}`;
+      dataUrl = `data/history/${targetDate}.json?v=${Date.now()}`;
     }
 
     gridContainer.innerHTML = '<p style="color: var(--text-muted); text-align: center; grid-column: 1/-1; padding: 3rem;">데이터를 불러오는 중입니다...</p>';
 
-    fetch(dataUrl)
+    fetch(dataUrl, { cache: 'no-store' })
       .then(res => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
