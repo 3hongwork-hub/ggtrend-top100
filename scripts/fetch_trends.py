@@ -209,7 +209,7 @@ def update_readme():
 
 def main():
     os.makedirs("_posts", exist_ok=True)
-    os.makedirs("data", exist_ok=True)
+    os.makedirs("data/history", exist_ok=True)
 
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     print(f"Fetching Google Trends RSS data for {today_str}...")
@@ -217,8 +217,9 @@ def main():
     trends = extract_top_100_trends()
     print(f"Fetched {len(trends)} trend items.")
 
-    # Save trends.json for Web UI
+    # Save trends.json for Web UI (latest)
     data_payload = {
+        "date": today_str,
         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "count": len(trends),
         "trends": trends
@@ -226,6 +227,26 @@ def main():
     with open("data/trends.json", "w", encoding="utf-8") as f:
         json.dump(data_payload, f, ensure_ascii=False, indent=2)
     print("Saved data/trends.json")
+
+    # Save daily history file data/history/YYYY-MM-DD.json
+    history_filepath = f"data/history/{today_str}.json"
+    with open(history_filepath, "w", encoding="utf-8") as f:
+        json.dump(data_payload, f, ensure_ascii=False, indent=2)
+    print(f"Saved {history_filepath}")
+
+    # Update history_dates.json
+    history_files = glob.glob("data/history/*.json")
+    available_dates = []
+    for hf in history_files:
+        basename = os.path.basename(hf)
+        date_match = re.search(r"(\d{4}-\d{2}-\d{2})", basename)
+        if date_match:
+            available_dates.append(date_match.group(1))
+    available_dates.sort(reverse=True)
+
+    with open("data/history_dates.json", "w", encoding="utf-8") as f:
+        json.dump({"dates": available_dates}, f, ensure_ascii=False, indent=2)
+    print("Updated data/history_dates.json")
 
     # Generate Markdown Post for _posts
     post_filename = f"_posts/{today_str}-google-trends-top100.md"

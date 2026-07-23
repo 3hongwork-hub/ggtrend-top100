@@ -1,9 +1,13 @@
-// 구글 트렌드 100 데이터를 로드하고 검색, 필터, 모달 및 뷰 모드를 제어하는 프론트엔드 스크립트
+// 구글 트렌드 100 데이터 및 과거 날짜 히스토리를 로드하고 검색, 필터, 모달을 제어하는 프론트엔드 스크립트
 document.addEventListener('DOMContentLoaded', () => {
   let allTrends = [];
   const gridContainer = document.getElementById('grid-container');
   const searchInput = document.getElementById('search-input');
   const updateTimeElem = document.getElementById('update-time');
+  const historyDateSelect = document.getElementById('history-date-select');
+  const headerDateElem = document.getElementById('header-date');
+  const heroDateElem = document.getElementById('hero-date');
+
   const modalOverlay = document.getElementById('modal-overlay');
   const modalClose = document.getElementById('modal-close');
   const modalTitle = document.getElementById('modal-title');
@@ -11,31 +15,76 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalSummary = document.getElementById('modal-summary');
   const modalNewsList = document.getElementById('modal-news-list');
 
-  // Load trends.json
-  fetch('data/trends.json')
+  // Load available history dates
+  fetch('data/history_dates.json')
     .then(res => res.json())
     .then(data => {
-      allTrends = data.trends || [];
-      
-      const now = new Date();
-      const dateStrShort = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
-      const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
-      const dateStrFull = `${now.getFullYear()}년 ${now.getMonth() + 1}월 ${now.getDate()}일 (${weekdays[now.getDay()]})`;
-
-      const headerDateElem = document.getElementById('header-date');
-      const heroDateElem = document.getElementById('hero-date');
-      if (headerDateElem) headerDateElem.textContent = dateStrShort;
-      if (heroDateElem) heroDateElem.textContent = dateStrFull;
-
-      if (updateTimeElem && data.updated_at) {
-        updateTimeElem.textContent = `최종 업데이트: ${data.updated_at} (KST)`;
+      const dates = data.dates || [];
+      historyDateSelect.innerHTML = '';
+      if (dates.length === 0) {
+        historyDateSelect.innerHTML = '<option value="">히스토리 없음</option>';
+        return;
       }
-      renderTrends(allTrends);
+
+      dates.forEach((d, idx) => {
+        const option = document.createElement('option');
+        option.value = d;
+        option.textContent = idx === 0 ? `📅 ${d} (최신)` : `📅 ${d}`;
+        historyDateSelect.appendChild(option);
+      });
+
+      // Default load latest date
+      loadTrendData(dates[0]);
     })
     .catch(err => {
-      console.error('Failed to load trends data:', err);
-      gridContainer.innerHTML = '<p style="color: #ef4444; text-align: center; grid-column: 1/-1;">데이터를 불러오는데 실패했습니다.</p>';
+      console.warn('History dates index not found. Falling back to trends.json:', err);
+      historyDateSelect.innerHTML = '<option value="latest">최신 트렌드</option>';
+      loadTrendData('latest');
     });
+
+  // Handle date select change
+  historyDateSelect.addEventListener('change', (e) => {
+    const selectedDate = e.target.value;
+    if (selectedDate) {
+      loadTrendData(selectedDate);
+    }
+  });
+
+  function loadTrendData(targetDate) {
+    let dataUrl = 'data/trends.json';
+    if (targetDate && targetDate !== 'latest') {
+      dataUrl = `data/history/${targetDate}.json`;
+    }
+
+    gridContainer.innerHTML = '<p style="color: var(--text-muted); text-align: center; grid-column: 1/-1; padding: 3rem;">데이터를 불러오는 중입니다...</p>';
+
+    fetch(dataUrl)
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
+      .then(data => {
+        allTrends = data.trends || [];
+        
+        // Update displayed dates
+        const dateObj = data.date ? new Date(data.date) : new Date();
+        const dateStrShort = `${dateObj.getFullYear()}.${String(dateObj.getMonth() + 1).padStart(2, '0')}.${String(dateObj.getDate()).padStart(2, '0')}`;
+        const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
+        const dateStrFull = `${dateObj.getFullYear()}년 ${dateObj.getMonth() + 1}월 ${dateObj.getDate()}일 (${weekdays[dateObj.getDay()]})`;
+
+        if (headerDateElem) headerDateElem.textContent = dateStrShort;
+        if (heroDateElem) heroDateElem.textContent = dateStrFull;
+
+        if (updateTimeElem && data.updated_at) {
+          updateTimeElem.textContent = `최종 수집: ${data.updated_at} (KST)`;
+        }
+        renderTrends(allTrends);
+      })
+      .catch(err => {
+        console.error('Failed to load trends data:', err);
+        gridContainer.innerHTML = '<p style="color: #ef4444; text-align: center; grid-column: 1/-1; padding: 3rem;">선택하신 날짜의 트렌드 데이터를 불러올 수 없습니다.</p>';
+      });
+  }
 
   function renderTrends(trends) {
     gridContainer.innerHTML = '';

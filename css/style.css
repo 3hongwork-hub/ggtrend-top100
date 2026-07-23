@@ -100,6 +100,44 @@ header {
   flex-wrap: wrap;
 }
 
+.date-select-box {
+  position: relative;
+}
+
+.date-select-box select {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-card);
+  padding: 0.6rem 2.2rem 0.6rem 2.3rem;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 0.9rem;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  transition: all 0.3s ease;
+  font-family: inherit;
+}
+
+.date-select-box select:focus, .date-select-box select:hover {
+  border-color: #a855f7;
+  background: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
+}
+
+.date-select-box select option {
+  background: #121826;
+  color: #fff;
+}
+
+.date-icon {
+  position: absolute;
+  left: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.9rem;
+  pointer-events: none;
+}
+
 .search-box {
   position: relative;
 }
