@@ -1,6 +1,8 @@
 name: Daily Google Trends Post & GitHub Pages Deployment
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     # 매일 한국 시간 오전 9시 (UTC 00:00) 실행
     - cron: '0 0 * * *'

@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalNewsList = document.getElementById('modal-news-list');
 
   // Load available history dates
-  fetch('data/history_dates.json')
+  fetch(`data/history_dates.json?t=${Date.now()}`)
     .then(res => res.json())
     .then(data => {
       const dates = data.dates || [];
@@ -51,9 +51,9 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   function loadTrendData(targetDate) {
-    let dataUrl = 'data/trends.json';
+    let dataUrl = `data/trends.json?t=${Date.now()}`;
     if (targetDate && targetDate !== 'latest') {
-      dataUrl = `data/history/${targetDate}.json`;
+      dataUrl = `data/history/${targetDate}.json?t=${Date.now()}`;
     }
 
     gridContainer.innerHTML = '<p style="color: var(--text-muted); text-align: center; grid-column: 1/-1; padding: 3rem;">데이터를 불러오는 중입니다...</p>';
