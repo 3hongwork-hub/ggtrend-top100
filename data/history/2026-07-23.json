@@ -1,24 +1,24 @@
 {
   "date": "2026-07-23",
-  "updated_at": "2026-07-23 07:57:19",
+  "updated_at": "2026-07-23 08:02:35",
   "count": 100,
   "trends": [
     {
       "title": "푸바오",
       "traffic": "1000+",
-      "summary": "• 생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'\n• ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’\n• 생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다",
+      "summary": "• ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’\n• 생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'\n• 생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다",
       "news": [
-        {
-          "title": "생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'",
-          "snippet": "",
-          "url": "https://v.daum.net/v/FLgndf2uZB",
-          "source": "Daum"
-        },
         {
           "title": "’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’",
           "snippet": "",
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20260723110321HDY",
           "source": "연합뉴스TV"
+        },
+        {
+          "title": "생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'",
+          "snippet": "",
+          "url": "https://v.daum.net/v/FLgndf2uZB",
+          "source": "Daum"
         },
         {
           "title": "생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다",
@@ -27,13 +27,13 @@
           "source": "동아일보"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwRK_JNm_D_rAxZrl9uf2gYLXDvh0LITE1EHvZ9DbjBU4TeFyqj-n4jFjqHo",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLnDHzMBYt7IG2n8nxa34Db50mf_C0tVjeUk99NyuTiHp_67N5JsxRUdRun5A",
       "rank": 1
     },
     {
       "title": "mlb",
       "traffic": "1000+",
-      "summary": "• Honeycutt family soaks in MLB All-Star festivities\n• Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ\n• 'That was a great ride': Boston's magical winning streak ends at 15",
+      "summary": "• Honeycutt family soaks in MLB All-Star festivities\n• Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage\n• Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ",
       "news": [
         {
           "title": "Honeycutt family soaks in MLB All-Star festivities",
@@ -42,16 +42,16 @@
           "source": "Mainstreet Daily News Gainesville"
         },
         {
+          "title": "Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage",
+          "snippet": "",
+          "url": "https://www.wruf.com/headlines/2026/07/15/newberry-slugger-florida-commit-tavis-honeycutt-showcases-power-on-mlb-all-star-stage/",
+          "source": "WRUF"
+        },
+        {
           "title": "Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ",
           "snippet": "",
           "url": "https://biz.chosun.com/en/en-sports/2026/07/23/XCVR5KKZXJBUTJZFEYU6S5ITJM/",
           "source": "Chosunbiz"
-        },
-        {
-          "title": "'That was a great ride': Boston's magical winning streak ends at 15",
-          "snippet": "",
-          "url": "https://www.mlb.com/news/red-sox-s-winning-streak-snapped-at-15",
-          "source": "MLB.com"
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUe61jjPqqt9EkBY__85Btydst0bSowUCKAduJ-PtlfonE1-6KcQiWewOTucc",
@@ -125,7 +125,7 @@
         {
           "title": "프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65%",
           "snippet": "",
-          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202607231104452414",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202607231104452414&s_hcd=",
           "source": "YTN 사이언스"
         },
         {
@@ -276,7 +276,7 @@
     {
       "title": "iran war",
       "traffic": "5000+",
-      "summary": "• Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks\n• Iran War: Houthis Open New Front in War By Targeting Ships in Red Sea\n• Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
+      "summary": "• Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks\n• Houthis Open New Front in Iran War By Targeting Ships in Red Sea\n• Houthis enforce Red Sea blockade, bringing fears of further economic disruption",
       "news": [
         {
           "title": "Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks",
@@ -285,16 +285,16 @@
           "source": "CNN"
         },
         {
-          "title": "Iran War: Houthis Open New Front in War By Targeting Ships in Red Sea",
+          "title": "Houthis Open New Front in Iran War By Targeting Ships in Red Sea",
           "snippet": "",
           "url": "https://www.bloomberg.com/news/articles/2026-07-23/houthis-open-new-front-in-iran-war-by-targeting-ships-in-red-sea",
           "source": "Bloomberg.com"
         },
         {
-          "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
+          "title": "Houthis enforce Red Sea blockade, bringing fears of further economic disruption",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers",
-          "source": "Al Jazeera"
+          "url": "https://www.washingtonpost.com/world/2026/07/21/ships-bound-saudi-arabia-turn-around-sign-new-red-sea-blockade/",
+          "source": "The Washington Post"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnbUpN_ooOR9RXdDBDp5C2XGS6LrgHPwjUG-uNum8gqeI7Lv3CFmDX3_YSfjA",
@@ -372,12 +372,12 @@
     {
       "title": "jana nayagan",
       "traffic": "500+",
-      "summary": "• Before ‘Jana Nayagan’: When an 18-year-old Vijay walked the halls of Loyola College\n• Jana Nayagan Review: Vijay In Full Command In Politically-Charged Mass Entertainer, Turns Farewell Film Into Fan Festival\n• 'Jana Nayagan' promotions go airborne as CM Vijay's film unveils stunning flying LED display ahead of Jul",
+      "summary": "• In Pictures: CM Vijay's 'Jana Nayagan' opens to fan frenzy\n• Jana Nayagan Review: Vijay In Full Command In Politically-Charged Mass Entertainer, Turns Farewell Film Into Fan Festival\n• 'Jana Nayagan' promotions go airborne as CM Vijay's film unveils stunning flying LED display ahead of Jul",
       "news": [
         {
-          "title": "Before ‘Jana Nayagan’: When an 18-year-old Vijay walked the halls of Loyola College",
+          "title": "In Pictures: CM Vijay's 'Jana Nayagan' opens to fan frenzy",
           "snippet": "",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/before-jana-nayagan-when-a-young-vijay-walked-the-halls-of-loyola/article71252283.ece",
+          "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-vijay-cm-vijay-h-vinoth-jana-nayagan-release-celebrations-tamil-nadu-joseph-vijay/article71256666.ece",
           "source": "The Hindu"
         },
         {
@@ -393,7 +393,7 @@
           "source": "The Times of India"
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKVsoF9LVEKZ31LfxRxaEVG-1n1sJa5_OnmKpJgUCCMQf0RoCq0Ys-va_Xg-I",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHzV7ush0GRp8fxEbh8vqXuINeknPb10lZP6k-wsB5E5EJuplXIMGjOlx4o98",
       "rank": 15
     },
     {
@@ -532,6 +532,87 @@
       "rank": 20
     },
     {
+      "title": "橋木太希",
+      "traffic": "200+",
+      "summary": "• 橋木太希は2027年3月20日まで1年間の騎乗停止\n• 橋木太希騎手、27年3月20日まで騎乗停止 裁定委員会で処分決定\n• 橋木太希騎手は「重大な非行」で１年間の騎乗停止 来年３月２０日まで…第２回裁定委員会で決定",
+      "news": [
+        {
+          "title": "橋木太希は2027年3月20日まで1年間の騎乗停止",
+          "snippet": "",
+          "url": "https://tospo-keiba.jp/breaking_news/73910",
+          "source": "東スポ競馬"
+        },
+        {
+          "title": "橋木太希騎手、27年3月20日まで騎乗停止 裁定委員会で処分決定",
+          "snippet": "",
+          "url": "https://www.sanspo.com/race/article/general/20260723-MPDLFLQLS5K55B22PIOGILWA5I/",
+          "source": "サンスポ"
+        },
+        {
+          "title": "橋木太希騎手は「重大な非行」で１年間の騎乗停止 来年３月２０日まで…第２回裁定委員会で決定",
+          "snippet": "",
+          "url": "https://sportsbull.jp/p/2382095/",
+          "source": "スポーツブル"
+        }
+      ],
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSakiCnlcTKMkkKhMTd081znvgTHocBMftbnfZyJ_CshPwyIynA0AKAhLSg1v4",
+      "rank": 21
+    },
+    {
+      "title": "犯罪",
+      "traffic": "100+",
+      "summary": "• 你的警觉，是击碎犯罪链条的关键一环\n• 反洗钱专项宣传 筑牢贵金属领域风...\n• 街头拆解洗钱圈套",
+      "news": [
+        {
+          "title": "你的警觉，是击碎犯罪链条的关键一环",
+          "snippet": "",
+          "url": "https://news.cnjiwang.com/gn/202607/4066061.html",
+          "source": "吉网"
+        },
+        {
+          "title": "反洗钱专项宣传 筑牢贵金属领域风...",
+          "snippet": "",
+          "url": "https://www.163.com/dy/article/L2FN2FER05568W0A.html",
+          "source": "手机网易网"
+        },
+        {
+          "title": "街头拆解洗钱圈套",
+          "snippet": "",
+          "url": "http://www.msn.com/zh-cn/news/other/%E8%A1%97%E5%A4%B4%E6%8B%86%E8%A7%A3%E6%B4%97%E9%92%B1%E5%9C%88%E5%A5%97/ar-AA27UKG0",
+          "source": "MSN"
+        }
+      ],
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg4QbX8mTijYdAtFGCmx20Jl3QZf_Q7-q34aaDGC3GgJYx8M2FlTkV-FPW40o",
+      "rank": 22
+    },
+    {
+      "title": "たける富士",
+      "traffic": "100+",
+      "summary": "• 「あの美人さん去年もいた」大相撲、“新・溜席の妖精”が降臨「紫ドレスの美人さん」「ニコニコでかわいい」（ABEMA TIMES）\n• 【実際の投稿】山根千佳、肩出し“暑さ対策”コーデ「かわいすぎ」\n• 「美人さんがいる」溜まり席に“個性的”な出で立ちで話題 「尊富士と紫コラボ」「姿勢もキレイ」ファン熱視線（ABEMA TIMES）",
+      "news": [
+        {
+          "title": "「あの美人さん去年もいた」大相撲、“新・溜席の妖精”が降臨「紫ドレスの美人さん」「ニコニコでかわいい」（ABEMA TIMES）",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/abematimes/sports/abematimes-10261449",
+          "source": "ｄメニューニュース"
+        },
+        {
+          "title": "【実際の投稿】山根千佳、肩出し“暑さ対策”コーデ「かわいすぎ」",
+          "snippet": "",
+          "url": "https://www.chunichi.co.jp/article/1285304",
+          "source": "中日新聞Web"
+        },
+        {
+          "title": "「美人さんがいる」溜まり席に“個性的”な出で立ちで話題 「尊富士と紫コラボ」「姿勢もキレイ」ファン熱視線（ABEMA TIMES）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/2892043c34d0d5d88a9e760d047e91c9ac614116",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGSd54NB8UIG2wqEZVVMdZQe4jSkr5z_eCEP-FIX1taCTkc-ChBQ9ESQQl-l8",
+      "rank": 23
+    },
+    {
       "title": "髙橋遥人",
       "traffic": "5000+",
       "summary": "• 【DeNA】藤浪晋太郎を登録抹消 前日22日は4年ぶりに甲子園で登板（日テレNEWS NNN）\n• 【ヤフコメで話題】「藤浪投手の降板時に阪神ファンから拍手」「課題克服への期待」 - 降板時のファンの反応と今後への声\n• 【阪神】藤川監督「ありがとうと伝えた」前半戦奮闘の髙橋遥人をねぎらう DeNAの藤浪晋太郎についても言及「西の野球ファンに見てもらえるってことは...」（2026年7月22日掲載）",
@@ -556,7 +637,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNrwnJMVpwIuTq8cRey2EaIgZRuK0u58-X-2s7S0I_NJiuZBuph5qycZqwWRQ",
-      "rank": 21
+      "rank": 24
     },
     {
       "title": "浜田敬子",
@@ -583,7 +664,34 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59NoslyRbpubyZRIEUpPAf9qKl-oIs2D2GxyDiOoKL8GgRTLTOnuVWyWI8qQ",
-      "rank": 22
+      "rank": 25
+    },
+    {
+      "title": "アスレチックス",
+      "traffic": "200+",
+      "summary": "• 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定\n• アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術\n• MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
+      "news": [
+        {
+          "title": "【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/65644d899e55e73592693551d220f67bc6739e8b",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術",
+          "snippet": "",
+          "url": "https://www.nikkansports.com/baseball/mlb/news/202607220000551.html",
+          "source": "日刊スポーツ"
+        },
+        {
+          "title": "MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
+          "snippet": "",
+          "url": "https://sportsbull.jp/p/2381526/",
+          "source": "スポーツブル"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWYBEETYaLjDEPxHc-hctSxQ4G5cHxEsggTjDNZV0qbKBPxkEuMCGpmK6L10",
+      "rank": 26
     },
     {
       "title": "風 薫る 直美",
@@ -610,34 +718,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx60VOIOho6hDPXZLlXzriHAAVk8n8aIxrUj-ig0hXDc3YKBpNGFNQwpjmxs4",
-      "rank": 23
-    },
-    {
-      "title": "アスレチックス",
-      "traffic": "200+",
-      "summary": "• 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定\n• アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術\n• MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
-      "news": [
-        {
-          "title": "【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/65644d899e55e73592693551d220f67bc6739e8b",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術",
-          "snippet": "",
-          "url": "https://www.nikkansports.com/m/baseball/mlb/news/202607220000551_m.html?mode=all",
-          "source": "日刊スポーツ"
-        },
-        {
-          "title": "MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
-          "snippet": "",
-          "url": "https://sportsbull.jp/p/2381526/",
-          "source": "スポーツブル"
-        }
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWYBEETYaLjDEPxHc-hctSxQ4G5cHxEsggTjDNZV0qbKBPxkEuMCGpmK6L10",
-      "rank": 24
+      "rank": 27
     },
     {
       "title": "フィギュアスケート",
@@ -664,7 +745,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLqMIIgs92w0_Pe9_Bmpeuej22PZTeTBszF4-j-WFr0BRzg2NAm1mx1hMTMuM",
-      "rank": 25
+      "rank": 28
     },
     {
       "title": "黒田博樹",
@@ -691,7 +772,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBxFAyX2ZO794ifR2xOa6ZnHVvO5q_dBOwUwxyUk-nw8Pau-cIuKkQO2Xbbw",
-      "rank": 26
+      "rank": 29
     },
     {
       "title": "御嶽海",
@@ -718,87 +799,6 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbUBizd3d54lV58ciXSDUoMFQB-lhXc22UqoaHR3L5jg5KlmMNqnS9ps1eBqA",
-      "rank": 27
-    },
-    {
-      "title": "リオネル・スカローニ",
-      "traffic": "200+",
-      "summary": "• メッシ 大会ＭＶＰ不選出にアルゼンチンで不満爆発「ロドリに賞を与えるのは屈辱だ」（東スポWEB）\n• アルゼンチン監督スカローニ「審判のせいでもない。スペインの方が優れていたと私たちは認めるべきなんだ」\n• 「この傷が癒えるには時間がかかる…」W杯連覇を逃したメッシが初めて想い語る…優勝スペインに「心から祝福したい」",
-      "news": [
-        {
-          "title": "メッシ 大会ＭＶＰ不選出にアルゼンチンで不満爆発「ロドリに賞を与えるのは屈辱だ」（東スポWEB）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/bb865e0d03635fe896f449cffcb722aefe14ca70",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "アルゼンチン監督スカローニ「審判のせいでもない。スペインの方が優れていたと私たちは認めるべきなんだ」",
-          "snippet": "",
-          "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/scaloni-football-soccer-argentina-20260722/1cwoyq05it1gr16hejv3fvqwys",
-          "source": "DAZN"
-        },
-        {
-          "title": "「この傷が癒えるには時間がかかる…」W杯連覇を逃したメッシが初めて想い語る…優勝スペインに「心から祝福したい」",
-          "snippet": "",
-          "url": "https://www.soccer-king.jp/news/world/wc/20260721/2185977.html",
-          "source": "サッカーキング"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmxFD052duP-EuTnQWVlif9gLh3f_igds_GMMFSe_7d_jiayWm-_9CdeotaBY",
-      "rank": 28
-    },
-    {
-      "title": "高木菜那",
-      "traffic": "2000+",
-      "summary": "• スピードスケート髙木美帆さんに国民栄誉賞を授与の方針 五輪女子最多通算10個のメダル\n• 髙木美帆さんに国民栄誉賞授与へ 授与式は来週28日で調整（FNNプライムオンライン（フジテレビ系））\n• 高木美帆さんに国民栄誉賞 政府、２８日にも表彰式",
-      "news": [
-        {
-          "title": "スピードスケート髙木美帆さんに国民栄誉賞を授与の方針 五輪女子最多通算10個のメダル",
-          "snippet": "",
-          "url": "https://tver.jp/episodes/epr66mfjg4",
-          "source": "TVer"
-        },
-        {
-          "title": "髙木美帆さんに国民栄誉賞授与へ 授与式は来週28日で調整（FNNプライムオンライン（フジテレビ系））",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/aa384d0e674c57b31509bfdde36c26fbc2526a3a",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "高木美帆さんに国民栄誉賞 政府、２８日にも表彰式",
-          "snippet": "",
-          "url": "https://www.jiji.com/sp/article?k=2026072201090&g=pol&p=20260722at86S&rel=pv",
-          "source": "時事ドットコム"
-        }
-      ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMu3vxATYX0sgIOSgPpq73VzBmqJ1iO8RmoY6EYM6wmCMJGeAe2AZtskSzQws",
-      "rank": 29
-    },
-    {
-      "title": "朝青龍",
-      "traffic": "200+",
-      "summary": "• 豊昇龍のいとこ、朝青龍のおいが勝ち越し決める、天狼星「落ち着いていたのが良かった」【大相撲】（デイリースポーツ）\n• 豊昇龍のいとこ、朝青龍のおいが勝ち越し決める、天狼星「落ち着いていたのが良かった」【大相撲】\n• 豊昇龍のいとこ、朝青龍のおいが勝ち越し決める、天狼星「落ち着いていたのが良かった」【大相撲】",
-      "news": [
-        {
-          "title": "豊昇龍のいとこ、朝青龍のおいが勝ち越し決める、天狼星「落ち着いていたのが良かった」【大相撲】（デイリースポーツ）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/ce230ae998f4fe67665ff3ccbced0c28fc900c3e",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "豊昇龍のいとこ、朝青龍のおいが勝ち越し決める、天狼星「落ち着いていたのが良かった」【大相撲】",
-          "snippet": "",
-          "url": "https://article.auone.jp/detail/1/6/12/265_12_r_20260721_1784628747598121",
-          "source": "au Webポータル"
-        },
-        {
-          "title": "豊昇龍のいとこ、朝青龍のおいが勝ち越し決める、天狼星「落ち着いていたのが良かった」【大相撲】",
-          "snippet": "",
-          "url": "https://sportsbull.jp/p/2380659/",
-          "source": "スポーツブル"
-        }
-      ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj16-3NESK8nFbqiNgdRQJDoZcAJgbZaaI_kHYzctWikugOxPIhVZN8S2f3bU",
       "rank": 30
     },
     {
@@ -1155,55 +1155,55 @@
     {
       "title": "spiderman",
       "traffic": "100+",
-      "summary": "• Kevin Feige On Adding Miles Morales To MCU After 'Spider-Verse' Ends\n• Marvel Chief Teases Miles Morales In The MCU\n• Marvel Boss Officially Confirms Spider-Man's New Replacement",
+      "summary": "• ▶️ Spider-Man: Brand New Day - Final Trailer\n• Sony releases one last trailer for Spider-Man: Brand New Day\n• ‘Spider-Man: Brand New Day’ Final Trailer Unveils Action-Packed New Footage of Mark Ruffalo’s Hulk Battling the Web-Slinger",
       "news": [
         {
-          "title": "Kevin Feige On Adding Miles Morales To MCU After 'Spider-Verse' Ends",
+          "title": "▶️ Spider-Man: Brand New Day - Final Trailer",
           "snippet": "",
-          "url": "https://deadline.com/2026/07/kevin-feige-wants-add-miles-morales-mcu-after-spider-verse-1237000938/",
-          "source": "Deadline"
+          "url": "https://www.imdb.com/video/vi809749273/",
+          "source": "IMDb"
         },
         {
-          "title": "Marvel Chief Teases Miles Morales In The MCU",
+          "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
           "snippet": "",
-          "url": "https://www.darkhorizons.com/marvel-chief-teases-miles-morales-in-the-mcu/",
-          "source": "Dark Horizons"
+          "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+          "source": "Ars Technica"
         },
         {
-          "title": "Marvel Boss Officially Confirms Spider-Man's New Replacement",
+          "title": "‘Spider-Man: Brand New Day’ Final Trailer Unveils Action-Packed New Footage of Mark Ruffalo’s Hulk Battling the Web-Slinger",
           "snippet": "",
-          "url": "https://collider.com/spider-man-miles-morales-mcu-confirmed-kevin-feige/",
-          "source": "Collider"
+          "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-final-trailer-hulk-battle-footage-1236817155/",
+          "source": "Variety"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvB991Wzwo_C7nGGKBM2iUN7PUOBtBFSYoABRBzLRqBth3gh3RP-T6WUpuA0s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHk5bD46w8YR0sZ5Z43KnehiXD5YXj1KeQ8OVKYWX9XlvVOECUothwNItPWQ",
       "rank": 44
     },
     {
       "title": "yellow warning - air quality",
-      "traffic": "5000+",
-      "summary": "• Smoky skies expected for Lethbridge & area Thursday\n• Smoke returns to Calgary skies as wildfire haze drifts south\n• Smoke might make its way into Calgary from B.C. later in the week",
+      "traffic": "2000+",
+      "summary": "• Extreme heat, wildfire smoke prompt weather warnings across B.C.\n• Heat and air quality warnings in effect for parts of Metro Vancouver, Fraser Valley\n• Smoke and heat warnings cover much of B.C. as Lytton reaches 40 degrees",
       "news": [
         {
-          "title": "Smoky skies expected for Lethbridge & area Thursday",
+          "title": "Extreme heat, wildfire smoke prompt weather warnings across B.C.",
           "snippet": "",
-          "url": "https://lethbridgenewsnow.com/2026/07/22/smoky-skies-expected-for-lethbridge-area-thursday-aqhi-forecasts-moderate-risk-of-5/",
-          "source": "Lethbridge News Now"
+          "url": "https://www.cbc.ca/news/canada/british-columbia/heat-smoke-weather-warnings-b-c-9.7279560",
+          "source": "CBC"
         },
         {
-          "title": "Smoke returns to Calgary skies as wildfire haze drifts south",
+          "title": "Heat and air quality warnings in effect for parts of Metro Vancouver, Fraser Valley",
           "snippet": "",
-          "url": "https://www.ctvnews.ca/calgary/article/smoke-returns-to-calgary-skies-as-wildfire-haze-drifts-south/",
-          "source": "CTV News"
+          "url": "https://vancouversun.com/news/heat-warning-parts-metro-vancouver-fraser-valley",
+          "source": "Vancouver Sun"
         },
         {
-          "title": "Smoke might make its way into Calgary from B.C. later in the week",
+          "title": "Smoke and heat warnings cover much of B.C. as Lytton reaches 40 degrees",
           "snippet": "",
-          "url": "https://calgaryherald.com/news/local-news/smoke-from-bc-wildfires-alberta",
-          "source": "Calgary Herald"
+          "url": "https://vancouver.citynews.ca/2026/07/22/smoke-and-heat-warnings-cover-much-of-b-c-as-lytton-reaches-40-degrees/",
+          "source": "CityNews Vancouver"
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx-8TqVNxuMk2t8xrrBBXxS8GbvZt9605bAnbBnXLCTNrOvRcDtmd6nKKQv-s",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCXFrgz4LMPibxrsAeLVYKSRIQiF2tmD9IT7oDGE81CDWRuMegfN2hvoSQFS8",
       "rank": 45
     },
     {
@@ -1263,28 +1263,28 @@
     {
       "title": "내일 날씨",
       "traffic": "200+",
-      "summary": "• 중부는 호우, 영호남은 폭염…전국 극과 극 '날씨주의보'(종합)\n• [속보] 제주 장마 19일에 끝났다…남부·중부 26∼27일 종료 예상\n• 이번 주말 마지막 장맛비···다음 주 본격 ‘가마솥더위’ 시작",
+      "summary": "• 주말 기점 장마 '끝'…다음주 전국 '폭염·열대야'\n• [뉴스12 날씨] 절기 ‘대서’, 중부 장맛비·남부는 폭염\n• [날씨] 경기 북부·강원 장맛비…남부는 폭염 속 소나기",
       "news": [
         {
-          "title": "중부는 호우, 영호남은 폭염…전국 극과 극 '날씨주의보'(종합)",
+          "title": "주말 기점 장마 '끝'…다음주 전국 '폭염·열대야'",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260723154328116",
-          "source": "Daum"
-        },
-        {
-          "title": "[속보] 제주 장마 19일에 끝났다…남부·중부 26∼27일 종료 예상",
-          "snippet": "",
-          "url": "https://news.nate.com/weather/view/20260723n14079",
+          "url": "https://news.nate.com/view/20260723n28446",
           "source": "네이트"
         },
         {
-          "title": "이번 주말 마지막 장맛비···다음 주 본격 ‘가마솥더위’ 시작",
+          "title": "[뉴스12 날씨] 절기 ‘대서’, 중부 장맛비·남부는 폭염",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260723150642004",
+          "url": "https://v.daum.net/v/20260723134418188",
           "source": "Daum"
+        },
+        {
+          "title": "[날씨] 경기 북부·강원 장맛비…남부는 폭염 속 소나기",
+          "snippet": "",
+          "url": "https://news.nate.com/weather/view/20260723n18809",
+          "source": "네이트"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGvuIzOApAns_8or5sHZFUWqRcr7bjF7_AMI9b6jxEwJRQg-qKiaRMS-C0v9w",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7pEBeP8lYWLOaWTiZd9M6PNkbdRy6t0nFR6D5l14wjbBVm88Ip-20zd5dW_Y",
       "rank": 48
     },
     {
@@ -1479,7 +1479,7 @@
     {
       "title": "flinders medical centre",
       "traffic": "500+",
-      "summary": "• Insect repellent release leaves 11 staff sick at major SA hospital\n• Hospital hit by insect repellent explosion\n• Hospital hit by hazmat emergency",
+      "summary": "• Insect repellent release leaves 11 staff sick at major SA hospital\n• Hospital hit by insect repellent explosion\n• Major evacuation at Flinders Medical Centre after chemical released inside facility, sparking hazmat response",
       "news": [
         {
           "title": "Insect repellent release leaves 11 staff sick at major SA hospital",
@@ -1494,10 +1494,10 @@
           "source": "News.com.au"
         },
         {
-          "title": "Hospital hit by hazmat emergency",
+          "title": "Major evacuation at Flinders Medical Centre after chemical released inside facility, sparking hazmat response",
           "snippet": "",
-          "url": "https://www.theaustralian.com.au/news/latest-news/adelaide-hospital-dealing-with-major-insect-repellent-emergency/news-story/3544b77eb923199cc33ef936f511b0a1",
-          "source": "The Australian"
+          "url": "https://7news.com.au/news/major-evacuation-at-flinders-medical-centre-after-bug-spray-released-inside-facility-sparking-hazmat-response-c-22619128",
+          "source": "7NEWS"
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxEMq0nRTNDYstkPD7rOtJLuavOYOyh7DwQumjGPmR9CgE2QRdRJrXxN8WPVI",
@@ -1531,6 +1531,33 @@
       "rank": 57
     },
     {
+      "title": "nestle aktie",
+      "traffic": "100+",
+      "summary": "• Lebensmittel: Nestlé findet Investor für Wassergeschäft\n• Nestle gliedert Wassergeschäft in Joint Venture aus\n• Nestlé trennt sich vom Wasser: Perrier & Co. in 50:50-Joint Venture",
+      "news": [
+        {
+          "title": "Lebensmittel: Nestlé findet Investor für Wassergeschäft",
+          "snippet": "",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/lebensmittel-nestle-findet-investor-fuer-wassergeschaeft/100241717.html",
+          "source": "Handelsblatt"
+        },
+        {
+          "title": "Nestle gliedert Wassergeschäft in Joint Venture aus",
+          "snippet": "",
+          "url": "https://www.t-online.de/finanzen/boerse/ticker/nestle-gliedert-wassergeschaeft-in-joint-venture-aus/0DB9EE006945BD03/",
+          "source": "T-Online"
+        },
+        {
+          "title": "Nestlé trennt sich vom Wasser: Perrier & Co. in 50:50-Joint Venture",
+          "snippet": "",
+          "url": "https://www.wallstreet-online.de/nachricht/21142061-nestle-trennt-wasser-perrier-co-50-50-joint-venture",
+          "source": "Wallstreet Online"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpRWf3GEiWG998UVRQsq8n8nWw9FrZIey33o_msuuN34hvpQSVnQvLaQGlomU",
+      "rank": 58
+    },
+    {
       "title": "b1 bomber",
       "traffic": "500+",
       "summary": "• Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait\n• U.S. deploys B-1 bomber as attacks on Iran intensify\n• Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen",
@@ -1555,12 +1582,12 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo0a_ax15BWAhgcyIimQNSh0Sdw0tNZS_lcWqq0a6LwZtgHZWyBox44WvNyLM",
-      "rank": 58
+      "rank": 59
     },
     {
       "title": "boeing 737 max",
       "traffic": "200+",
-      "summary": "• Zwei Boeing 737 Max nach nur fünf Monaten im Dienst verschrottet\n• Fünf Monate im Dienst, schon verschrottet Boeing zwei 737\n• Boeing and Airbus prepare for next narrow-body battle – but airlines aren’t pushing for new jets yet",
+      "summary": "• Zwei Boeing 737 Max nach nur fünf Monaten im Dienst verschrottet\n• Fünf Monate im Dienst, schon verschrottet Boeing zwei 737\n• Licensable picture: People lined up to take a tour of Southwest's Boeing 737 MAX 8 July 22.",
       "news": [
         {
           "title": "Zwei Boeing 737 Max nach nur fünf Monaten im Dienst verschrottet",
@@ -1575,14 +1602,14 @@
           "source": "FOCUS online"
         },
         {
-          "title": "Boeing and Airbus prepare for next narrow-body battle – but airlines aren’t pushing for new jets yet",
+          "title": "Licensable picture: People lined up to take a tour of Southwest's Boeing 737 MAX 8 July 22.",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/07/21/boeing-airbus-narrow-body-planes-deliveries-737max-a320.html",
-          "source": "CNBC"
+          "url": "https://www.reutersconnect.com/item/people-lined-up-to-take-a-tour-of-southwests-boeing-737-max-8-july-22/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk0MzE2NDg",
+          "source": "Reuters Connect"
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT48tmy3exBBrItPHO0_fUwPR8A70OSU4AzmvAP1zDM0zQTwVWQgPfpsbJl2zg",
-      "rank": 59
+      "rank": 60
     },
     {
       "title": "kevin kampl",
@@ -1603,7 +1630,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSSkEfW2vof699_CdE0AD8fm_m_7xLWAcvuVtB87NObpoxcefq_9ya1gIk5sg",
-      "rank": 60
+      "rank": 61
     },
     {
       "title": "robben",
@@ -1630,7 +1657,34 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5zcmuy1h9QLfhH9qDglEqP6o8GghFY7wAjcDLl5gNjXJmxelq4cWWNHQw0UA",
-      "rank": 61
+      "rank": 62
+    },
+    {
+      "title": "bonuszahlung",
+      "traffic": "1000+",
+      "summary": "• Neuer 500-Euro-Bonus - Auszahlung ab jetzt für viele möglich\n• Freiwilliger „Bonus“ - 500-Euro-Mitarbeiterprämie kommt steuerfrei\n• Mitarbeiterprämie: 500-Euro-Bonus kommt steuerfrei",
+      "news": [
+        {
+          "title": "Neuer 500-Euro-Bonus - Auszahlung ab jetzt für viele möglich",
+          "snippet": "",
+          "url": "https://www.finanz.at/news/mitarbeiterpraemie-500-euro-fix-11528/",
+          "source": "Finanz.at"
+        },
+        {
+          "title": "Freiwilliger „Bonus“ - 500-Euro-Mitarbeiterprämie kommt steuerfrei",
+          "snippet": "",
+          "url": "https://www.krone.at/4229003",
+          "source": "Kronen Zeitung"
+        },
+        {
+          "title": "Mitarbeiterprämie: 500-Euro-Bonus kommt steuerfrei",
+          "snippet": "",
+          "url": "https://kurier.at/wirtschaft/mitarbeiterpraemie-bonus-500-euro-steuern/403177668",
+          "source": "Kurier"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-3fLD_QSaVRwXU1QEDzdpIN75qRrnN1-8KspxKJll7JkwFU0ohPELXtTLkM",
+      "rank": 63
     },
     {
       "title": "cap ferret",
@@ -1657,7 +1711,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uJ-1j69mqhoE_U17k5BPa2kc2iobPQ2i6rmPaaGc4V04ozj9vs74g8e2WRE",
-      "rank": 62
+      "rank": 64
     },
     {
       "title": "taschendiebstahl",
@@ -1684,7 +1738,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMuAnPgflC1OS_PqZIvPHRki9_38nd_ukVMGkZq_vNnZPhllK1DXSMdFrQjqk",
-      "rank": 63
+      "rank": 65
     },
     {
       "title": "rosalía",
@@ -1711,7 +1765,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu8o0wlpV6ZYUBhLswhxkMxIaylk5adcq-esMcpKlksRh3PHRlDi0h6zg-3m4",
-      "rank": 64
+      "rank": 66
     },
     {
       "title": "ralf kettemann",
@@ -1738,61 +1792,34 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9QZqPLA9ZgT2a93Ee6MFpSI6CqJH7_Ob0XLmLzkp0lGRjExZUfwXCXkjJkw",
-      "rank": 65
-    },
-    {
-      "title": "vfb",
-      "traffic": "2000+",
-      "summary": "• Dennis Seimen und Justin Diehl fallen längerfristig aus\n• «Schlechte Nachrichten»: Stuttgarts Torwart Seimen fällt aus\n• VfB Stuttgart: Verletzungs-Schock im Training: VfB zwei Monate ohne Torwart Dennis Seimen",
-      "news": [
-        {
-          "title": "Dennis Seimen und Justin Diehl fallen längerfristig aus",
-          "snippet": "",
-          "url": "https://www.vfb.de/de/vfb/aktuell/neues/profis/2627/dennis-seimen-und-justin-diehl-fallen-laengerfristig-aus/",
-          "source": "VfB Stuttgart"
-        },
-        {
-          "title": "«Schlechte Nachrichten»: Stuttgarts Torwart Seimen fällt aus",
-          "snippet": "",
-          "url": "https://www.zvw.de/sport/schlechte-nachrichten-stuttgarts-torwart-seimen-f%C3%A4llt-aus_arid-1091842",
-          "source": "Zeitungsverlag Waiblingen"
-        },
-        {
-          "title": "VfB Stuttgart: Verletzungs-Schock im Training: VfB zwei Monate ohne Torwart Dennis Seimen",
-          "snippet": "",
-          "url": "https://www.bild.de/sport/fussball/vfb-stuttgart-verletzungs-schock-im-training-vfb-zwei-monate-ohne-torwart-dennis-seimen-6a60bdc0df889b74b66488a0",
-          "source": "BILD"
-        }
-      ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs8oX0gCIygY-aSs1oOvkhJJAfk91Cb2pOzb4btQ_znak9nGAlCL4vEYreyAE",
-      "rank": 66
-    },
-    {
-      "title": "sea watch",
-      "traffic": "500+",
-      "summary": "• Übler Verdacht gegen Seenotretter: Arbeitet Sea-Watch mit der Organisierten Kriminalität zusammen?\n• Frontex-Video belastet Sea-Watch: Maskierte Schleuser übergeben Migranten auf offener See an NGO\n• 'Using the term collusion is a lie': Sea-Watch rescue NGO denies contact with smugglers",
-      "news": [
-        {
-          "title": "Übler Verdacht gegen Seenotretter: Arbeitet Sea-Watch mit der Organisierten Kriminalität zusammen?",
-          "snippet": "",
-          "url": "https://www.bild.de/politik/inland/uebler-verdacht-gegen-seenotretter-arbeitet-sea-watch-mit-der-organisierten-kriminalitaet-zusammen-6a5f4ae92937e4865893e5ba",
-          "source": "BILD"
-        },
-        {
-          "title": "Frontex-Video belastet Sea-Watch: Maskierte Schleuser übergeben Migranten auf offener See an NGO",
-          "snippet": "",
-          "url": "https://www.tichyseinblick.de/kolumnen/aus-aller-welt/frontex-video-sea-watch-schleuser-migranten/",
-          "source": "Tichys Einblick"
-        },
-        {
-          "title": "'Using the term collusion is a lie': Sea-Watch rescue NGO denies contact with smugglers",
-          "snippet": "",
-          "url": "https://www.infomigrants.net/en/post/72569/using-the-term-collusion-is-a-lie-seawatch-rescue-ngo-denies-contact-with-smugglers",
-          "source": "InfoMigrants"
-        }
-      ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSutwr5DjDZr_E2cFhGal3mYFLPw68cQ1nqe9frK8AXVBTTrKRRx8Ik3Z-wgCE",
       "rank": 67
+    },
+    {
+      "title": "isaac del toro",
+      "traffic": "200+",
+      "summary": "• Isaac del Toro mantiene el podio del Tour de Francia tras la etapa 16\n• ¡Defiende ‘Torito’ el tercer lugar! termina quinto en Etapa 16\n• Del Toro resiste al empuje de Seixas",
+      "news": [
+        {
+          "title": "Isaac del Toro mantiene el podio del Tour de Francia tras la etapa 16",
+          "snippet": "",
+          "url": "https://www.beinsports.com/es-us/otros-deportes/articles/isaac-del-toro-supera-una-prueba-decisiva-en-el-tour-de-francia-y-mantiene-vivo-un-sue%C3%B1o-hist%C3%B3rico-para-m%C3%A9xico-2026-07-22",
+          "source": "beIN SPORTS"
+        },
+        {
+          "title": "¡Defiende ‘Torito’ el tercer lugar! termina quinto en Etapa 16",
+          "snippet": "",
+          "url": "https://superchannel12.com/701771/defiende-torito-el-tercer-lugar-termina-quinto-en-etapa-",
+          "source": "Super Channel 12"
+        },
+        {
+          "title": "Del Toro resiste al empuje de Seixas",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/deportes/toro-resiste-empuje-seixas-181815635.html",
+          "source": "Yahoo"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT04mc_gFFIjDTKify4uaxAH9KfOBvMWkc-BsONy9HYKwBqi3aiuvd3SUSKTkM",
+      "rank": 68
     },
     {
       "title": "2crsi",
@@ -1819,7 +1846,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSFgCUj52jSEgNVNxjh5LakYEgt1dBAGzj6UDQ8vHOSA2TCh2R4auUYigwFzY",
-      "rank": 68
+      "rank": 69
     },
     {
       "title": "marco rubio",
@@ -1846,7 +1873,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEu69CjyQirUbcoUqKK11TyymQWRPVFm-eBBEwyT1HtFYN5ba6J6r4mWCvgBA",
-      "rank": 69
+      "rank": 70
     },
     {
       "title": "soitec",
@@ -1873,7 +1900,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL0INRAWz4qF7pzXngFDqyXUttxLfFVpKnmbkI_fJCZq5ft_uFZWeBXBuK9sc",
-      "rank": 70
+      "rank": 71
     },
     {
       "title": "keirin",
@@ -1900,7 +1927,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6clVlUhK9i0KleoJyD0ey9uUo4V7eqzg8Kge4I7JEAQsFRS9LFkNO_yt2CU",
-      "rank": 71
+      "rank": 72
     },
     {
       "title": "roland lescure",
@@ -1927,7 +1954,7 @@
         }
       ],
       "image": "",
-      "rank": 72
+      "rank": 73
     },
     {
       "title": "tour de france 23 juillet 2026",
@@ -1954,7 +1981,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN_P_tlsULKDiJg0K_2ydxYrSkCwkIyxoApSKVuMamXEyVMwYzP0t7Wkr1CZw",
-      "rank": 73
+      "rank": 74
     },
     {
       "title": "micoud",
@@ -1981,7 +2008,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbO08rlNnfiY6GFKm23WauLAtczgWi5gIF2ovLfVzdOCHOFNh4bXLGsUPvpDg",
-      "rank": 74
+      "rank": 75
     },
     {
       "title": "bordeaux girondins",
@@ -2008,7 +2035,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiYHX0-G53ICBOnOcBpwkKI5Hn5KpN8GH_RKEK47LN01OTIxr8a633TTGP7_U",
-      "rank": 75
+      "rank": 76
     },
     {
       "title": "houthis",
@@ -2035,34 +2062,34 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuv_vZis6RAZbkyvJQX03fUE8UKgOP36SOgRDfkxC1bgXQWUHQq8EB8HMszVY",
-      "rank": 76
+      "rank": 77
     },
     {
-      "title": "remboursement impots",
+      "title": "भजन",
       "traffic": "200+",
-      "summary": "• Impôts : êtes-vous concernés par le remboursement prévu les 24 et 31 juillet ?\n• Impôt sur le revenu : des millions de ménages vont toucher un virement dans les prochains jours\n• Vous avez trop payé d'impôts en 2025 ? L'administration fiscale va vous rembourser à partir de vendredi 24 juillet",
+      "summary": "• सावन के सोमवार पर हर कोई सुनता है ये भक्ति गीत, भोले का भजन पुलवामा में हुए शहीद जवानों को था समर्पित\n• कोतवाली चौराहे पर सामूहिक हनुमान चालीसा पाठ: बजरंगियों ने की आरती, उमड़ी श्रद्धालुओं की भीड़\n• Yamuna Nagar News: हनुमानजी के भजनों पर झूमीं महिला श्रद्धालु",
       "news": [
         {
-          "title": "Impôts : êtes-vous concernés par le remboursement prévu les 24 et 31 juillet ?",
+          "title": "सावन के सोमवार पर हर कोई सुनता है ये भक्ति गीत, भोले का भजन पुलवामा में हुए शहीद जवानों को था समर्पित",
           "snippet": "",
-          "url": "https://actu.orange.fr/france/impots-etes-vous-concernes-par-le-remboursement-prevu-les-24-et-31-juillet-magic-CNT000002qDmAN.html",
-          "source": "Orange Actualités"
+          "url": "https://ndtv.in/bollywood/mera-bhola-hai-bhandari-song-on-sawan-somvaar-hansraj-raghuwanshi-suresh-verma-most-watched-bhakti-geet-bhajan-11794206",
+          "source": "NDTV India"
         },
         {
-          "title": "Impôt sur le revenu : des millions de ménages vont toucher un virement dans les prochains jours",
+          "title": "कोतवाली चौराहे पर सामूहिक हनुमान चालीसा पाठ: बजरंगियों ने की आरती, उमड़ी श्रद्धालुओं की भीड़",
           "snippet": "",
-          "url": "https://www.latribune.fr/article/economie/vos-finances/26428259221945/impot-sur-le-revenu-des-millions-de-menages-vont-toucher-un-virement-dans-les-prochains-jours",
-          "source": "La Tribune"
+          "url": "https://www.bhaskar.com/local/uttar-pradesh/hathras/sasni/news/sasni-kotwali-chauraha-hanuman-chalisa-path-bhakti-event-update-138506642.html",
+          "source": "Dainik Bhaskar"
         },
         {
-          "title": "Vous avez trop payé d'impôts en 2025 ? L'administration fiscale va vous rembourser à partir de vendredi 24 juillet",
+          "title": "Yamuna Nagar News: हनुमानजी के भजनों पर झूमीं महिला श्रद्धालु",
           "snippet": "",
-          "url": "https://www.rtl.fr/actu/economie-consommation/vous-avez-trop-paye-d-impots-en-2025-l-administration-fiscale-va-vous-rembourser-a-partir-de-vendredi-24-juillet-7900656663",
-          "source": "RTL"
+          "url": "https://www.amarujala.com/haryana/yamuna-nagar/women-devotees-danced-to-the-bhajans-of-lord-hanuman-yamuna-nagar-news-c-246-1-ymn1001-159935-2026-07-22",
+          "source": "Amar Ujala"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlWo9fT-hMTUS8xUCPLn41bF4UfFNzrUWmMJvNUVlhSjIVbUx0_v0EmqjbtbA",
-      "rank": 77
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkRyu5UjR3IFdAqrLL4j15TVtnS5r597NDHQwRZAbG_kLfbmRPB-JjGGrJTd8",
+      "rank": 78
     },
     {
       "title": "रणबीर कपूर",
@@ -2089,7 +2116,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpnsJgzBgDPbC6k4nARAqvgcTysd5Azd6g0-Ows8pCo6LNGD-GJdB4rTI19zw",
-      "rank": 78
+      "rank": 79
     },
     {
       "title": "india 2027 odi squad predictions",
@@ -2116,7 +2143,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmxBhAdjfX0nWFtkrPpsccGEwzK1flYWCbtHaOWnN6vaDfd15-gqOyecG75BQ",
-      "rank": 79
+      "rank": 80
     },
     {
       "title": "ಇಕ್ಬಾಲ್ ಅನ್ಸಾರಿ",
@@ -2137,7 +2164,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3nfyTZ1-AY2PbCi42GUtJGWuI7d2OVQeOBM-2xwei4hxmlEwv-DEzxenZVU",
-      "rank": 80
+      "rank": 81
     },
     {
       "title": "सुप्रीम कोर्ट",
@@ -2164,7 +2191,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuB8wLvmf72eVSgkS052n3IFs7v0pjBs3TJ6p7YKFDGQZd0SlBdtnTekS-2OM",
-      "rank": 81
+      "rank": 82
     },
     {
       "title": "निवेशक",
@@ -2191,7 +2218,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6KzW7ZzCcfmYmvH7qcV3-2-7EMuKqf1b4aqd8OJYoA6JmLpDEUsQlquXMN9o",
-      "rank": 82
+      "rank": 83
     },
     {
       "title": "പണം",
@@ -2218,7 +2245,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqDxvYugVygo9xWF8bw2pbnCuGWMMEsvyyf4Iy6nIzo_qn3DT6IzqXJJYio40",
-      "rank": 83
+      "rank": 84
     },
     {
       "title": "ਰਾਸ਼ਨ ਕਾਰਡ",
@@ -2245,7 +2272,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqgLBnQjZI6MQfymXPm26H6qnmhqDGEIoHHoysloBU0nzfSEjY3lU-984bSOI",
-      "rank": 84
+      "rank": 85
     },
     {
       "title": "ప్రకాష్ రాజ్",
@@ -2272,33 +2299,6 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_Rr7jDTiOiJuh3_q199SJeXcLxRhh-fRvkEjWyp9QuPhGdOL262qzbXFws_4",
-      "rank": 85
-    },
-    {
-      "title": "രാഷ്ട്രീയം",
-      "traffic": "5000+",
-      "summary": "• അതൊന്നും അറിയാതെയാണ് മായയുടെ പ്രതികരണം, സമരത്തിന് വിദേശ ഫണ്ടിങ്, ചീത്തവിളിച്ചാലും പറയാനുള്ളത് ഞാൻ പറയും: മേജർ രവി\n• ഡൽഹി വിദ്യാർത്ഥി സമരത്തെ അനുകൂലിച്ച ടൊവിനോ യുടെ വീടിന് മുന്നിൽ വായമൂടികെട്ടി യുവമോർച്ച\n• 'അവർ നാടിന്റെ വാ​ഗ്ദാനം, കേൾക്കേണ്ടത് ഭരണകൂടത്തിന്‍റെ ഉത്തരവാദിത്തം'; വിദ്യാർത്ഥികൾക്ക് പിന്തുണയെന്ന് ആസിഫ് അലി",
-      "news": [
-        {
-          "title": "അതൊന്നും അറിയാതെയാണ് മായയുടെ പ്രതികരണം, സമരത്തിന് വിദേശ ഫണ്ടിങ്, ചീത്തവിളിച്ചാലും പറയാനുള്ളത് ഞാൻ പറയും: മേജർ രവി",
-          "snippet": "",
-          "url": "https://www.manoramaonline.com/movies/movie-news/2026/07/23/neet-protest-major-ravi-analysis.html",
-          "source": "Manorama Online"
-        },
-        {
-          "title": "ഡൽഹി വിദ്യാർത്ഥി സമരത്തെ അനുകൂലിച്ച ടൊവിനോ യുടെ വീടിന് മുന്നിൽ വായമൂടികെട്ടി യുവമോർച്ച",
-          "snippet": "",
-          "url": "https://malayalam.news18.com/news/kerala/yuva-morcha-marches-to-tovino-thomass-house-over-support-for-student-protests-srr-ws-l-782195.html",
-          "source": "News18 Malayalam"
-        },
-        {
-          "title": "'അവർ നാടിന്റെ വാ​ഗ്ദാനം, കേൾക്കേണ്ടത് ഭരണകൂടത്തിന്‍റെ ഉത്തരവാദിത്തം'; വിദ്യാർത്ഥികൾക്ക് പിന്തുണയെന്ന് ആസിഫ് അലി",
-          "snippet": "",
-          "url": "https://www.asianetnews.com/entertainment-news/asif-ali-about-cjp-protest-and-says-in-solidarity-with-the-students-articleshow-arny1p7",
-          "source": "Asianet News Malayalam"
-        }
-      ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9i3TEwURPCO42zYgJrVNlDCPBSKlcsHWy5SHxNOKECsz23AgZjppqV_s2cuE",
       "rank": 86
     },
     {
@@ -2556,28 +2556,28 @@
     {
       "title": "金 州 勇士",
       "traffic": "200+",
-      "summary": "• 勇士为库里开出2年1.367亿 库里有望完成签约\n• 二十年一人一城？库里8月30日有资格续约最高2年1.367亿的合同\n• 场均26分拿7100万！库里到底值不值这个价？数据告诉你答案",
+      "summary": "• 勇士24岁的MVP，也是个勒布朗？\n• 夏联第一阵容：伦德伯格、布泽尔、伯里斯、威尔逊、托马斯\n• 卡梅隆·布泽尔谈打满夏联:我渴望高强度对决",
       "news": [
         {
-          "title": "勇士为库里开出2年1.367亿 库里有望完成签约",
+          "title": "勇士24岁的MVP，也是个勒布朗？",
           "snippet": "",
-          "url": "https://lq.7m.com.cn/news/20260723/279213.shtml",
+          "url": "https://sports.sina.cn/nba/other/2026-07-23/detail-iniiusme4542794.d.html?vt=4",
+          "source": "Sina Sports"
+        },
+        {
+          "title": "夏联第一阵容：伦德伯格、布泽尔、伯里斯、威尔逊、托马斯",
+          "snippet": "",
+          "url": "https://view.inews.qq.com/a/20260722A03KYP00",
+          "source": "腾讯新闻"
+        },
+        {
+          "title": "卡梅隆·布泽尔谈打满夏联:我渴望高强度对决",
+          "snippet": "",
+          "url": "https://lq.7m.com.cn/news/20260721/279131.shtml",
           "source": "7M体育"
-        },
-        {
-          "title": "二十年一人一城？库里8月30日有资格续约最高2年1.367亿的合同",
-          "snippet": "",
-          "url": "https://news.zhibo8.com/nba/2026-07-20/6a5dd156399b1native.htm",
-          "source": "Zhibo8"
-        },
-        {
-          "title": "场均26分拿7100万！库里到底值不值这个价？数据告诉你答案",
-          "snippet": "",
-          "url": "https://www.163.com/dy/article/L2H380HF0556DMVM.html?f=post2020_dy_recommends",
-          "source": "手机网易网"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJRdXIprc2cl6OhrvC3dJRmZvlrW0BrWOxCN0bqm0GRwN-F9ZwcsMhHisx2c",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwLaqSrWrvamDfbWOOcHczZbM9U8bNAyH4oinPe9k7Lx3ZU6cfOVpuXR3e8oo",
       "rank": 97
     },
     {
@@ -2608,17 +2608,17 @@
       "rank": 98
     },
     {
-      "title": "旅遊 補助",
-      "traffic": "200+",
-      "summary": "'旅遊 補助' 검색 급증 이슈입니다.",
+      "title": "宜蘭高鐵",
+      "traffic": "100+",
+      "summary": "'宜蘭高鐵' 검색 급증 이슈입니다.",
       "news": [],
       "image": "",
       "rank": 99
     },
     {
-      "title": "書記官",
+      "title": "旅遊 補助",
       "traffic": "200+",
-      "summary": "'書記官' 검색 급증 이슈입니다.",
+      "summary": "'旅遊 補助' 검색 급증 이슈입니다.",
       "news": [],
       "image": "",
       "rank": 100
