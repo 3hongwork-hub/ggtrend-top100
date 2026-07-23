@@ -16,18 +16,18 @@ tags: [GoogleTrends, IssueSummary, Top100]
 
 ### 1위: **푸바오** (검색량: 1000+)
 
-![푸바오](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLnDHzMBYt7IG2n8nxa34Db50mf_C0tVjeUk99NyuTiHp_67N5JsxRUdRun5A)
+![푸바오](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwRK_JNm_D_rAxZrl9uf2gYLXDvh0LITE1EHvZ9DbjBU4TeFyqj-n4jFjqHo)
 
 **💡 이슈 요약**
 
+• 생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'
 • ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’
-• 생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장
-• 생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다
+• 생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다
 
 **📰 관련 뉴스**
+- [생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'](https://v.daum.net/v/FLgndf2uZB) (Daum)
 - [’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’](https://www.yonhapnewstv.co.kr/news/AKR20260723110321HDY) (연합뉴스TV)
-- [생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장](https://www.yna.co.kr/view/AKR20260723048500061) (연합뉴스)
-- [생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다](https://v.daum.net/v/20260723092753858) (Daum)
+- [생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다](https://www.donga.com/news/Society/article/all/20260723/134349394/1) (동아일보)
 
 ---
 
@@ -38,13 +38,13 @@ tags: [GoogleTrends, IssueSummary, Top100]
 **💡 이슈 요약**
 
 • Honeycutt family soaks in MLB All-Star festivities
-• Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage
 • Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ
+• 'That was a great ride': Boston's magical winning streak ends at 15
 
 **📰 관련 뉴스**
 - [Honeycutt family soaks in MLB All-Star festivities](https://www.mainstreetdailynews.com/sports/honeycutt-family-soaks-in-mlb-all-star-festivities) (Mainstreet Daily News Gainesville)
-- [Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage](https://www.wruf.com/headlines/2026/07/15/newberry-slugger-florida-commit-tavis-honeycutt-showcases-power-on-mlb-all-star-stage/) (WRUF)
 - [Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ](https://biz.chosun.com/en/en-sports/2026/07/23/XCVR5KKZXJBUTJZFEYU6S5ITJM/) (Chosunbiz)
+- ['That was a great ride': Boston's magical winning streak ends at 15](https://www.mlb.com/news/red-sox-s-winning-streak-snapped-at-15) (MLB.com)
 
 ---
 
@@ -94,7 +94,7 @@ tags: [GoogleTrends, IssueSummary, Top100]
 
 **📰 관련 뉴스**
 - [“41도 폭염 끓더니 12도 ‘뚝’ 떨어졌다”…유럽 이번엔 폭우·뇌우 비상](https://v.daum.net/v/20260723135737683) (Daum)
-- [프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65%](https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202607231104452414&s_hcd=) (YTN 사이언스)
+- [프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65%](https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202607231104452414) (YTN 사이언스)
 - [세계기상특성 "유럽 가뭄 원인은 기후변화, 높아진 기온이 수분 증발량 최대 80배 높여"](https://www.businesspost.co.kr/BP?command=article_view&num=442944) (비즈니스포스트)
 
 ---
@@ -188,8 +188,8 @@ tags: [GoogleTrends, IssueSummary, Top100]
 
 | 순위 | 키워드 | 검색량 | 관련 주요 뉴스 요약 |
 | :---: | :--- | :---: | :--- |
-| 1 | **푸바오** | 1000+ | • ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’ • 생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장 • 생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다 |
-| 2 | **mlb** | 1000+ | • Honeycutt family soaks in MLB All-Star festivities • Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Sta... |
+| 1 | **푸바오** | 1000+ | • 생후 50일 된 에버랜드 막내 판다 '많이 컸죠?' • ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’ • 생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다 |
+| 2 | **mlb** | 1000+ | • Honeycutt family soaks in MLB All-Star festivities • Boston extends 15-game win streak, ties 80-year franchise reco... |
 | 3 | **윤건영** | 200+ | • [고수다] "유시민 썩은 비평으로 대통령 난도질"‥"범죄자가 서울시장 해선 안 돼" • [속보] 강득구 "유시민, 李대통령 공개 저격…선 넘고 있다" • "뉴이재명 수장은 이 대통령" 유시민에…"진중권 자리... |
 | 4 | **국민성장펀드** | 100+ | • 전력·용수만 필요할까? 서남권 반도체 클러스터 성공의 키는 광물…자원외교에 성패 달렸다 • 충주시, 반도체 핵심광물 생산 기업과 업무협약…생산시설 구축 • 「경제안보외교센터–日 지경학연구소 2026 경제안보... |
 | 5 | **산불** | 2000+ | • “41도 폭염 끓더니 12도 ‘뚝’ 떨어졌다”…유럽 이번엔 폭우·뇌우 비상 • 프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65% • 세계기상특성 "유럽 가뭄 원인은 기후변화, 높아진 기온이 ... |
@@ -210,8 +210,8 @@ tags: [GoogleTrends, IssueSummary, Top100]
 | 20 | **colman domingo** | 2000+ | • White House Panics Over Fears Melania Could Go Rogue: Author • Jimmy Kimmel’s Replacement Jokingly Compares Melania... |
 | 21 | **髙橋遥人** | 5000+ | • 【DeNA】藤浪晋太郎を登録抹消 前日22日は4年ぶりに甲子園で登板（日テレNEWS NNN） • 【ヤフコメで話題】「藤浪投手の降板時に阪神ファンから拍手」「課題克服への期待」 - 降板時のファンの反応と今後への声 • 【阪神】... |
 | 22 | **浜田敬子** | 100+ | • 認知症の父を母が老老介護していたが…気づけば母親とも会話が噛み合わず“多重介護”に ジャーナリスト浜田敬子氏が語る後悔「もっと話す時間を作っていたら早く気づけたんじゃないか…」（ABEMA TIMES） • 「大好きだったおばあち... |
-| 23 | **風 薫る 直美** | 10000+ | • 7/24(金)の「風、薫る」直美(上坂樹里)は、文(内田慈)の願いを叶えるため、寛太(藤原季節)の手を借りて、ある場所を訪ねる • 明日の風、薫る＞7月24日 第85回 あらすじ＆場面カット 文の“願い”とは？ 直美が訪ねた“場所... |
-| 24 | **アスレチックス** | 200+ | • 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定 • 【MLB】アスレチックス23歳新人、自打球直撃で「睾丸破裂」　メジャー初アーチ直後の打席でまさかの“悪夢... |
+| 23 | **風 薫る 直美** | 10000+ | • 7/24(金)の「風、薫る」直美(上坂樹里)は、文(内田慈)の願いを叶えるため、寛太(藤原季節)の手を借りて、ある場所を訪ねる • 【風、薫る】パンほお張って「直美さん！」の小川軍曹事前リハから「マイ蒸しパンで練習していた」（デイ... |
+| 24 | **アスレチックス** | 200+ | • 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定 • アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術 • MLB逸材を襲った悪夢「睾丸が... |
 | 25 | **フィギュアスケート** | 2000+ | • 「なななんですって」 日本スケート連盟の発表にフィギュアファン歓喜「エライ豪華でビックリ」（THE ANSWER） • 島田麻央、中田璃士がシニア国際大会デビューへ 木下グループ杯 • 【フィギュア】木下グループ杯エントリー発表　... |
 | 26 | **黒田博樹** | 500+ | • ゾンビたばこ広島に黒田博樹監督待望論 「打てない、守れない、人気ない」三重苦で新井監督はクビ不可避 • ４年目で待望プロ初勝利の広島・斉藤優汰 「イコラブパワーです」推し活が支えに ＴｉｋＴｏｋで偶然流れてきて、どハマり • ２２... |
 | 27 | **御嶽海** | 200+ | • 御嶽海は11敗目【大相撲名古屋場所12日目】（信濃毎日新聞デジタル） • 御嶽海は11敗目【大相撲名古屋場所12日目】 • 【大相撲９日目】御嶽海は阿武剋に敗れて８敗目 負け越し決まる【長野】（2026年7月20日掲載）｜日テレN... |
@@ -236,16 +236,16 @@ tags: [GoogleTrends, IssueSummary, Top100]
 | 46 | **sri lanka vs pakistan** | 200+ | • Where to watch Sri Lanka vs Pakistan live stream, TV channel, start time and lineups for 1st women's ODI • Second-p... |
 | 47 | **shania twain** | 500+ | • On ‘Little Miss Twain,’ Shania Twain reflects on her humble beginnings and her late mother • Shania Twain opens up ... |
 | 48 | **내일 날씨** | 200+ | • 중부는 호우, 영호남은 폭염…전국 극과 극 '날씨주의보'(종합) • [속보] 제주 장마 19일에 끝났다…남부·중부 26∼27일 종료 예상 • 이번 주말 마지막 장맛비···다음 주 본격 ‘가마솥더위’ 시작 |
-| 49 | **annabel lloyd masterchef elimination** | 200+ | • EXCLUSIVE: MasterChef’s Annabel reveals secret past connection with Declan Cleary • MasterChef Australia’s Annabel ... |
-| 50 | **pitch black darwin** | 100+ | • Spot every warplane with this Exercise Pitch Black bingo guide • Plan ahead for Pitch Black event at Mindil Beach •... |
-| 51 | **fifa argentina** | 100+ | • Petition to replay Argentina vs Spain 2026 World Cup Final surpasses 61,000 signatures • 'Kick Argentina out of the... |
-| 52 | **trent robinson** | 200+ | • Robbo’s emphatic response to DCE contract rumour — NRL Daily • DCE makes call on 2027 contract option • NRL icon Da... |
-| 53 | **cameron munster png chiefs talks** | 500+ | • Munster given blessing by Storm to pursue PNG move • Cameron Munster given permission by Storm to talk to PNG Chief... |
-| 54 | **men's rugby world cup** | 500+ | • Two nations banned from Rugby World Cups 'until further notice' - Page 2 of 2 • Shaun Edwards to replace Steve Bort... |
-| 55 | **flinders medical centre** | 500+ | • Insect repellent release leaves 11 staff sick at major SA hospital • Hospital hit by insect repellent explosion • H... |
-| 56 | **ed harris** | 100+ | • Ed Harris Returning To ‘Dutton Ranch’ For Season 2 After Character Arc Frustrations & Showrunner Change • ‘F**k you... |
-| 57 | **motley fool** | 200+ | • Markets today: Miners and energy stocks push ASX higher; Origin, Lynas decline • Australian Shares Open Higher as O... |
-| 58 | **b1 bomber** | 500+ | • Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers • Iran War Updates: U.S. carries out 12t... |
+| 49 | **victorian teachers strike** | 2000+ | • Protestors say Victorian teacher rally a 'watershed moment' • Thousands of teachers to take to streets, but demands... |
+| 50 | **nick kyrgios** | 100+ | • ‘Really pleasant’: Tomic truth bomb Australia has missed • Tennis world stunned as Tomic defies odds • Tomic wins b... |
+| 51 | **annabel lloyd masterchef elimination** | 500+ | • MasterChef star on her exit mistake, Canberra family pride, and next move • EXCLUSIVE: MasterChef’s Annabel reveals... |
+| 52 | **pitch black darwin** | 100+ | • Spot every warplane with this Exercise Pitch Black bingo guide • Plan ahead for Pitch Black event at Mindil Beach •... |
+| 53 | **trent robinson** | 200+ | • Robbo’s emphatic response to DCE contract rumour — NRL Daily • DCE makes call on 2027 contract option • NRL icon Da... |
+| 54 | **cameron munster png chiefs talks** | 500+ | • Munster given blessing by Storm to pursue PNG move • Cameron Munster given permission by Storm to talk to PNG Chief... |
+| 55 | **men's rugby world cup** | 500+ | • Two nations banned from Rugby World Cups 'until further notice' - Page 2 of 2 • Shaun Edwards to replace Steve Bort... |
+| 56 | **flinders medical centre** | 500+ | • Insect repellent release leaves 11 staff sick at major SA hospital • Hospital hit by insect repellent explosion • H... |
+| 57 | **ed harris** | 100+ | • Ed Harris Returning To ‘Dutton Ranch’ For Season 2 After Character Arc Frustrations & Showrunner Change • ‘F**k you... |
+| 58 | **b1 bomber** | 500+ | • Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait • U.S. deploys B-1... |
 | 59 | **boeing 737 max** | 200+ | • Zwei Boeing 737 Max nach nur fünf Monaten im Dienst verschrottet • Fünf Monate im Dienst, schon verschrottet Boeing... |
 | 60 | **kevin kampl** | 200+ | • RB Leipzig: Ex-Bundesliga-Star Kampl ist jetzt Gärtner auf Mallorca • Gärtnerei statt Fußballrasen: So lebt Ex-RB-S... |
 | 61 | **robben** | 200+ | • Tierpark Hellabrunn: Münchner Zoo schläfert seine letzten Mähnenrobben ein • Zwei Mähnenrobben in Hellabrunn musste... |
@@ -291,4 +291,4 @@ tags: [GoogleTrends, IssueSummary, Top100]
 
 
 ---
-*데이터 수집 일시: 2026-07-23 07:55:44 (KST)*
+*데이터 수집 일시: 2026-07-23 07:57:19 (KST)*

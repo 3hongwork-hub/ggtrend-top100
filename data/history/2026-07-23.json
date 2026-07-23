@@ -1,13 +1,19 @@
 {
   "date": "2026-07-23",
-  "updated_at": "2026-07-23 07:55:44",
+  "updated_at": "2026-07-23 07:57:19",
   "count": 100,
   "trends": [
     {
       "title": "푸바오",
       "traffic": "1000+",
-      "summary": "• ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’\n• 생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장\n• 생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다",
+      "summary": "• 생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'\n• ’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’\n• 생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다",
       "news": [
+        {
+          "title": "생후 50일 된 에버랜드 막내 판다 '많이 컸죠?'",
+          "snippet": "",
+          "url": "https://v.daum.net/v/FLgndf2uZB",
+          "source": "Daum"
+        },
         {
           "title": "’엎드려 배밀이’ 아기 판다…생후 50일 ’13배 폭풍 성장’",
           "snippet": "",
@@ -15,25 +21,19 @@
           "source": "연합뉴스TV"
         },
         {
-          "title": "생후 50일 에버랜드 아기 판다, 몸무게 13배 폭풍 성장",
+          "title": "생후 50일 맞은 ‘푸바오 동생’…몸무게 13배 늘었다",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260723048500061",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "생후 50일 맞은 '푸바오 동생'…몸무게 13배 늘었다",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260723092753858",
-          "source": "Daum"
+          "url": "https://www.donga.com/news/Society/article/all/20260723/134349394/1",
+          "source": "동아일보"
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLnDHzMBYt7IG2n8nxa34Db50mf_C0tVjeUk99NyuTiHp_67N5JsxRUdRun5A",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwRK_JNm_D_rAxZrl9uf2gYLXDvh0LITE1EHvZ9DbjBU4TeFyqj-n4jFjqHo",
       "rank": 1
     },
     {
       "title": "mlb",
       "traffic": "1000+",
-      "summary": "• Honeycutt family soaks in MLB All-Star festivities\n• Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage\n• Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ",
+      "summary": "• Honeycutt family soaks in MLB All-Star festivities\n• Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ\n• 'That was a great ride': Boston's magical winning streak ends at 15",
       "news": [
         {
           "title": "Honeycutt family soaks in MLB All-Star festivities",
@@ -42,16 +42,16 @@
           "source": "Mainstreet Daily News Gainesville"
         },
         {
-          "title": "Newberry’s Tavis Honeycutt Showcases Power on MLB All-Star Stage",
-          "snippet": "",
-          "url": "https://www.wruf.com/headlines/2026/07/15/newberry-slugger-florida-commit-tavis-honeycutt-showcases-power-on-mlb-all-star-stage/",
-          "source": "WRUF"
-        },
-        {
           "title": "Boston extends 15-game win streak, ties 80-year franchise record - CHOSUNBIZ",
           "snippet": "",
           "url": "https://biz.chosun.com/en/en-sports/2026/07/23/XCVR5KKZXJBUTJZFEYU6S5ITJM/",
           "source": "Chosunbiz"
+        },
+        {
+          "title": "'That was a great ride': Boston's magical winning streak ends at 15",
+          "snippet": "",
+          "url": "https://www.mlb.com/news/red-sox-s-winning-streak-snapped-at-15",
+          "source": "MLB.com"
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUe61jjPqqt9EkBY__85Btydst0bSowUCKAduJ-PtlfonE1-6KcQiWewOTucc",
@@ -125,7 +125,7 @@
         {
           "title": "프랑스, '6월 폭염'에 5,700명 초과 사망...고령층 65%",
           "snippet": "",
-          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202607231104452414&s_hcd=",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202607231104452414",
           "source": "YTN 사이언스"
         },
         {
@@ -276,7 +276,7 @@
     {
       "title": "iran war",
       "traffic": "5000+",
-      "summary": "• Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks\n• Iran War: Houthis Open New Front in War By Targeting Ships in Red Sea\n• Houthis enforce Red Sea blockade, bringing fears of further economic disruption",
+      "summary": "• Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks\n• Iran War: Houthis Open New Front in War By Targeting Ships in Red Sea\n• Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
       "news": [
         {
           "title": "Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks",
@@ -291,10 +291,10 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Houthis enforce Red Sea blockade, bringing fears of further economic disruption",
+          "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/world/2026/07/21/ships-bound-saudi-arabia-turn-around-sign-new-red-sea-blockade/",
-          "source": "The Washington Post"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers",
+          "source": "Al Jazeera"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnbUpN_ooOR9RXdDBDp5C2XGS6LrgHPwjUG-uNum8gqeI7Lv3CFmDX3_YSfjA",
@@ -588,7 +588,7 @@
     {
       "title": "風 薫る 直美",
       "traffic": "10000+",
-      "summary": "• 7/24(金)の「風、薫る」直美(上坂樹里)は、文(内田慈)の願いを叶えるため、寛太(藤原季節)の手を借りて、ある場所を訪ねる\n• 明日の風、薫る＞7月24日 第85回 あらすじ＆場面カット 文の“願い”とは？ 直美が訪ねた“場所”（MANTANWEB）\n• 明日の「風、薫る」第85回 海が見える神社を訪ねる文と直美、手伝う寛太＜7月24日＞",
+      "summary": "• 7/24(金)の「風、薫る」直美(上坂樹里)は、文(内田慈)の願いを叶えるため、寛太(藤原季節)の手を借りて、ある場所を訪ねる\n• 【風、薫る】パンほお張って「直美さん！」の小川軍曹事前リハから「マイ蒸しパンで練習していた」（デイリースポーツ）\n• 明日の「風、薫る」第85回 海が見える神社を訪ねる文と直美、手伝う寛太＜7月24日＞",
       "news": [
         {
           "title": "7/24(金)の「風、薫る」直美(上坂樹里)は、文(内田慈)の願いを叶えるため、寛太(藤原季節)の手を借りて、ある場所を訪ねる",
@@ -597,9 +597,9 @@
           "source": "ステラnet"
         },
         {
-          "title": "明日の風、薫る＞7月24日 第85回 あらすじ＆場面カット 文の“願い”とは？ 直美が訪ねた“場所”（MANTANWEB）",
+          "title": "【風、薫る】パンほお張って「直美さん！」の小川軍曹事前リハから「マイ蒸しパンで練習していた」（デイリースポーツ）",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/aa7600380c39d94a0f3b66f9eb2f4dc2829a0681",
+          "url": "https://news.yahoo.co.jp/articles/775c1788910c5b935dfbc8b960838d4d581eb0a9",
           "source": "Yahoo!ニュース"
         },
         {
@@ -615,7 +615,7 @@
     {
       "title": "アスレチックス",
       "traffic": "200+",
-      "summary": "• 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定\n• 【MLB】アスレチックス23歳新人、自打球直撃で「睾丸破裂」　メジャー初アーチ直後の打席でまさかの“悪夢”\n• MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
+      "summary": "• 【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定\n• アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術\n• MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
       "news": [
         {
           "title": "【睾丸破裂】緊急手術の23歳 自打球が股間に直撃しもだえる アスレチックスのルーキーは出場続行もIL入り 復帰時期は未定",
@@ -624,10 +624,10 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "【MLB】アスレチックス23歳新人、自打球直撃で「睾丸破裂」　メジャー初アーチ直後の打席でまさかの“悪夢”",
+          "title": "アスレチックスの日系新人内野手が打球直撃で睾丸破裂の大けが、緊急手術",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/spread/sports/spread-392914",
-          "source": "ｄメニューニュース"
+          "url": "https://www.nikkansports.com/m/baseball/mlb/news/202607220000551_m.html?mode=all",
+          "source": "日刊スポーツ"
         },
         {
           "title": "MLB逸材を襲った悪夢「睾丸が破裂した」 初本塁打後に悶絶…23歳が味わった“天国と地獄”",
@@ -1288,10 +1288,70 @@
       "rank": 48
     },
     {
-      "title": "annabel lloyd masterchef elimination",
-      "traffic": "200+",
-      "summary": "• EXCLUSIVE: MasterChef’s Annabel reveals secret past connection with Declan Cleary\n• MasterChef Australia’s Annabel Lloyd and Vinnie Gibaldi hit back at dating rumours\n• Annabel comes clean about the MasterChef Australia 2026 romance: 'Put my foot in it'",
+      "title": "victorian teachers strike",
+      "traffic": "2000+",
+      "summary": "• Protestors say Victorian teacher rally a 'watershed moment'\n• Thousands of teachers to take to streets, but demands far from clear\n• ‘We’ll be back here on Spring St’: New strike pledge as teachers walk off job and through CBD",
       "news": [
+        {
+          "title": "Protestors say Victorian teacher rally a 'watershed moment'",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2026-07-23/victorian-teachers-on-strike-today-as-offer-is-rejected/106946678",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Thousands of teachers to take to streets, but demands far from clear",
+          "snippet": "",
+          "url": "https://www.theage.com.au/national/victoria/thousands-of-teachers-to-take-to-streets-but-demands-far-from-clear-20260722-p60hgt.html",
+          "source": "The Age"
+        },
+        {
+          "title": "‘We’ll be back here on Spring St’: New strike pledge as teachers walk off job and through CBD",
+          "snippet": "",
+          "url": "https://www.heraldsun.com.au/education/regions/victoria/tens-of-thousands-of-victorian-teachers-go-on-strike-as-they-push-for-better-pay-deal/news-story/f955df2e20d0aab3c669f9cfb819f83f",
+          "source": "Herald Sun"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcgRzI_ALdPm-TyLj_kVvV6uoh3UEWtB1SrigmU3R2QFFz7fbiu3TOdZhsHDA",
+      "rank": 49
+    },
+    {
+      "title": "nick kyrgios",
+      "traffic": "100+",
+      "summary": "• ‘Really pleasant’: Tomic truth bomb Australia has missed\n• Tennis world stunned as Tomic defies odds\n• Tomic wins biggest title since 2018: 'I'm going to play another 20 years!'",
+      "news": [
+        {
+          "title": "‘Really pleasant’: Tomic truth bomb Australia has missed",
+          "snippet": "",
+          "url": "https://www.nine.com.au/sport/tennis/bernard-tomic-news-australian-wins-atp-challenger-event-lincoln-john-millman-interview-nick-kyrgios-20260721-p60h4k.html",
+          "source": "Nine.com.au"
+        },
+        {
+          "title": "Tennis world stunned as Tomic defies odds",
+          "snippet": "",
+          "url": "https://www.news.com.au/sport/tennis/bernard-tomics-proves-haters-wrong-by-winning-first-challenger-title-in-eight-years/news-story/4ac00a6f0c91b3a3b0068dcbabc792dc",
+          "source": "News.com.au"
+        },
+        {
+          "title": "Tomic wins biggest title since 2018: 'I'm going to play another 20 years!'",
+          "snippet": "",
+          "url": "https://www.atptour.com/en/news/tomic-lincoln-challenger-2026-title",
+          "source": "ATP Tour"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pKPSWdzPdnZfPJgxcdE3cl2WqSQXFuBIXyyoaNCBJhM49DXf26ueJEA0vTA",
+      "rank": 50
+    },
+    {
+      "title": "annabel lloyd masterchef elimination",
+      "traffic": "500+",
+      "summary": "• MasterChef star on her exit mistake, Canberra family pride, and next move\n• EXCLUSIVE: MasterChef’s Annabel reveals secret past connection with Declan Cleary\n• MasterChef Australia’s Annabel Lloyd and Vinnie Gibaldi hit back at dating rumours",
+      "news": [
+        {
+          "title": "MasterChef star on her exit mistake, Canberra family pride, and next move",
+          "snippet": "",
+          "url": "https://www.canberratimes.com.au/story/9316157/annabel-lloyd-masterchef-exit-after-undercooked-dough-andy-allens-absence/",
+          "source": "The Canberra Times"
+        },
         {
           "title": "EXCLUSIVE: MasterChef’s Annabel reveals secret past connection with Declan Cleary",
           "snippet": "",
@@ -1303,16 +1363,10 @@
           "snippet": "",
           "url": "https://www.nowtolove.com.au/entertainment/masterchef-australia-annabel-vinnie-dating-rumours/",
           "source": "Now To Love"
-        },
-        {
-          "title": "Annabel comes clean about the MasterChef Australia 2026 romance: 'Put my foot in it'",
-          "snippet": "",
-          "url": "https://www.chattr.com.au/tv/masterchef-australia-2026-annabel-interview-on-romance/",
-          "source": "Chattr"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1hNcfcMhP4nFdwkbnMyyVO8En-qcczpUYRbSXLLKc91dqQnoZv0mlhj2m3Y",
-      "rank": 49
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlR4DS-cAiFwk2SzH9So6w6IlKmF5WNTnP1ILFZ5fiwGn8k4OKTcZNkWqTPpU",
+      "rank": 51
     },
     {
       "title": "pitch black darwin",
@@ -1339,34 +1393,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRihJm4Id9CzX0uJ5QJaOt8rHgpm4CD0FcMXTZDHKb8oPMGk-ShDqYzSImDAr4",
-      "rank": 50
-    },
-    {
-      "title": "fifa argentina",
-      "traffic": "100+",
-      "summary": "• Petition to replay Argentina vs Spain 2026 World Cup Final surpasses 61,000 signatures\n• 'Kick Argentina out of the World Cup' petition nearly breaks Guinness World Record\n• Sore losers? Argentina fans cry foul, demand FIFA replay World Cup final",
-      "news": [
-        {
-          "title": "Petition to replay Argentina vs Spain 2026 World Cup Final surpasses 61,000 signatures",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/argentine-fans-launch-petition-to-replay-the-2026-world-cup-final-signatures-surpass-61-000-2026-07-22",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "'Kick Argentina out of the World Cup' petition nearly breaks Guinness World Record",
-          "snippet": "",
-          "url": "https://www.euronews.com/culture/2026/07/21/kick-argentina-out-of-the-world-cup-petition-nearly-breaks-guinness-world-record",
-          "source": "Euronews"
-        },
-        {
-          "title": "Sore losers? Argentina fans cry foul, demand FIFA replay World Cup final",
-          "snippet": "",
-          "url": "https://www.ynetnews.com/sport/article/b1hrmxkhzl",
-          "source": "Ynetnews"
-        }
-      ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6SHIm12DT3mHjFbSv7kPfPL9kenB5783L9L5nXh9wlg5ZkfLDYtUJD5bulA0",
-      "rank": 51
+      "rank": 52
     },
     {
       "title": "trent robinson",
@@ -1393,7 +1420,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYRT6qqPsEe2Iu8Q8vnRKGWmDSIJDYB81A3xqxmMLDmY3mIj0U-b3-IoeuK2Y",
-      "rank": 52
+      "rank": 53
     },
     {
       "title": "cameron munster png chiefs talks",
@@ -1420,7 +1447,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpCOsl90oi-5I7erOQ1-cmk8stq1V0KeydeOOYF877tAGytXBItyK8QXi6Ixw",
-      "rank": 53
+      "rank": 54
     },
     {
       "title": "men's rugby world cup",
@@ -1447,7 +1474,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3InPWwqbc2BsAIoapQTus8RdhhxkwIvOgZ_et0IdqFlZZxhi8KqzbAvAKLKM",
-      "rank": 54
+      "rank": 55
     },
     {
       "title": "flinders medical centre",
@@ -1474,7 +1501,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxEMq0nRTNDYstkPD7rOtJLuavOYOyh7DwQumjGPmR9CgE2QRdRJrXxN8WPVI",
-      "rank": 55
+      "rank": 56
     },
     {
       "title": "ed harris",
@@ -1501,60 +1528,33 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQUB03ne6s1H0jQXs8OjdfgdvD4GYaz2_uv5cc8SQNgcjDHfT-icDtVN_TkPQ",
-      "rank": 56
-    },
-    {
-      "title": "motley fool",
-      "traffic": "200+",
-      "summary": "• Markets today: Miners and energy stocks push ASX higher; Origin, Lynas decline\n• Australian Shares Open Higher as Oil, Gold Rally on Middle East Tensions; Santos Posts Higher Q2 Total Production\n• ASX ends up after miners rally; Lynas dives on cost blowout",
-      "news": [
-        {
-          "title": "Markets today: Miners and energy stocks push ASX higher; Origin, Lynas decline",
-          "snippet": "",
-          "url": "https://www.smh.com.au/business/markets/asx-set-to-advance-tech-stocks-push-wall-street-higher-google-s-new-ai-offerings-20260722-p60hd2.html",
-          "source": "SMH.com.au"
-        },
-        {
-          "title": "Australian Shares Open Higher as Oil, Gold Rally on Middle East Tensions; Santos Posts Higher Q2 Total Production",
-          "snippet": "",
-          "url": "https://au.finance.yahoo.com/news/australian-shares-open-higher-oil-001749486.html",
-          "source": "Yahoo Finance Australia"
-        },
-        {
-          "title": "ASX ends up after miners rally; Lynas dives on cost blowout",
-          "snippet": "",
-          "url": "https://www.afr.com/markets/equity-markets/asx-to-rise-s-and-p-500-lifts-on-tech-rebound-oil-extends-rise-20260722-p60hcx",
-          "source": "AFR"
-        }
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWz6c1Jp4ejgYvOVY3Py2_TZzxWL5tr6iyXb5xac7KALHf3tEblzpj5-Ja-jc",
       "rank": 57
     },
     {
       "title": "b1 bomber",
       "traffic": "500+",
-      "summary": "• Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers\n• Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen\n• Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait",
+      "summary": "• Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait\n• U.S. deploys B-1 bomber as attacks on Iran intensify\n• Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen",
       "news": [
         {
-          "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+          "title": "Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers",
-          "source": "Al Jazeera"
+          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+          "source": "The New York Times"
+        },
+        {
+          "title": "U.S. deploys B-1 bomber as attacks on Iran intensify",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/07/23/b-1-bomber-iran-war",
+          "source": "Axios"
         },
         {
           "title": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen",
           "snippet": "",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
           "source": "CBS News"
-        },
-        {
-          "title": "Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait",
-          "snippet": "",
-          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-          "source": "The New York Times"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdaAmuDui7Zo7Qk8DRckXfPum2LUdFomrdpcTDik2nkZBtHpSXMIm4n0xZTso",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo0a_ax15BWAhgcyIimQNSh0Sdw0tNZS_lcWqq0a6LwZtgHZWyBox44WvNyLM",
       "rank": 58
     },
     {
@@ -2535,7 +2535,7 @@
           "title": "Pós-Copa deve acelerar mercado, e Fluminense tem expectativa de receber propostas; veja o cenário",
           "snippet": "",
           "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/07/22/pos-copa-deve-acelerar-mercado-e-fluminense-tem-expectativa-de-receber-propostas-veja-o-cenario.ghtml",
-          "source": "ge"
+          "source": "GE"
         },
         {
           "title": "Fluminense aguarda propostas, mas prioriza competitividade",
