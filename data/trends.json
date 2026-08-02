@@ -1,15 +1,42 @@
 {
   "date": "2026-08-02",
-  "updated_at": "2026-08-02 05:51:22",
+  "updated_at": "2026-08-02 05:55:33",
   "count": 100,
   "trends": [
+    {
+      "title": "집",
+      "traffic": "1000+",
+      "summary": "• “집값 비싸서 못살겠다”…경기 집 사들인 서울 사람, 4년 만에 최고로 늘었다 [부동산360]\n• 집값 부담에 ‘탈서울’…인천·경기 아파트 매수세 확산\n• 몇 안 되는 비규제지 ‘부천’, 서울 집값 상승에 반사이익",
+      "news": [
+        {
+          "title": "“집값 비싸서 못살겠다”…경기 집 사들인 서울 사람, 4년 만에 최고로 늘었다 [부동산360]",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260802070239194",
+          "source": "Daum"
+        },
+        {
+          "title": "집값 부담에 ‘탈서울’…인천·경기 아파트 매수세 확산",
+          "snippet": "",
+          "url": "https://www.dailian.co.kr/news/view/1672963",
+          "source": "데일리안"
+        },
+        {
+          "title": "몇 안 되는 비규제지 ‘부천’, 서울 집값 상승에 반사이익",
+          "snippet": "",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363732822",
+          "source": "중부일보"
+        }
+      ],
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ-KL1ko_Gg_3wwVAbR6mzMtkKFshqLlQrAlSFpZ9HKSJKsEzcjwYSbmUNxsw",
+      "rank": 1
+    },
     {
       "title": "코오롱 티슈 진",
       "traffic": "2000+",
       "summary": "'코오롱 티슈 진' 검색 급증 이슈입니다.",
       "news": [],
       "image": "",
-      "rank": 1
+      "rank": 2
     },
     {
       "title": "지석진",
@@ -36,11 +63,11 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_97YW8QUgqdPaG9Y8bEIAlpSKQ6xMXzP-4zFHUxUkvswqd0ee_dcBUj2NyY",
-      "rank": 2
+      "rank": 3
     },
     {
       "title": "태풍 루사",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "summary": "• [꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극\n• '꼬꼬무', 강릉 소멸 위기 '태풍 루사' 재조명...산다라박 오열 [종합] - 머니투데이\n• [스브스夜] '꼬꼬무' 역대 최악의 태풍 '루사'···태풍 이름은 사라졌지만 영원히 잊히지 말아야 할 이들의 그날 '추적'",
       "news": [
         {
@@ -63,7 +90,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjq9If8oGt0oOsDqQ857vcqT-ZV2WOb6rDuvceKflBocGcdEHSYHQEsXjvS6U",
-      "rank": 3
+      "rank": 4
     },
     {
       "title": "띠별 운세",
@@ -90,12 +117,12 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF8fVZ52FRFPFRB-04zOc0QnhEYA9SlXykVi9VR2mYrF6XuXDzG79fI52vLAI",
-      "rank": 4
+      "rank": 5
     },
     {
       "title": "차은우",
       "traffic": "2000+",
-      "summary": "• 130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"\n• 차은우 “추징금 냈지만 납득 못해”…국세청 과세 불복 [지금뉴스]\n• 차은우, 130억 추징세 완납 후 조세심판 청구…\"법률적 판단 받을것\"",
+      "summary": "• 130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"\n• 차은우 “추징금 냈지만 납득 못해”…국세청 과세 불복 [지금뉴스]\n• 130억 전액 완납 차은우, '과세 처분 불복' 조세심판 청구",
       "news": [
         {
           "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
@@ -110,31 +137,31 @@
           "source": "KBS 뉴스"
         },
         {
-          "title": "차은우, 130억 추징세 완납 후 조세심판 청구…\"법률적 판단 받을것\"",
+          "title": "130억 전액 완납 차은우, '과세 처분 불복' 조세심판 청구",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260802123040843",
-          "source": "Daum"
+          "url": "https://www.kyeonggi.com/article/20260802580099",
+          "source": "경기일보"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo7mGx5T3z97xDlGVqM_KH0Zc920C4UreXmEw39P4EW2NE7JDtIGOiNDm4UyU",
-      "rank": 5
+      "rank": 6
     },
     {
       "title": "양산 날씨",
       "traffic": "200+",
-      "summary": "• 경남 양산 오늘로 닷새째 40도 돌파…초유의 기록\n• 양산 ’사상 초유’ 42도 넘겼다…최고기온 재경신\n• 휴일, 극심한 더위…내일부터 서쪽 지역 열기 집중 [12시 날씨]",
+      "summary": "• 낮기온 40도↑ '노멀'이 된 경남 양산…초유의 '42도' 찍을까\n• 경남 양산, 끝내 ‘42도’ 넘어…122년 기상관측 사상 초유\n• 휴일, 극심한 더위…내일부터 서쪽 지역 열기 집중 [12시 날씨]",
       "news": [
         {
-          "title": "경남 양산 오늘로 닷새째 40도 돌파…초유의 기록",
+          "title": "낮기온 40도↑ '노멀'이 된 경남 양산…초유의 '42도' 찍을까",
           "snippet": "",
-          "url": "https://www.donga.com/news/Society/article/all/20260802/134406481/1",
-          "source": "동아일보"
+          "url": "https://www.newsis.com/view/NISX20260802_0003732990",
+          "source": "뉴시스"
         },
         {
-          "title": "양산 ’사상 초유’ 42도 넘겼다…최고기온 재경신",
+          "title": "경남 양산, 끝내 ‘42도’ 넘어…122년 기상관측 사상 초유",
           "snippet": "",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260802141021yAO",
-          "source": "연합뉴스TV"
+          "url": "https://www.munhwa.com/article/11606627",
+          "source": "문화일보"
         },
         {
           "title": "휴일, 극심한 더위…내일부터 서쪽 지역 열기 집중 [12시 날씨]",
@@ -143,8 +170,8 @@
           "source": "KBS 뉴스"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zjLsNZxCGX0PhSTRK6MfaiVsPyKc1kqy1bssHA7SWQqahv2fEWS6usrg53M",
-      "rank": 6
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQli2PQLZOpn1ftO8hHsMlLRrL2ndaxaXr1pEB4OZdN75aXb6UFjKv1fo-kWFg",
+      "rank": 7
     },
     {
       "title": "이준수",
@@ -171,12 +198,12 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5-CS_P1QKYl3Mg6q38Yjc1n5C6tT9UGxF7MNZEhYrR6IUgyAZlkFiDmCY90",
-      "rank": 7
+      "rank": 8
     },
     {
       "title": "지원이",
       "traffic": "200+",
-      "summary": "• '전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이\n• ‘전국노래자랑’ 장민호-손빈아-전유진-지원이-유민, ‘전남광주통합특별시 남구’ 편 축하 공연! 8/2(일) 방송!\n• ‘전국노래자랑’ 장민호·전유진·손빈아·지원이·유민 총출동",
+      "summary": "• '전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이\n• ‘전국노래자랑’ 장민호·전유진·손빈아·지원이·유민 총출동\n• 장민호, “풍악을 울려라”로 전국노래자랑 광주 남구 달군다",
       "news": [
         {
           "title": "'전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이",
@@ -185,20 +212,20 @@
           "source": "국제뉴스"
         },
         {
-          "title": "‘전국노래자랑’ 장민호-손빈아-전유진-지원이-유민, ‘전남광주통합특별시 남구’ 편 축하 공연! 8/2(일) 방송!",
-          "snippet": "",
-          "url": "https://www.kookminnews.com/120233",
-          "source": "국민뉴스"
-        },
-        {
           "title": "‘전국노래자랑’ 장민호·전유진·손빈아·지원이·유민 총출동",
           "snippet": "",
           "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=300483",
           "source": "비즈엔터"
+        },
+        {
+          "title": "장민호, “풍악을 울려라”로 전국노래자랑 광주 남구 달군다",
+          "snippet": "",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16150552",
+          "source": "톱스타뉴스"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARrRwHwUNcRtM-xg-uAD2tQ9EX0--17wLe05Df6yUx5RFnF4xQKPYkyXkzMY",
-      "rank": 8
+      "rank": 9
     },
     {
       "title": "스쿠발",
@@ -225,34 +252,34 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqwEIXvGGm8EINlA610pneA3PswIctSQdNZf54VRFXb5QgGn9zPBhnDVWZtiA",
-      "rank": 9
+      "rank": 10
     },
     {
-      "title": "오세훈",
-      "traffic": "10000+",
-      "summary": "• 오세훈 2심, 5개 여론조사 쪼개 반격…‘의뢰·대납 연결고리’ 깬다\n• 박주민 \"오세훈, 벌써 재판소원 얘기해...1심? 뒤집어질 가능성 낮아\"\n• “오세훈 시장직 상실형 적절” 54.5%, 서울마저 과반…李대통령-민주당 지지율 맞먹어",
+      "title": "will there be another spiderman movie",
+      "traffic": "200+",
+      "summary": "• Tom Holland Says There's \"A Whole Plan\" For Passing Spider-Man Baton To Another Actor: \"I Have A Really Clear Vision\"\n• Spider Man Actors: Tom Holland Says Plan Ready For His Successor\n• Spider-Man has a future beyond Tom Holland — and Marvel is already planning for it",
       "news": [
         {
-          "title": "오세훈 2심, 5개 여론조사 쪼개 반격…‘의뢰·대납 연결고리’ 깬다",
+          "title": "Tom Holland Says There's \"A Whole Plan\" For Passing Spider-Man Baton To Another Actor: \"I Have A Really Clear Vision\"",
           "snippet": "",
-          "url": "https://www.donga.com/news/Politics/article/all/20260802/134405648/1",
-          "source": "동아일보"
+          "url": "https://deadline.com/2026/07/tom-holland-plan-passing-spider-man-another-actor-1237013456/",
+          "source": "Deadline"
         },
         {
-          "title": "박주민 \"오세훈, 벌써 재판소원 얘기해...1심? 뒤집어질 가능성 낮아\"",
+          "title": "Spider Man Actors: Tom Holland Says Plan Ready For His Successor",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0101_202607302050293160",
-          "source": "YTN"
+          "url": "https://variety.com/2026/film/news/spider-man-actors-tom-holland-successor-1236824415/",
+          "source": "Variety"
         },
         {
-          "title": "“오세훈 시장직 상실형 적절” 54.5%, 서울마저 과반…李대통령-민주당 지지율 맞먹어",
+          "title": "Spider-Man has a future beyond Tom Holland — and Marvel is already planning for it",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260729134527694",
-          "source": "Daum"
+          "url": "https://www.yahoo.com/entertainment/movies/article/spider-man-has-a-future-beyond-tom-holland--and-marvel-is-already-planning-for-it-153102112.html",
+          "source": "Yahoo"
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR0-k_uAaZ_eRdggVPSqBBW_rdPlHSkq0fjFkyx5xcvgxYI1AZeAT0K1UtE-c",
-      "rank": 10
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8dLGtH0-HJRePXDprm5amTIUeiEPfu2VeHISMH8N6xpEf_fGRMQNU-M0Vrwk",
+      "rank": 11
     },
     {
       "title": "florence pugh",
@@ -279,7 +306,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCINnlAS3BTXgygGfmTiEpa_44qULIt6Zjon8T-jfKqiQiwLQcaAxEHcHU2Mg",
-      "rank": 11
+      "rank": 12
     },
     {
       "title": "how many post credit scenes in brand new day",
@@ -306,7 +333,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpD8zZw3s7u3BRaVA0aLgCRbTddCl_d4T4mfckc6MRiSy4-dYu9zBLJD6z0Vw",
-      "rank": 12
+      "rank": 13
     },
     {
       "title": "tobey maguire",
@@ -333,7 +360,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkRuZtu07HPx-LViMJW4utpy9v7Esy3H9HDGaSkEYAknnK-YolS2pw_m8o9mc",
-      "rank": 13
+      "rank": 14
     },
     {
       "title": "bourbon virus ticks",
@@ -360,7 +387,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlt0oQPW1g-PgSfAwDsDtkzi9uzbU5xh6qr1bvZYOoQw6x3fgYSdXZqpJVV1I",
-      "rank": 14
+      "rank": 15
     },
     {
       "title": "mark ruffalo",
@@ -387,7 +414,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTumLxcDfMBu-P0uZFxYaFImVPOJqLctQTzBxEqh1ev9GV27yoBQYXRhjGrZpY",
-      "rank": 15
+      "rank": 16
     },
     {
       "title": "daredevil",
@@ -414,7 +441,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQze5BDEFyIeWVUXgwNWST-pPli2orsz634oq4xg7ctsQfFtVxau08sZXls21w",
-      "rank": 16
+      "rank": 17
     },
     {
       "title": "thunderbolts",
@@ -441,7 +468,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyuWKMVTx79t2RfQR0WCs8_x8VfK-BtDpdFKRZ9_GPakXT93WqfnN2j5rSS8I",
-      "rank": 17
+      "rank": 18
     },
     {
       "title": "mortgage loan rates today",
@@ -468,7 +495,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlzXaH1x_tcVOcBGw2-gliDH_iZn01m7SKsk9OagcZPTlpCRv7PcwX5joihEA",
-      "rank": 18
+      "rank": 19
     },
     {
       "title": "xmen",
@@ -495,33 +522,6 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYko5CcTKrWPhFcTRgR5G6UcuepD-PmjzcavebviQBbaeZXFpcHd7gMOL8bdc",
-      "rank": 19
-    },
-    {
-      "title": "atlante",
-      "traffic": "200+",
-      "summary": "• Atlante Supercharges Its Midfield with Argentine Star Martín Sarrafiore\n• Preview: Cruz Azul vs Atlante - prediction, team news, lineups\n• Cruz Azul vs. Club Leon - Live Score - November 06, 2026",
-      "news": [
-        {
-          "title": "Atlante Supercharges Its Midfield with Argentine Star Martín Sarrafiore",
-          "snippet": "",
-          "url": "https://www.soyfutbol.com/en/news/atlante-supercharges-its-midfield-with-argentine-star-martin-sarrafiore-20260731-0044.html",
-          "source": "Soy Futbol"
-        },
-        {
-          "title": "Preview: Cruz Azul vs Atlante - prediction, team news, lineups",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/cruz-azul/preview/cruz-azul-vs-atlante-prediction-team-news-lineups_602179.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Cruz Azul vs. Club Leon - Live Score - November 06, 2026",
-          "snippet": "",
-          "url": "https://www.foxsports.com/soccer/womens-liga-mx-cruz-azul-vs-club-leon-nov-06-2026-game-boxscore-950459",
-          "source": "FOX Sports"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDogyLYB3o8pAFRo8nqPDQCgV4XMJXFUWBDCQA-Ivzgh4_HV5ZSB3GwHnOBhQ",
       "rank": 20
     },
     {
@@ -535,28 +535,28 @@
     {
       "title": "西武入間ペペ",
       "traffic": "100+",
-      "summary": "• 西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放　屋上にはキッチンカーも並ぶ　500人が来場、花火や飲食を楽しみ夏の夜を満喫\n• 西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫\n• 西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫",
+      "summary": "• 西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫（埼玉新聞）\n• 西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫\n• 西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫",
       "news": [
         {
-          "title": "西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放　屋上にはキッチンカーも並ぶ　500人が来場、花火や飲食を楽しみ夏の夜を満喫",
+          "title": "西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫（埼玉新聞）",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/saitama/region/saitama-20260802114805",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫",
-          "snippet": "",
-          "url": "https://www.47news.jp/14725905.html",
-          "source": "47NEWS"
+          "url": "https://news.yahoo.co.jp/articles/83bf5eefa67087791d88bcd3f260a632f89c1ec4",
+          "source": "Yahoo!ニュース"
         },
         {
           "title": "西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫",
           "snippet": "",
           "url": "https://article.auone.jp/detail/1/2/5/474_5_r_20260802_1785639232190843",
           "source": "au Webポータル"
+        },
+        {
+          "title": "西武入間ペペから花火を…入間基地の納涼祭に合わせ屋上を開放 屋上にはキッチンカーも並ぶ 500人が来場、花火や飲食を楽しみ夏の夜を満喫",
+          "snippet": "",
+          "url": "https://www.47news.jp/14725905.html",
+          "source": "47NEWS"
         }
       ],
-      "image": "",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXkK9LOkIIfPpP4rFvj-OnAawF7vU1tYS939IOdcr5t1ogW9CmryiQmuHSsKU",
       "rank": 22
     },
     {
@@ -719,6 +719,33 @@
       "rank": 30
     },
     {
+      "title": "pakistan vs sri lanka",
+      "traffic": "200+",
+      "summary": "• SL-W vs PAK-W Cricket Scorecard, 1st T20I at Dambulla, July 31, 2026\n• SLW vs PAKW, 1st T20I, Pakistan Women tour of Sri Lanka, 2026 - Commentary\n• Dulani ton trumps Pakistan’s record effort as SL win first T20",
+      "news": [
+        {
+          "title": "SL-W vs PAK-W Cricket Scorecard, 1st T20I at Dambulla, July 31, 2026",
+          "snippet": "",
+          "url": "https://www.cricinfo.com/series/pakistan-women-in-sri-lanka-2026-1540537/sri-lanka-women-vs-pakistan-women-1st-t20i-1540543/full-scorecard",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "SLW vs PAKW, 1st T20I, Pakistan Women tour of Sri Lanka, 2026 - Commentary",
+          "snippet": "",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/161854/pakw-vs-slw-1st-t20i-pakistan-women-tour-of-sri-lanka-2026",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "Dulani ton trumps Pakistan’s record effort as SL win first T20",
+          "snippet": "",
+          "url": "https://www.dawn.com/news/2019848",
+          "source": "Dawn"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3VG801U9us0wnYG_TSXBU2SnK09LBlukKVMCdGIMZ_Xfc0VElNB3_T96ZcjI",
+      "rank": 31
+    },
+    {
       "title": "football transfer news arsenal",
       "traffic": "500+",
       "summary": "• Myles Lewis-Skelly transfer news: Man Utd considering move for Arsenal player - Paper Talk\n• What we’re hearing about Arsenal’s interest in Vinicius Junior and his Real Madrid contract - The Athletic\n• Arteta coy on Vinícius Jr. links but expects more Arsenal moves",
@@ -743,7 +770,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeJJPjM_4BgnCJyfTN60uaAAY7SUXlwJ1QTx72mfVjtwkHERRnwVwrY-4t0Ao",
-      "rank": 31
+      "rank": 32
     },
     {
       "title": "lga airport",
@@ -770,7 +797,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH-9uu-VCAm3zvKLaZxtzoqLUAtod2aazQCqypUwUwuDUGtSGsxPNvx9yWHiM",
-      "rank": 32
+      "rank": 33
     },
     {
       "title": "openai",
@@ -797,7 +824,34 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8ZNQfD80Txt6EyRzQi_0ZTGJxerVvSp04-0CQyC_iHInqw3bfq1v11AfDUnE",
-      "rank": 33
+      "rank": 34
+    },
+    {
+      "title": "casemiro",
+      "traffic": "100+",
+      "summary": "• Casemiro immediately risks Cristiano Ronaldo relationship with Lionel Messi statement\n• Inter Miami's Mas says club followed rules in Casemiro signing amid MLS investigation\n• Galaxy's tampering complaint against Inter Miami in Casemiro deal is just petty",
+      "news": [
+        {
+          "title": "Casemiro immediately risks Cristiano Ronaldo relationship with Lionel Messi statement",
+          "snippet": "",
+          "url": "https://www.thesun.co.uk/sport/39927706/casemiro-risks-cristiano-ronaldo-relationship-lionel-messi-inter-miami/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Inter Miami's Mas says club followed rules in Casemiro signing amid MLS investigation",
+          "snippet": "",
+          "url": "https://www.keysnews.com/ap/sports/inter-miamis-mas-says-club-followed-rules-in-casemiro-signing-amid-mls-investigation/article_aeee2d4b-e66a-598d-91bd-7acef63bdc1d.html",
+          "source": "keysnews.com"
+        },
+        {
+          "title": "Galaxy's tampering complaint against Inter Miami in Casemiro deal is just petty",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/galaxys-tampering-complaint-against-inter-miami-in-casemiro-deal-is-just-petty-43212982",
+          "source": "OneFootball"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvT1tSC6rTQL-k3b-jtuyy5egz7HCguymswCx81tlS6BGiuiG6uTNiNTDGkCk",
+      "rank": 35
     },
     {
       "title": "powerball results",
@@ -824,7 +878,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqeeHsh7k-wB7OEXSWsor1DPGbCBnzEf61NRvRhQzD6u83PDT_0doVwWjkzXc",
-      "rank": 34
+      "rank": 36
     },
     {
       "title": "lotto results national lottery results",
@@ -851,7 +905,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg18SIfqLWkXd2VMLdMLaMyqfdHTuBbHRCv5jHCN8r77iTALZ0_NbLZpuI2OE",
-      "rank": 35
+      "rank": 37
     },
     {
       "title": "tennis scores today",
@@ -878,24 +932,24 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRu1oleTT12tielqLryHtbEB70rRrzU7xUPKAkw_Fczpk5OqpLB94EpDHc1I40",
-      "rank": 36
+      "rank": 38
     },
     {
       "title": "lamont roach",
-      "traffic": "100+",
-      "summary": "• William Zepeda overwhelms Lamont Roach to seize WBC lightweight title in sensational showing\n• Zepeda beats Roach for WBC belt, Muratalla retains IBF title\n• Terence Crawford's verdict on Lamont Roach vs William Zepeda title fight: \"It could be bad for him\"",
+      "traffic": "200+",
+      "summary": "• Zepeda beats Roach for WBC belt, Muratalla retains IBF title\n• William Zepeda overwhelms Lamont Roach to seize WBC lightweight title in sensational showing\n• Terence Crawford's verdict on Lamont Roach vs William Zepeda title fight: \"It could be bad for him\"",
       "news": [
-        {
-          "title": "William Zepeda overwhelms Lamont Roach to seize WBC lightweight title in sensational showing",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/boxing/live/lamont-roach-vs-william-zepeda-live-results-round-by-round-updates-for-tonights-wbc-title-fight-063000008.html",
-          "source": "Yahoo Sports"
-        },
         {
           "title": "Zepeda beats Roach for WBC belt, Muratalla retains IBF title",
           "snippet": "",
           "url": "https://www.badlefthook.com/boxing-results/117698/william-zepeda-beats-lamont-roach-for-wbc-belt-muratalla-retains-ibf-title-boxing-news-results-2026",
           "source": "Bad Left Hook"
+        },
+        {
+          "title": "William Zepeda overwhelms Lamont Roach to seize WBC lightweight title in sensational showing",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/boxing/live/lamont-roach-vs-william-zepeda-live-results-round-by-round-updates-for-tonights-wbc-title-fight-063000008.html",
+          "source": "Yahoo Sports"
         },
         {
           "title": "Terence Crawford's verdict on Lamont Roach vs William Zepeda title fight: \"It could be bad for him\"",
@@ -904,8 +958,8 @@
           "source": "Boxing News Online"
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMFTuIV1Wm7XmQYy9JcfuQnMupcZeBlkzaLoyacw7hDD_dmR_s0cum_9-0hwk",
-      "rank": 37
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC0Oys75gUZ2_NBTc17pNEHIuOuu8PNC-DVodhSq0VNqUKEH4IeMDDAgRsFTE",
+      "rank": 39
     },
     {
       "title": "cryptocurrency trading",
@@ -932,60 +986,6 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWCQJSdXR2KTxdmq3uJxs3Nji2LTxJwSaG9PEfRJ4arcP4zIHlMABeP434aBA",
-      "rank": 38
-    },
-    {
-      "title": "italy heatwave",
-      "traffic": "1000+",
-      "summary": "• Italy putting nearly all major cities on highest heat alert\n• African heatwave: 11 cities under red alert. Temperatures reach 40 degrees Celsius, tropical nights return.\n• Italy Extreme Weather Heat",
-      "news": [
-        {
-          "title": "Italy putting nearly all major cities on highest heat alert",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo",
-          "source": "BBC"
-        },
-        {
-          "title": "African heatwave: 11 cities under red alert. Temperatures reach 40 degrees Celsius, tropical nights return.",
-          "snippet": "",
-          "url": "https://www.agenzianova.com/en/news/caldo-africano-11-citta-bollino-rosso-temperature-fino-a-40-gradi-tornano-le-notti-tropicali/",
-          "source": "Agenzia Nova"
-        },
-        {
-          "title": "Italy Extreme Weather Heat",
-          "snippet": "",
-          "url": "https://www.bdtonline.com/sports/college_sports/italy-extreme-weather-heat/image_a9eef404-0ee3-558d-9cda-21cc05df06c2.html",
-          "source": "Bluefield Daily Telegraph"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN_f1b0stFsmatkh0aqfLYx48SZydfmfQ9clV50Bwn94s7LSb-6M40agpoFrE",
-      "rank": 39
-    },
-    {
-      "title": "robert lewandowski",
-      "traffic": "500+",
-      "summary": "• Szalone sceny w Chicago, Lewandowski bohaterem. Historyczny wyczyn Polaka\n• Popis Lewandowskiego, a potem to. Spójrz, co dostał po meczu\n• Chicago Fire - Charlotte FC: relacja na żywo. Lewandowski wreszcie strzeli? LIVE",
-      "news": [
-        {
-          "title": "Szalone sceny w Chicago, Lewandowski bohaterem. Historyczny wyczyn Polaka",
-          "snippet": "",
-          "url": "https://sport.interia.pl/robert-lewandowski/news-kapitalny-wystep-roberta-lewandowskiego-dublet-polaka-i-wycz,nId,23523151",
-          "source": "Interia Sport"
-        },
-        {
-          "title": "Popis Lewandowskiego, a potem to. Spójrz, co dostał po meczu",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/pilka-nozna/1265594/popis-lewandowskiego-a-potem-to-spojrz-co-dostal-po-meczu",
-          "source": "SportoweFakty"
-        },
-        {
-          "title": "Chicago Fire - Charlotte FC: relacja na żywo. Lewandowski wreszcie strzeli? LIVE",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/pilka-nozna/mls/chicago-fire-charlotte-fc-relacja-na-zywo-lewandowski-wreszcie-strzeli-live/qxmw1m9",
-          "source": "Przegląd Sportowy"
-        }
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVKARQ4nLAoznQd56jZmPFyEsOw8dBH0J9yqCKvKpCbv34a121dlw8b_dKBY",
       "rank": 40
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "title": "tarik skubal",
       "traffic": "10000+",
-      "summary": "• Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)\n• Dodgers land Cy Young ace Tarik Skubal in a blockbuster deadline deal\n• 'They have everybody': Baseball world reacts to Dodgers' Skubal deal",
+      "summary": "• Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)\n• 'They have everybody': Baseball world reacts to Dodgers' Skubal deal\n• Report: Dodgers finalize trade to acquire Skubal from Tigers",
       "news": [
         {
           "title": "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
@@ -1162,16 +1162,16 @@
           "source": "MLB.com"
         },
         {
-          "title": "Dodgers land Cy Young ace Tarik Skubal in a blockbuster deadline deal",
-          "snippet": "",
-          "url": "https://nanaimonewsnow.com/2026/08/01/dodgers-land-cy-young-ace-tarik-skubal-in-a-blockbuster-deadline-deal/",
-          "source": "NanaimoNewsNOW"
-        },
-        {
           "title": "'They have everybody': Baseball world reacts to Dodgers' Skubal deal",
           "snippet": "",
           "url": "https://www.sportsnet.ca/mlb/article/they-have-everybody-baseball-world-reacts-to-dodgers-skubal-deal/",
           "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Report: Dodgers finalize trade to acquire Skubal from Tigers",
+          "snippet": "",
+          "url": "https://www.tsn.ca/mlb/article/report-dodgers-finalize-trade-to-acquire-skubal-from-tigers-n1-49509987/",
+          "source": "TSN"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbYMPRR5ufSP2v2HevVgKXy18Cv-lyjEfJAzJpoVHvn5I8_7B9C_9_yjb50xk",
@@ -1180,12 +1180,12 @@
     {
       "title": "cruz azul - atlante",
       "traffic": "500+",
-      "summary": "• Cómo ver Cruz Azul vs Atlante en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA\n• Decepciona mosaico de la afición del Cruz Azul para celebrar el Campeón de Campeones\n• Blindan el Estadio Azteca: refuerzan seguridad con 2 mil 300 policías para el Cruz Azul vs Atlante",
+      "summary": "• Cómo ver Cruz Azul vs Atlante en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA\n• Decepciona mosaico de la afición del Cruz Azul para celebrar el Campeón de Campeones\n• Así queda la Tabla General del Apertura 2026 de Liga MX: ¡Cruz Azul dejó ir el liderato!",
       "news": [
         {
           "title": "Cómo ver Cruz Azul vs Atlante en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA",
           "snippet": "",
-          "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/como-ver-cruz-azul-vs-atlante-vivo-canales-streaming-horarios-liga-mx/1sfjeyo6ozl2a1ikz7jyukvi93",
+          "url": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/como-ver-cruz-azul-vs-atlante-vivo-canales-streaming-horarios-liga-mx/1sfjeyo6ozl2a1ikz7jyukvi93",
           "source": "DAZN"
         },
         {
@@ -1195,10 +1195,10 @@
           "source": "Excélsior"
         },
         {
-          "title": "Blindan el Estadio Azteca: refuerzan seguridad con 2 mil 300 policías para el Cruz Azul vs Atlante",
+          "title": "Así queda la Tabla General del Apertura 2026 de Liga MX: ¡Cruz Azul dejó ir el liderato!",
           "snippet": "",
-          "url": "https://www.infobae.com/mexico/2026/08/01/blindan-el-estadio-azteca-refuerzan-seguridad-con-2-mil-300-policias-para-el-cruz-azul-vs-atlante/",
-          "source": "Infobae"
+          "url": "https://www.foxsports.com.mx/2026/08/01/asi-queda-la-tabla-general-del-apertura-2026-de-liga-mx-cruz-azul-dejo-ir-el-liderato/",
+          "source": "Fox Sports"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1JM3XqRbyOOR5Y8_xP64bFiSNOvvMNj20YSBRW9mxgrWyFrIZlA8rqBkM8A",
@@ -1315,7 +1315,7 @@
     {
       "title": "moscow",
       "traffic": "200+",
-      "summary": "• Moscow restaurant bombing kills three people as device carried by woman explodes\n• Three killed after bomb detonated at Moscow restaurant, state media say\n• Three dead after homemade bomb explodes in Moscow restaurant",
+      "summary": "• Moscow restaurant bombing kills three people as device carried by woman explodes\n• Three killed after bomb detonated at Moscow restaurant, state media say\n• At least 3 dead in explosion at Moscow restaurant",
       "news": [
         {
           "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
@@ -1330,10 +1330,10 @@
           "source": "BBC"
         },
         {
-          "title": "Three dead after homemade bomb explodes in Moscow restaurant",
+          "title": "At least 3 dead in explosion at Moscow restaurant",
           "snippet": "",
-          "url": "https://www.nine.com.au/world-news/uk-europe/three-dead-after-homemade-bomb-explodes-in-moscow-restaurant-20260802-p60kny.html",
-          "source": "Nine.com.au"
+          "url": "https://edition.cnn.com/2026/08/01/europe/moscow-explosion-restaurant-latam-intl",
+          "source": "CNN"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpcrgpOBl4exULcAt2yCeJaWuM3OQCgYoNC6auhtVhvb55dkwymQOb8kfiec4",
@@ -1421,9 +1421,63 @@
       "rank": 56
     },
     {
+      "title": "bayer ag",
+      "traffic": "100+",
+      "summary": "• Bayer Aktie kaufen oder verkaufen: Analystenbewertungen im Juli `26\n• So schätzen die Analysten die Bayer-Aktie im Juli 2026 ein\n• Bayer-Aktie: Kurs erholt sich",
+      "news": [
+        {
+          "title": "Bayer Aktie kaufen oder verkaufen: Analystenbewertungen im Juli `26",
+          "snippet": "",
+          "url": "https://www.wallstreet-online.de/nachricht/21180866-aktie-kaufen-verkaufen-bayer-aktie-kaufen-verkaufen-analystenbewertungen-juli-26",
+          "source": "Wallstreet Online"
+        },
+        {
+          "title": "So schätzen die Analysten die Bayer-Aktie im Juli 2026 ein",
+          "snippet": "",
+          "url": "https://www.finanzen.net/nachricht/aktien/so-schaetzen-die-analysten-die-bayer-aktie-im-juli-2026-ein-15838623",
+          "source": "Finanzen.net"
+        },
+        {
+          "title": "Bayer-Aktie: Kurs erholt sich",
+          "snippet": "",
+          "url": "https://www.welt.de/finanzen/boerse/article6a6b20df3b5ab80bc2912051/bayer-aktie-kurs-erholt-sich.html",
+          "source": "WELT"
+        }
+      ],
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd8K07hqhWIidi8qcldxeopadc6mj4MID5puWYpcFczMBltwQmidvS5bnpvyY",
+      "rank": 57
+    },
+    {
+      "title": "andrea kaiser",
+      "traffic": "1000+",
+      "summary": "• Schwerer Unfall: Ehemann von Sat.1-Moderatorin im Krankenhaus\n• Video: Crash Elfyn Evans – Rallye Finnland\n• \"Konnte sich selbst befreien\": Rennlegende Ogier landet nach schwerem Unfall im Krankenhaus",
+      "news": [
+        {
+          "title": "Schwerer Unfall: Ehemann von Sat.1-Moderatorin im Krankenhaus",
+          "snippet": "",
+          "url": "https://www.t-online.de/sport/mehr-sport/motorsport/id_101370566/sebastien-ogier-rallye-star-nach-schwerem-unfall-im-krankenhaus.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Video: Crash Elfyn Evans – Rallye Finnland",
+          "snippet": "",
+          "url": "https://www.rallye-magazin.de/wrc/artikel/video-crash-elfyn-evans-rallye-finnland/",
+          "source": "rallye-magazin.de"
+        },
+        {
+          "title": "\"Konnte sich selbst befreien\": Rennlegende Ogier landet nach schwerem Unfall im Krankenhaus",
+          "snippet": "",
+          "url": "https://www.n-tv.de/sport/Rennlegende-Ogier-landet-nach-schwerem-Unfall-im-Krankenhaus-id31149733.html",
+          "source": "n-tv.de"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwsyK9wpPfiDoySbiOWJ54ENTjmWLemZEYENkAvSZAbCPTbvtEKbxLj-1FU7A",
+      "rank": 58
+    },
+    {
       "title": "ukraine",
       "traffic": "2000+",
-      "summary": "• Zelensky warns air defenses are being overwhelmed as Russia pounds Ukraine, killing 9\n• Ukraine: Zelenskyy says Patriot missile shortage costs lives\n• Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "summary": "• Zelensky warns air defenses are being overwhelmed as Russia pounds Ukraine, killing 9\n• Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship\n• Ukraine: Zelenskyy says Patriot missile shortage costs lives",
       "news": [
         {
           "title": "Zelensky warns air defenses are being overwhelmed as Russia pounds Ukraine, killing 9",
@@ -1432,20 +1486,20 @@
           "source": "CNN"
         },
         {
-          "title": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
-          "snippet": "",
-          "url": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568",
-          "source": "DW"
-        },
-        {
           "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/ce973yvk7pko",
           "source": "BBC"
+        },
+        {
+          "title": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
+          "snippet": "",
+          "url": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568",
+          "source": "DW"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqJC1Y0ZYlBS3st76D76BZGmANJZH6KxFTmileSUl3M5xFJM-0Qjz0CBrWZc",
-      "rank": 57
+      "rank": 59
     },
     {
       "title": "der spiegel",
@@ -1472,34 +1526,34 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA8F4b83ib62p8i1JcU_LRMNv2meMfuUsm2imr7QrReHNV9hQ_hLTvmJyyj6U",
-      "rank": 58
+      "rank": 60
     },
     {
       "title": "the new york times",
       "traffic": "200+",
-      "summary": "• Opinion | How Trump Has Changed, With Maggie Haberman\n• 'Regime change': How Trump transformed the presidency\n• Haberman Says Trump Is Focused on White House Renovations and Monuments",
+      "summary": "• How China Keeps Tabs on Foreigners\n• Live updates: US-Iran war; Trump says he’s canceling planned attacks\n• Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
       "news": [
         {
-          "title": "Opinion | How Trump Has Changed, With Maggie Haberman",
+          "title": "How China Keeps Tabs on Foreigners",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html",
+          "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
           "source": "The New York Times"
         },
         {
-          "title": "'Regime change': How Trump transformed the presidency",
+          "title": "Live updates: US-Iran war; Trump says he’s canceling planned attacks",
           "snippet": "",
-          "url": "https://www.iowapublicradio.org/2026-07-31/regime-change-how-trump-transformed-the-presidency",
-          "source": "Iowa Public Radio"
+          "url": "https://www.cnn.com/2026/08/02/world/live-news/iran-war-trump",
+          "source": "CNN"
         },
         {
-          "title": "Haberman Says Trump Is Focused on White House Renovations and Monuments",
+          "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/politics/articles/haberman-says-trump-focused-white-135813991.html",
-          "source": "Yahoo"
+          "url": "https://www.bbc.com/news/articles/cjwx74qgld2o",
+          "source": "BBC"
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_Os1mh1breX92nr9xICseAaMLF3ic-zfwaID-n2FSHVs-2F4spOXDNm5MgWM",
-      "rank": 59
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT43cQiEBSAL2QlFxtPq5wIi0hGGtjOFU_9IZxhBapPet7grR90lzAW1tsGs2w",
+      "rank": 61
     },
     {
       "title": "finnland",
@@ -1526,12 +1580,12 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCi4vZaXT2ANQ1TLrS9Y9kJabiO5ZV236gAmyJls28rr6oPB9MtciscjI1GOY",
-      "rank": 60
+      "rank": 62
     },
     {
       "title": "moskau",
       "traffic": "100+",
-      "summary": "• Tote und Verletzte bei Explosion in Moskauer Restaurant\n• Drei Tote nach Explosion nahe Luxus-Restaurant in Moskau – Behörden sprechen von Anschlag\n• Mindestens drei Todesopfer: Behörden stufen Explosion in Moskau als Anschlag ein",
+      "summary": "• Tote und Verletzte bei Explosion in Moskauer Restaurant\n• Explosion in Moskauer Restaurant: Russische Behörde spricht von Anschlag – brisantes Armee-Gerücht\n• Moskau: Tote und Verletzte nach Explosion in Luxus-Restaurant",
       "news": [
         {
           "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
@@ -1540,37 +1594,37 @@
           "source": "tagesschau.de"
         },
         {
-          "title": "Drei Tote nach Explosion nahe Luxus-Restaurant in Moskau – Behörden sprechen von Anschlag",
+          "title": "Explosion in Moskauer Restaurant: Russische Behörde spricht von Anschlag – brisantes Armee-Gerücht",
           "snippet": "",
-          "url": "https://www.welt.de/videos/video6a6ed0aadd06dd5ef2e41eaf/detonation-durch-sprengsatz-drei-tote-nach-explosion-nahe-luxus-restaurant-in-moskau-behoerden-sprechen-von-anschlag.html",
-          "source": "WELT"
+          "url": "https://www.merkur.de/politik/explosion-in-moskau-wohl-anschlag-auf-feier-von-russischem-general-94424994.html",
+          "source": "Merkur"
         },
         {
-          "title": "Mindestens drei Todesopfer: Behörden stufen Explosion in Moskau als Anschlag ein",
+          "title": "Moskau: Tote und Verletzte nach Explosion in Luxus-Restaurant",
           "snippet": "",
-          "url": "https://www.n-tv.de/politik/Behoerden-stufen-Explosion-in-Moskau-als-Anschlag-ein-id31149799.html",
-          "source": "n-tv.de"
+          "url": "https://www.spiegel.de/ausland/moskau-tote-und-verletzte-nach-explosion-in-luxus-restaurant-a-370f2243-f5e6-4c20-a60a-aa4d47d09f58",
+          "source": "Spiegel"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvqEg1KlGCATt1qel7g2S3nIKIw-cHmfLZN2SIuIqcPd3a-g4XbAnrGLQd2s",
-      "rank": 61
+      "rank": 63
     },
     {
       "title": "achensee",
       "traffic": "100+",
-      "summary": "• Absturz zum See - Gefährlicher Steig wurde Wanderin zum Verhängnis\n• Geschockte Wanderer mit Boot geborgen\n• Unwetter am Achensee: Wasserrettung rückte achtmal aus, Touristin stürzte 12 Meter tief",
+      "summary": "• Geschockte Wanderer mit Boot geborgen\n• Absturz zum See - Gefährlicher Steig wurde Wanderin zum Verhängnis\n• Unwetter am Achensee: Wasserrettung rückte achtmal aus, Touristin stürzte 12 Meter tief",
       "news": [
-        {
-          "title": "Absturz zum See - Gefährlicher Steig wurde Wanderin zum Verhängnis",
-          "snippet": "",
-          "url": "https://www.krone.at/4240904",
-          "source": "Kronen Zeitung"
-        },
         {
           "title": "Geschockte Wanderer mit Boot geborgen",
           "snippet": "",
           "url": "https://tirol.orf.at/stories/3365225/",
           "source": "tirol.ORF.at"
+        },
+        {
+          "title": "Absturz zum See - Gefährlicher Steig wurde Wanderin zum Verhängnis",
+          "snippet": "",
+          "url": "https://www.krone.at/4240904",
+          "source": "Kronen Zeitung"
         },
         {
           "title": "Unwetter am Achensee: Wasserrettung rückte achtmal aus, Touristin stürzte 12 Meter tief",
@@ -1579,8 +1633,8 @@
           "source": "Tiroler Tageszeitung"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI-ZZfFSaDq_oX5GuR3CuXs_SioEfJxitQQIw_go2T_zS5JeuezhVOgDhlgek",
-      "rank": 62
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2UQI2v8bCi4CpzMqk4T0Bvt2NKi0bayNRbSlND63Vhs9L9p5TrIcA2nkIguI",
+      "rank": 64
     },
     {
       "title": "lottozahlen eurojackpot",
@@ -1607,7 +1661,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPtgKnjLXhsOieqE1wS9655JTate557Ijn53Y2l-AuoOOapb_z4X2oDaMxg4",
-      "rank": 63
+      "rank": 65
     },
     {
       "title": "pozzuoli",
@@ -1634,60 +1688,6 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIzO25W4g3ywnHvMZVEHn73tPkw46Qz5naBLA2I37quqUL0mKd4dg3yJFlX50",
-      "rank": 64
-    },
-    {
-      "title": "niemcy",
-      "traffic": "200+",
-      "summary": "• Co się stało z migrantami z Ceuty? Szefowa KE potwierdza\n• Co naprawdę wydarzyło się na granicy Hiszpanii i Maroka?\n• 20 krajów w tym Polska. \"Domagamy się natychmiastowych działań\"",
-      "news": [
-        {
-          "title": "Co się stało z migrantami z Ceuty? Szefowa KE potwierdza",
-          "snippet": "",
-          "url": "https://www.money.pl/gospodarka/ani-jedna-osoba-szefowa-ke-mowi-co-sie-stalo-z-migrantami-z-ceuty-7313799476164608a.html",
-          "source": "Money.pl"
-        },
-        {
-          "title": "Co naprawdę wydarzyło się na granicy Hiszpanii i Maroka?",
-          "snippet": "",
-          "url": "https://www.onet.pl/styl-zycia/iwona-zielinska-sasiada/najpierw-oszukano-migrantow-potem-oszukano-europe-historia-kryzysu-w-ceucie/5zj4j17,30bc1058",
-          "source": "Onet"
-        },
-        {
-          "title": "20 krajów w tym Polska. \"Domagamy się natychmiastowych działań\"",
-          "snippet": "",
-          "url": "https://wiadomosci.wp.pl/20-krajow-w-tym-polska-domagamy-sie-natychmiastowych-dzialan-7313718022989888a",
-          "source": "WP Wiadomości"
-        }
-      ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnyZLOfW2U83-N3w3N6VDgEPWOP4SUnNegEOkkcZQly5oX_7IeDPkjvtKpaik",
-      "rank": 65
-    },
-    {
-      "title": "karim adeyemi",
-      "traffic": "500+",
-      "summary": "• \"Viele Dinge nicht so gut\": Flick ist nach Adeyemis Debüt schonungslos\n• Bei Adeyemi-Debüt: Barca-Test in Birmingham bleibt ohne Sieger\n• Konkurrenzkampf mit Yamal bei Barça: Adeyemi macht mutige Ansage",
-      "news": [
-        {
-          "title": "\"Viele Dinge nicht so gut\": Flick ist nach Adeyemis Debüt schonungslos",
-          "snippet": "",
-          "url": "https://www.n-tv.de/sport/fussball/Flick-ist-nach-Adeyemis-Debuet-schonungslos-id31149740.html",
-          "source": "n-tv.de"
-        },
-        {
-          "title": "Bei Adeyemi-Debüt: Barca-Test in Birmingham bleibt ohne Sieger",
-          "snippet": "",
-          "url": "https://sport.sky.de/fussball/artikel/bei-adeyemi-debuet-barca-test-in-birmingham-bleibt-ohne-sieger/13568898/34267",
-          "source": "Sky.de"
-        },
-        {
-          "title": "Konkurrenzkampf mit Yamal bei Barça: Adeyemi macht mutige Ansage",
-          "snippet": "",
-          "url": "https://www.eurosport.de/fussball/la-liga/2026-2027/karim-adeyemi-wechsel-fc-barcelona-kampfansage-lamine-yamal-habe-vor-keinem-spieler-angst_sto23324322/story.shtml",
-          "source": "Eurosport"
-        }
-      ],
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-jBOD6q8TGjN3_jJZLmgyRPZKkNeZa-T609H_6gieLpNExOoQVVFkFdFD9Lc",
       "rank": 66
     },
     {
@@ -1720,18 +1720,18 @@
     {
       "title": "clément rémiens",
       "traffic": "100+",
-      "summary": "• Clément Rémiens : loin des plateaux depuis sa reconversion dans la restauration, il retrouve une ex-partenaire bien célèbre\n• Clément Rémiens : découvrez les photos de sa virée complice en moto avec Denitsa Ikonomova",
+      "summary": "• Clément Rémiens : découvrez les photos de sa virée complice en moto avec Denitsa Ikonomova\n• Clément Rémiens : loin des plateaux depuis sa reconversion dans la restauration, il retrouve une ex-partenaire bien célèbre",
       "news": [
-        {
-          "title": "Clément Rémiens : loin des plateaux depuis sa reconversion dans la restauration, il retrouve une ex-partenaire bien célèbre",
-          "snippet": "",
-          "url": "https://www.purepeople.com/article/clement-remiens-loin-des-plateaux-depuis-sa-reconversion-dans-la-restauration-il-retrouve-une-ex-partenaire-bien-celebre_a552825/1",
-          "source": "Ode (Purepeople)"
-        },
         {
           "title": "Clément Rémiens : découvrez les photos de sa virée complice en moto avec Denitsa Ikonomova",
           "snippet": "",
           "url": "https://www.purepeople.com/diapo/clement-remiens-loin-des-plateaux-depuis-sa-reconversion-dans-la-restauration-il-retrouve-une-ex-partenaire-bien-celebre_a552825/1",
+          "source": "Ode (Purepeople)"
+        },
+        {
+          "title": "Clément Rémiens : loin des plateaux depuis sa reconversion dans la restauration, il retrouve une ex-partenaire bien célèbre",
+          "snippet": "",
+          "url": "https://www.purepeople.com/article/clement-remiens-loin-des-plateaux-depuis-sa-reconversion-dans-la-restauration-il-retrouve-une-ex-partenaire-bien-celebre_a552825/1",
           "source": "Ode (Purepeople)"
         }
       ],
@@ -1741,7 +1741,7 @@
     {
       "title": "washington",
       "traffic": "200+",
-      "summary": "• Level 3 evacuations expanded for 979-acre Fairview Fire in Mead\n• Fairview, Autumn lane fires burning hundreds of acres after massive Old Trails fire breaks out\n• Thousands evacuate in Spokane as wildfire crosses river into city",
+      "summary": "• Level 3 evacuations expanded for 979-acre Fairview Fire in Mead\n• Fairview, Autumn lane fires burning hundreds of acres after massive Old Trails fire breaks out\n• Fort Spokane wildfire: Residents ordered to evacuate",
       "news": [
         {
           "title": "Level 3 evacuations expanded for 979-acre Fairview Fire in Mead",
@@ -1756,10 +1756,10 @@
           "source": "The Spokesman-Review"
         },
         {
-          "title": "Thousands evacuate in Spokane as wildfire crosses river into city",
+          "title": "Fort Spokane wildfire: Residents ordered to evacuate",
           "snippet": "",
-          "url": "https://www.seattletimes.com/seattle-news/thousands-evacuate-in-spokane-as-wildfire-crosses-river-into-city/",
-          "source": "The Seattle Times"
+          "url": "https://news.az/news/fort-spokane-wildfire-residents-ordered-to-evacuate",
+          "source": "Latest news from Azerbaijan"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzsrbMUHGNq_RM84E2utfJcFyMrSeOu_ZszpYpby-8KZ-RFzeoBztTQPf4H3A",
@@ -1795,12 +1795,18 @@
     {
       "title": "arthur gea",
       "traffic": "200+",
-      "summary": "• Premier titre pour Gea\n• ATP - Géa : « J'étais très nerveux » : Sports - Orange\n• Gea ne tombe pas dans le piège Wong",
+      "summary": "• La semaine de rêve : Gea s'offre son premier titre en carrière !\n• Arthur Gea domine Coleman Wong et file en finale de l'ATP 250 de Los Cabos\n• ATP - Géa : « J'étais très nerveux » : Sports - Orange",
       "news": [
         {
-          "title": "Premier titre pour Gea",
+          "title": "La semaine de rêve : Gea s'offre son premier titre en carrière !",
           "snippet": "",
-          "url": "https://www.lequipe.fr/Tennis/Actualites/Arthur-gea-remporte-l-open-de-los-cabos-son-premier-titre-sur-le-circuit-atp/1708488",
+          "url": "https://www.eurosport.fr/tennis/atp-los-cabos/2026/atp-250-los-cabos-la-semaine-de-reve-arthur-gea-soffre-denis-shapovalov-6-3-6-4-et-son-premier-titre-en-carriere_sto23324649/story.shtml",
+          "source": "Eurosport"
+        },
+        {
+          "title": "Arthur Gea domine Coleman Wong et file en finale de l'ATP 250 de Los Cabos",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Tennis/Actualites/Arthur-gea-domine-coleman-wong-et-file-en-finale-de-l-atp-250-de-los-cabos/1708282",
           "source": "L'Équipe"
         },
         {
@@ -1808,21 +1814,15 @@
           "snippet": "",
           "url": "https://sports.orange.fr/tennis/atp/article/atp-gea-j-etais-tres-nerveux-exclu-CNT000002qPjVZ.html",
           "source": "Sports - Orange"
-        },
-        {
-          "title": "Gea ne tombe pas dans le piège Wong",
-          "snippet": "",
-          "url": "https://www.eurosport.fr/tennis/atp-los-cabos/2026/atp-250-los-cabos-arthur-gea-coleman-wong-les-temps-forts_vid60091266/video.shtml",
-          "source": "Eurosport"
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOvdCg7p7bqriGCu2wzB9XFNLrBa-_EPAqJsjK2CV1z70uGOZOmLt4wMkseo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGjkwPRijPHTdD9smaD6uaMvUQlsIg3TBO3yCD0juVYVauMpgUimR0CJfjmM",
       "rank": 71
     },
     {
       "title": "avion",
       "traffic": "1000+",
-      "summary": "• Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca\n• L’appareil \"a explosé en s’écrasant ici\" : 13 personnes meurent dans le crash de leur avion de tourisme\n• Le crash d’un avion avec des touristes européens fait 13 morts au Pérou",
+      "summary": "• Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca\n• Crash d’un avion au Pérou : 13 morts, dont 11 touristes européens partis survoler un célèbre site touristique\n• Le crash d’un avion avec des touristes européens fait 13 morts au Pérou",
       "news": [
         {
           "title": "Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca",
@@ -1831,10 +1831,10 @@
           "source": "Le Monde.fr"
         },
         {
-          "title": "L’appareil \"a explosé en s’écrasant ici\" : 13 personnes meurent dans le crash de leur avion de tourisme",
+          "title": "Crash d’un avion au Pérou : 13 morts, dont 11 touristes européens partis survoler un célèbre site touristique",
           "snippet": "",
-          "url": "https://www.midilibre.fr/2026/08/02/lappareil-a-explose-en-secrasant-ici-13-personnes-meurent-dans-le-crash-de-leur-avion-de-tourisme-13494029.php",
-          "source": "Midi Libre"
+          "url": "https://www.rtl.be/actu/monde/international/crash-dun-avion-au-perou-13-morts-dont-11-touristes-europeens-partis-survoler-un/2026-08-02/article/796226",
+          "source": "RTL Info"
         },
         {
           "title": "Le crash d’un avion avec des touristes européens fait 13 morts au Pérou",
@@ -1849,7 +1849,7 @@
     {
       "title": "hausse 1er aout",
       "traffic": "20000+",
-      "summary": "• Ce qui change le 1ᵉʳ août pour votre budget : Livret A, tarifs d’électricité, allocation de rentrée scolaire, aide carburant\n• Après la hausse du 1er août, 19 millions de Français peuvent réduire leur facture d'électricité de 23\n• Relèvement du taux du livret A, hausse du tarif réglementé de l'électricité, versement de l'allocation de rentrée scolaire... Tout ce qui change ce 1er août",
+      "summary": "• Ce qui change le 1ᵉʳ août pour votre budget : Livret A, tarifs d’électricité, allocation de rentrée scolaire, aide carburant\n• Tarifs de l’électricité, taux du Livret A, démarchage téléphonique... Ce qui change en août 2026\n• Après la hausse du 1er août, 19 millions de Français peuvent réduire leur facture d'électricité de 23",
       "news": [
         {
           "title": "Ce qui change le 1ᵉʳ août pour votre budget : Livret A, tarifs d’électricité, allocation de rentrée scolaire, aide carburant",
@@ -1858,16 +1858,16 @@
           "source": "Le Monde.fr"
         },
         {
+          "title": "Tarifs de l’électricité, taux du Livret A, démarchage téléphonique... Ce qui change en août 2026",
+          "snippet": "",
+          "url": "https://www.lefigaro.fr/conjoncture/tarifs-de-l-electricite-taux-du-livret-a-demarchage-telephonique-ce-qui-change-en-aout-2026-20260729",
+          "source": "Le Figaro"
+        },
+        {
           "title": "Après la hausse du 1er août, 19 millions de Français peuvent réduire leur facture d'électricité de 23",
           "snippet": "",
           "url": "https://www.lamontagne.fr/paris-75000/actualites/apres-la-hausse-du-1er-aout-19-millions-de-francais-peuvent-reduire-leur-facture-d-electricite-de-23_15026725/",
           "source": "La Montagne"
-        },
-        {
-          "title": "Relèvement du taux du livret A, hausse du tarif réglementé de l'électricité, versement de l'allocation de rentrée scolaire... Tout ce qui change ce 1er août",
-          "snippet": "",
-          "url": "https://www.bfmtv.com/economie/relevement-du-taux-du-livret-a-hausse-du-tarif-reglemente-de-l-electricite-versement-de-l-allocation-de-rentree-scolaire-tout-ce-qui-change-ce-1er-aout_AV-202607310327.html",
-          "source": "BFM"
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw_Lz5hY2Dt0K0aTD-UgK7rMN3FodzQfW_BieeRhwF43-mjCsneTqiR1pKJqw",
@@ -1956,7 +1956,7 @@
     },
     {
       "title": "santy sharma news",
-      "traffic": "1000+",
+      "traffic": "5000+",
       "summary": "• Rapper Santy Sharma Announces ‘Arakshan Hatao – August Kranti’, Puneet Vasishtha Expressed his Support\n• Rapper Santy Sharma launches reservation-focused campaign at Mumbai press conference; actor Puneet Vasishtha attends\n• Santy Sharma & Puneet Vasishtha Unite for Press Conference Check Instagram Video",
       "news": [
         {
@@ -2090,8 +2090,8 @@
       "rank": 81
     },
     {
-      "title": "pakistan vs sri lanka",
-      "traffic": "20000+",
+      "title": "pakw vs sl-w",
+      "traffic": "5000+",
       "summary": "• SL-W vs PAK-W Cricket Scorecard, 1st T20I at Dambulla, July 31, 2026\n• SLW vs PAKW, 1st T20I, Pakistan Women tour of Sri Lanka, 2026 - Commentary\n• Shawaal Zulfiqar's maiden WT20I half-century in vain as Sri Lanka win by six wickets",
       "news": [
         {
@@ -2144,33 +2144,6 @@
       "rank": 83
     },
     {
-      "title": "pakw vs sl-w",
-      "traffic": "2000+",
-      "summary": "• SL-W vs PAK-W Cricket Scorecard, 1st T20I at Dambulla, July 31, 2026\n• SLW vs PAKW, 1st T20I, Pakistan Women tour of Sri Lanka, 2026 - Commentary\n• Shawaal Zulfiqar's maiden WT20I half-century in vain as Sri Lanka win by six wickets",
-      "news": [
-        {
-          "title": "SL-W vs PAK-W Cricket Scorecard, 1st T20I at Dambulla, July 31, 2026",
-          "snippet": "",
-          "url": "https://www.cricinfo.com/series/pakistan-women-in-sri-lanka-2026-1540537/sri-lanka-women-vs-pakistan-women-1st-t20i-1540543/full-scorecard",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "SLW vs PAKW, 1st T20I, Pakistan Women tour of Sri Lanka, 2026 - Commentary",
-          "snippet": "",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/161854/pakw-vs-slw-1st-t20i-pakistan-women-tour-of-sri-lanka-2026",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Shawaal Zulfiqar's maiden WT20I half-century in vain as Sri Lanka win by six wickets",
-          "snippet": "",
-          "url": "https://www.pcb.com.pk/news-detail/shawaal-zulfiqar-s-maiden-wt20i-half-century-in-vain-as-sri-lanka-win-by-six-wickets.html",
-          "source": "Pakistan Cricket Board (PCB)"
-        }
-      ],
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3VG801U9us0wnYG_TSXBU2SnK09LBlukKVMCdGIMZ_Xfc0VElNB3_T96ZcjI",
-      "rank": 84
-    },
-    {
       "title": "सूर्य ग्रहण",
       "traffic": "5000+",
       "summary": "• 21वीं सदी का सबसे लंबा सूर्य ग्रहण, कई देशों में 6 मिनट 23 सेकंड तक दिन में छाएगा अंधेरा\n• सऊदी में 75 साल में पहली बार सदी का सबसे दुर्लभ सूर्य ग्रहण, 6 मिनट 23 सेकंड तक छाएगा अंधेरा\n• 850 साल बाद आसमान में होगा चमत्कार: दो साल पहले ही फुल हुए होटल; आखिर 22 जुलाई 2028 को ऐसा क्या होने वाला है?",
@@ -2195,7 +2168,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-UnG459Jkn9C-RkiKTBZ_ae54UnXzlFz6Pwu_NDymL4AzNQSjMbs8hCp8OA0",
-      "rank": 85
+      "rank": 84
     },
     {
       "title": "दिल्ली",
@@ -2222,12 +2195,12 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfb7C017hUF4Css0mOBpb1SmJhpzevqORw3pkBLwa0Ir0SWrSR1lnJmWYb9dM",
-      "rank": 86
+      "rank": 85
     },
     {
       "title": "world's tallest buildings",
-      "traffic": "1000+",
-      "summary": "• The 10 tallest skyscrapers in the world\n• World’s tallest buildings: Burj Khalifa leads with 828 meters\n• Wooden Wonders: The Rise of Timber Architecture Globally",
+      "traffic": "200+",
+      "summary": "• The 10 tallest skyscrapers in the world\n• World’s tallest buildings: Burj Khalifa leads with 828 meters\n• World’s Tallest Hybrid Timber Skyscraper Hits Major Construction Milestone",
       "news": [
         {
           "title": "The 10 tallest skyscrapers in the world",
@@ -2242,14 +2215,14 @@
           "source": "eciks.org"
         },
         {
-          "title": "Wooden Wonders: The Rise of Timber Architecture Globally",
+          "title": "World’s Tallest Hybrid Timber Skyscraper Hits Major Construction Milestone",
           "snippet": "",
-          "url": "https://monocle.com/design/wooden-wonders/",
-          "source": "Monocle"
+          "url": "https://www.newsweek.com/worlds-tallest-hybrid-timber-skyscraper-hits-major-construction-milestone-12265829",
+          "source": "Newsweek"
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-saZD28_aUprbkZdf6q5pFdraUrGMOCHt0_Ds70SxyI9Ocp4hUtUcpWbfik",
-      "rank": 87
+      "rank": 86
     },
     {
       "title": "lula advogado criminalista",
@@ -2276,7 +2249,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyhTOCgJ4ehiFFJuYC3foRWNvB-BORDGVzxrpNr6xRtEPeun9JB3WFj20hvOM",
-      "rank": 88
+      "rank": 87
     },
     {
       "title": "energisa",
@@ -2303,7 +2276,7 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJdJerKh73DFI1GYy_xDEbxkoD1p-onZgiSK7yw6ND8Ct3Z6arLE6PKa6hAg",
-      "rank": 89
+      "rank": 88
     },
     {
       "title": "cauã reymond",
@@ -2330,7 +2303,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcrDonZeHOx29BSWbQ44AcVY84j_84McjB-6AXS_pPva2hMkeItrBgEeoRJwQ",
-      "rank": 90
+      "rank": 89
     },
     {
       "title": "lionel messi",
@@ -2357,7 +2330,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdtsHc8CmubTJEln8FSvjKJif_DXy4kS40g-Id6LDeQc-uhPgdnQxTO8BIcr4",
-      "rank": 91
+      "rank": 90
     },
     {
       "title": "o dia do atentado",
@@ -2384,7 +2357,7 @@
         }
       ],
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4qCVR7YuoO_vsJYeks9jpcPcIDseHnXl1Q9upg5afNgZsyJtZI_Vye0lEvQY",
-      "rank": 92
+      "rank": 91
     },
     {
       "title": "caua reymond",
@@ -2411,7 +2384,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7ViHW_8cZYfnoT-WFrH2T1_rtrVx7Yh8o1h54IMiLp9Mv02ZD5lYwh0-V0s8",
-      "rank": 93
+      "rank": 92
     },
     {
       "title": "sorteio mega sena",
@@ -2438,7 +2411,7 @@
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkNYY-AHb132lxoihB2sbDZ3CQ4WOQ4B9G5rA1T-xdVlJbGLMY5WRwDJE4GPk",
-      "rank": 94
+      "rank": 93
     },
     {
       "title": "fenômeno el nino",
@@ -2465,12 +2438,12 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_-INzLXIDMc8SfH4maouCJe_O7l99iRoW54bVfSGybYEtthK1lkcXpdp3_c",
-      "rank": 95
+      "rank": 94
     },
     {
       "title": "eduardo sterblitch",
       "traffic": "500+",
-      "summary": "• O novo programa de Tatá Werneck e Eduardo Sterblitch é o respiro que a TV precisava\n• Mãe escuta coração da filha morta em peito de menino transplantado\n• Centenas de migrantes retornam ao Marrocos após entrarem no enclave espanhol",
+      "summary": "• O novo programa de Tatá Werneck e Eduardo Sterblitch é o respiro que a TV precisava\n• Trabalhadores ficam presos em andaime durante ventania no Rio\n• Mãe escuta coração da filha morta em peito de menino transplantado",
       "news": [
         {
           "title": "O novo programa de Tatá Werneck e Eduardo Sterblitch é o respiro que a TV precisava",
@@ -2479,30 +2452,30 @@
           "source": "Revista Ana Maria"
         },
         {
+          "title": "Trabalhadores ficam presos em andaime durante ventania no Rio",
+          "snippet": "",
+          "url": "https://oglobo.globo.com/video/trabalhadores-ficam-presos-em-andaime-durante-ventania-no-rio-14823160.ghtml",
+          "source": "O GLOBO"
+        },
+        {
           "title": "Mãe escuta coração da filha morta em peito de menino transplantado",
           "snippet": "",
           "url": "https://oglobo.globo.com/video/mae-escuta-coracao-da-filha-morta-em-peito-de-menino-transplantado-14829662.ghtml",
           "source": "O GLOBO"
-        },
-        {
-          "title": "Centenas de migrantes retornam ao Marrocos após entrarem no enclave espanhol",
-          "snippet": "",
-          "url": "https://oglobo.globo.com/mundo/video/centenas-de-migrantes-retornam-ao-marrocos-apos-entrarem-no-enclave-espanhol-14828208.ghtml",
-          "source": "O GLOBO"
         }
       ],
       "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTze4OMnS5WVEk0jKxlNymA8lPXRkI3zj30OIKJ3D2Nq2FUHkemEISQ15irNXw",
-      "rank": 96
+      "rank": 95
     },
     {
       "title": "田口真彩",
       "traffic": "200+",
-      "summary": "• 41分鐘直落二收拾印尼組合 渡邊勇大／田口真彩闖混雙決賽上演「台日大戰」\n• 甜笑無「羽」倫比 田口真彩超圈粉 | 中華日報\n• 台北羽賽 田口真彩擄獲台灣球迷（2） (圖)",
+      "summary": "• 台北羽賽 田口真彩擄獲台灣球迷（2） (圖)\n• 甜笑無「羽」倫比 田口真彩超圈粉 | 中華日報\n• 渡邊勇大/田口真彩直落二勝印尼組合 晉級混雙決賽",
       "news": [
         {
-          "title": "41分鐘直落二收拾印尼組合 渡邊勇大／田口真彩闖混雙決賽上演「台日大戰」",
+          "title": "台北羽賽 田口真彩擄獲台灣球迷（2） (圖)",
           "snippet": "",
-          "url": "https://tw.sports.yahoo.com/news/41%E5%88%86%E9%90%98%E7%9B%B4%E8%90%BD%E4%BA%8C%E6%94%B6%E6%8B%BE%E5%8D%B0%E5%B0%BC%E7%B5%84%E5%90%88-%E6%B8%A1%E9%82%8A%E5%8B%87%E5%A4%A7-%E7%94%B0%E5%8F%A3%E7%9C%9F%E5%BD%A9%E9%97%96%E6%B7%B7%E9%9B%99%E6%B1%BA%E8%B3%BD%E4%B8%8A%E6%BC%94-%E5%8F%B0%E6%97%A5%E5%A4%A7%E6%88%B0-100651115.html",
+          "url": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E5%8C%97%E7%BE%BD%E8%B3%BD-%E7%94%B0%E5%8F%A3%E7%9C%9F%E5%BD%A9%E6%93%84%E7%8D%B2%E5%8F%B0%E7%81%A3%E7%90%83%E8%BF%B7-2-%E5%9C%96-064237565.html",
           "source": "Yahoo運動"
         },
         {
@@ -2512,14 +2485,14 @@
           "source": "LINE TODAY"
         },
         {
-          "title": "台北羽賽 田口真彩擄獲台灣球迷（2） (圖)",
+          "title": "渡邊勇大/田口真彩直落二勝印尼組合 晉級混雙決賽",
           "snippet": "",
-          "url": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E5%8C%97%E7%BE%BD%E8%B3%BD-%E7%94%B0%E5%8F%A3%E7%9C%9F%E5%BD%A9%E6%93%84%E7%8D%B2%E5%8F%B0%E7%81%A3%E7%90%83%E8%BF%B7-2-%E5%9C%96-064237565.html",
-          "source": "Yahoo運動"
+          "url": "https://www.chinesetaipeiopen.com/news4_detail.php?Key=317",
+          "source": "台北羽球公開賽"
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzc-YwaIjBpzBes2ZWa6l9Ky5qJ70g6tLPY43_KhK-zR76E5eUrCkkBG3J56o",
-      "rank": 97
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEFHlkGq8q3M3EOG9HTQWsifO_wjPpK-b__egg0C1ir0910kZrYY6gMkrTuI",
+      "rank": 96
     },
     {
       "title": "王室",
@@ -2546,7 +2519,7 @@
         }
       ],
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvDWUawHHJqKy9FpKApifKz50NvW-nvIuCq04PP69X3VocWKybSIkWjCjZ2ck",
-      "rank": 98
+      "rank": 97
     },
     {
       "title": "豪華 汽車",
@@ -2554,7 +2527,7 @@
       "summary": "'豪華 汽車' 검색 급증 이슈입니다.",
       "news": [],
       "image": "",
-      "rank": 99
+      "rank": 98
     },
     {
       "title": "中國",
@@ -2581,6 +2554,33 @@
         }
       ],
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVNfrVD4s55vdXKbLDL2nojt9azRSgX6oBpTLzvUbbFUkV1ztOrOtmydP60q4",
+      "rank": 99
+    },
+    {
+      "title": "光 通訊",
+      "traffic": "100+",
+      "summary": "• 輝達宣告共同封裝光學進入量產 光通訊打強心針\n• 鴻勁CPO光電同測設備10月起出貨 成明年新動能\n• 週末研讀：關於共封裝光學（CPO）的一大誤解是，最優的光學技術會自動勝出。事實並非如此。",
+      "news": [
+        {
+          "title": "輝達宣告共同封裝光學進入量產 光通訊打強心針",
+          "snippet": "",
+          "url": "https://money.udn.com/money/story/5612/9665202",
+          "source": "經濟日報"
+        },
+        {
+          "title": "鴻勁CPO光電同測設備10月起出貨 成明年新動能",
+          "snippet": "",
+          "url": "https://news.cnyes.com/news/id/6555018",
+          "source": "鉅亨網"
+        },
+        {
+          "title": "週末研讀：關於共封裝光學（CPO）的一大誤解是，最優的光學技術會自動勝出。事實並非如此。",
+          "snippet": "",
+          "url": "https://www.moomoo.com/hant/community/feed/weekend-study-one-of-the-biggest-misconceptions-about-co-packaged-117020581429254",
+          "source": "Moomoo"
+        }
+      ],
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfcdfE-jB_uabXOdgQ5X86og7QFkipIBSbHkjxqsQDgh-OuehzC569OavbK0c",
       "rank": 100
     }
   ]
