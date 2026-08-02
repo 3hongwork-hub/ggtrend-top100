@@ -1,10 +1,13 @@
 // 구글 트렌드 100 데이터 및 과거 날짜 히스토리를 로드하고 검색, 필터, 모달을 제어하는 프론트엔드 스크립트
 document.addEventListener('DOMContentLoaded', () => {
   let allTrends = [];
+  let availableDates = [];
   const gridContainer = document.getElementById('grid-container');
   const searchInput = document.getElementById('search-input');
   const updateTimeElem = document.getElementById('update-time');
-  const historyDateSelect = document.getElementById('history-date-select');
+  const selectYear = document.getElementById('select-year');
+  const selectMonth = document.getElementById('select-month');
+  const selectDay = document.getElementById('select-day');
   const headerDateElem = document.getElementById('header-date');
   const heroDateElem = document.getElementById('hero-date');
 
@@ -15,47 +18,123 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalSummary = document.getElementById('modal-summary');
   const modalNewsList = document.getElementById('modal-news-list');
 
+  function populateDateSelectors(dates) {
+    availableDates = dates;
+    updateYearOptions();
+  }
+
+  function updateYearOptions() {
+    const years = Array.from(new Set(availableDates.map(d => d.split('-')[0]))).sort().reverse();
+    selectYear.innerHTML = '';
+    years.forEach(y => {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.textContent = `${y}년`;
+      selectYear.appendChild(opt);
+    });
+
+    if (years.length > 0) {
+      selectYear.value = years[0];
+      updateMonthOptions(years[0]);
+    }
+  }
+
+  function updateMonthOptions(year) {
+    const months = Array.from(new Set(
+      availableDates
+        .filter(d => d.startsWith(`${year}-`))
+        .map(d => d.split('-')[1])
+    )).sort().reverse();
+
+    const currentMonthVal = selectMonth.value;
+    selectMonth.innerHTML = '';
+    months.forEach(m => {
+      const opt = document.createElement('option');
+      opt.value = m;
+      opt.textContent = `${parseInt(m, 10)}월`;
+      selectMonth.appendChild(opt);
+    });
+
+    const targetMonth = months.includes(currentMonthVal) ? currentMonthVal : (months[0] || '');
+    selectMonth.value = targetMonth;
+    if (targetMonth) {
+      updateDayOptions(year, targetMonth);
+    }
+  }
+
+  function updateDayOptions(year, month) {
+    const days = Array.from(new Set(
+      availableDates
+        .filter(d => d.startsWith(`${year}-${month}-`))
+        .map(d => d.split('-')[2])
+    )).sort().reverse();
+
+    const currentDayVal = selectDay.value;
+    selectDay.innerHTML = '';
+    days.forEach(d => {
+      const opt = document.createElement('option');
+      opt.value = d;
+      opt.textContent = `${parseInt(d, 10)}일`;
+      selectDay.appendChild(opt);
+    });
+
+    const targetDay = days.includes(currentDayVal) ? currentDayVal : (days[0] || '');
+    selectDay.value = targetDay;
+  }
+
+  function getSelectedDateString() {
+    const y = selectYear ? selectYear.value : '';
+    const m = selectMonth ? selectMonth.value : '';
+    const d = selectDay ? selectDay.value : '';
+    if (y && m && d) {
+      return `${y}-${m}-${d}`;
+    }
+    return null;
+  }
+
+  if (selectYear) {
+    selectYear.addEventListener('change', () => {
+      updateMonthOptions(selectYear.value);
+      const selectedDate = getSelectedDateString();
+      if (selectedDate) loadTrendData(selectedDate);
+    });
+  }
+
+  if (selectMonth) {
+    selectMonth.addEventListener('change', () => {
+      updateDayOptions(selectYear.value, selectMonth.value);
+      const selectedDate = getSelectedDateString();
+      if (selectedDate) loadTrendData(selectedDate);
+    });
+  }
+
+  if (selectDay) {
+    selectDay.addEventListener('change', () => {
+      const selectedDate = getSelectedDateString();
+      if (selectedDate) loadTrendData(selectedDate);
+    });
+  }
+
   // Load available history dates
   fetch(`data/history_dates.json?v=${Date.now()}`, { cache: 'no-store' })
     .then(res => res.json())
     .then(data => {
       let dates = data.dates || [];
-      // Guarantee 2026-07-22 and 2026-07-23 are included
       if (!dates.includes("2026-07-22")) dates.push("2026-07-22");
       if (!dates.includes("2026-07-23")) dates.unshift("2026-07-23");
       dates = Array.from(new Set(dates)).sort().reverse();
 
-      historyDateSelect.innerHTML = '';
-      dates.forEach((d, idx) => {
-        const option = document.createElement('option');
-        option.value = d;
-        option.textContent = idx === 0 ? `📅 ${d} (최신)` : `📅 ${d}`;
-        historyDateSelect.appendChild(option);
-      });
-
-      // Default load latest date
-      loadTrendData(dates[0]);
+      populateDateSelectors(dates);
+      const initialDate = getSelectedDateString() || dates[0];
+      loadTrendData(initialDate);
     })
     .catch(err => {
       console.warn('History dates index not found. Using fallback dates:', err);
-      const fallbackDates = ["2026-07-23", "2026-07-22"];
-      historyDateSelect.innerHTML = '';
-      fallbackDates.forEach((d, idx) => {
-        const option = document.createElement('option');
-        option.value = d;
-        option.textContent = idx === 0 ? `📅 ${d} (최신)` : `📅 ${d}`;
-        historyDateSelect.appendChild(option);
-      });
-      loadTrendData(fallbackDates[0]);
+      const fallbackDates = ["2026-08-02", "2026-08-01", "2026-07-31", "2026-07-23", "2026-07-22"];
+      populateDateSelectors(fallbackDates);
+      const initialDate = getSelectedDateString() || fallbackDates[0];
+      loadTrendData(initialDate);
     });
-
-  // Handle date select change
-  historyDateSelect.addEventListener('change', (e) => {
-    const selectedDate = e.target.value;
-    if (selectedDate) {
-      loadTrendData(selectedDate);
-    }
-  });
 
   function loadTrendData(targetDate) {
     let dataUrl = `data/trends.json?v=${Date.now()}`;

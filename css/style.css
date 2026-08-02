@@ -102,29 +102,51 @@ header {
 
 .date-select-box {
   position: relative;
+  display: flex;
+  align-items: center;
 }
 
-.date-select-box select {
+.date-select-group {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid var(--border-card);
-  padding: 0.6rem 2.2rem 0.6rem 2.3rem;
+  padding: 0.4rem 0.6rem 0.4rem 2.2rem;
   border-radius: 20px;
-  color: #fff;
-  font-size: 0.9rem;
-  outline: none;
-  cursor: pointer;
-  appearance: none;
   transition: all 0.3s ease;
-  font-family: inherit;
 }
 
-.date-select-box select:focus, .date-select-box select:hover {
+.date-select-group:focus-within, .date-select-group:hover {
   border-color: #a855f7;
   background: rgba(255, 255, 255, 0.12);
   box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
 }
 
-.date-select-box select option {
+.date-select-group select {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 0.88rem;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: 0.2rem 0.4rem;
+  border-radius: 8px;
+  transition: background 0.2s ease, color 0.2s ease;
+  font-family: inherit;
+  text-align: center;
+}
+
+.date-select-group select:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #a855f7;
+}
+
+.date-select-group select option {
   background: #121826;
   color: #fff;
 }
@@ -136,6 +158,7 @@ header {
   transform: translateY(-50%);
   font-size: 0.9rem;
   pointer-events: none;
+  z-index: 2;
 }
 
 .search-box {

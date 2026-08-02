@@ -20,9 +20,17 @@
       <div class="controls-group">
         <div class="date-select-box">
           <span class="date-icon">📅</span>
-          <select id="history-date-select" aria-label="과거 날짜 선택">
-            <option value="">날짜 로딩 중...</option>
-          </select>
+          <div class="date-select-group">
+            <select id="select-year" aria-label="연도 선택">
+              <option value="">----년</option>
+            </select>
+            <select id="select-month" aria-label="월 선택">
+              <option value="">--월</option>
+            </select>
+            <select id="select-day" aria-label="일 선택">
+              <option value="">--일</option>
+            </select>
+          </div>
         </div>
         <div class="search-box">
           <span class="search-icon">🔍</span>
