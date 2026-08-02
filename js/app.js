@@ -115,38 +115,44 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Load available history dates
+  // 1. Immediately load latest trend data so page displays top 100 content on first load
+  loadTrendData();
+
+  // 2. Load available history dates and populate date dropdowns
   fetch(`data/history_dates.json?v=${Date.now()}`, { cache: 'no-store' })
     .then(res => res.json())
     .then(data => {
       let dates = data.dates || [];
       if (!dates.includes("2026-07-22")) dates.push("2026-07-22");
       if (!dates.includes("2026-07-23")) dates.unshift("2026-07-23");
-      dates = Array.from(new Set(dates)).sort().reverse();
+      dates = Array.from(new Set(dates)).filter(Boolean).sort().reverse();
 
       populateDateSelectors(dates);
-      const initialDate = getSelectedDateString() || dates[0];
-      loadTrendData(initialDate);
     })
     .catch(err => {
       console.warn('History dates index not found. Using fallback dates:', err);
       const fallbackDates = ["2026-08-02", "2026-08-01", "2026-07-31", "2026-07-23", "2026-07-22"];
       populateDateSelectors(fallbackDates);
-      const initialDate = getSelectedDateString() || fallbackDates[0];
-      loadTrendData(initialDate);
     });
 
   function loadTrendData(targetDate) {
-    let dataUrl = `data/trends.json?v=${Date.now()}`;
-    if (targetDate && targetDate !== 'latest') {
-      dataUrl = `data/history/${targetDate}.json?v=${Date.now()}`;
-    }
+    const isLatest = !targetDate || targetDate === 'latest' || (availableDates.length > 0 && targetDate === availableDates[0]);
+    let dataUrl = isLatest ? `data/trends.json?v=${Date.now()}` : `data/history/${targetDate}.json?v=${Date.now()}`;
 
     gridContainer.innerHTML = '<p style="color: var(--text-muted); text-align: center; grid-column: 1/-1; padding: 3rem;">데이터를 불러오는 중입니다...</p>';
 
     fetch(dataUrl, { cache: 'no-store' })
       .then(res => {
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        if (!res.ok) {
+          if (!isLatest) {
+            console.warn(`History file ${dataUrl} not found, falling back to data/trends.json`);
+            return fetch(`data/trends.json?v=${Date.now()}`, { cache: 'no-store' }).then(r => {
+              if (!r.ok) throw new Error(`HTTP ${r.status}`);
+              return r.json();
+            });
+          }
+          throw new Error(`HTTP ${res.status}`);
+        }
         return res.json();
       })
       .then(data => {
