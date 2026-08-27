@@ -98,12 +98,12 @@ tags: [GoogleTrends, IssueSummary, Top100]
 **💡 이슈 요약**
 
 • '가능한 사랑' 전도연·설경구·조인성·조여정, 어떤 욕망 마주할까
-• 이창동 감독 8년 만의 신작 '가능한 사랑', 제99회 아카데미 韓 대표로 도전장
+• 넷플릭스로 돌아온 이창동 감독 “영화는 만들어져야 하니까요”
 • '가능한 사랑', 글로벌 관객 만난다…산세바·취리히·밴쿠버 등 초청
 
 **📰 관련 뉴스**
 - ['가능한 사랑' 전도연·설경구·조인성·조여정, 어떤 욕망 마주할까](https://v.daum.net/v/20260827112530092) (Daum)
-- [이창동 감독 8년 만의 신작 '가능한 사랑', 제99회 아카데미 韓 대표로 도전장](https://www.ytn.co.kr/_ln/0117_202608260950448900) (YTN)
+- [넷플릭스로 돌아온 이창동 감독 “영화는 만들어져야 하니까요”](https://v.daum.net/v/20260827112641164) (Daum)
 - ['가능한 사랑', 글로벌 관객 만난다…산세바·취리히·밴쿠버 등 초청](https://www.dispatch.co.kr/2346974) (디스패치)
 
 ---
@@ -185,7 +185,7 @@ tags: [GoogleTrends, IssueSummary, Top100]
 | 3 | **기후동행카드** | 500+ | • 다음달 1일 ‘기후동행패스’ 출시…신규카드 무료로 교환해준다 • "기후동행카드 바꾸세요"…내달부터 새 카드 무료 교환 • 전주시, ‘K-패스’ 교통비 12억 3천만 원 환급 |
 | 4 | **모즈타바 하메네이** | 500+ | • 트럼프 "이란 최고지도자 죽지 않아, 종전 협상 시간표 없다" • 트럼프 “이란 최고지도자 모즈타바 사망하지 않은 듯” • 트럼프 “이란 최고지도자 중상…이란 분쟁 곧 끝날 것” |
 | 5 | **국선변호인** | 200+ | '국선변호인' 검색 급증 이슈입니다. |
-| 6 | **가능한 사랑** | 100+ | • '가능한 사랑' 전도연·설경구·조인성·조여정, 어떤 욕망 마주할까 • 이창동 감독 8년 만의 신작 '가능한 사랑', 제99회 아카데미 韓 대표로 도전장 • '가능한 사랑', 글로벌 관객 만난다…산세바·취리히... |
+| 6 | **가능한 사랑** | 100+ | • '가능한 사랑' 전도연·설경구·조인성·조여정, 어떤 욕망 마주할까 • 넷플릭스로 돌아온 이창동 감독 “영화는 만들어져야 하니까요” • '가능한 사랑', 글로벌 관객 만난다…산세바·취리히·밴쿠버 등 초청 |
 | 7 | **표창원** | 2000+ | • ‘허위 종결’ 제주 경찰, 침입 의혹 女 화장실서 DNA 검출 • “하나둘씩 드러나는 경찰관 거짓말”…통화했다는 시간엔 이미 사망 추정 • 장미란 부친 "야자수농장은 딸이 무섭다며 피하던 곳" |
 | 8 | **공공** | 500+ | • 금감원 내 ‘부산 이전론’ 목소리도 • 금융노조 "지방 이전 연기 아닌 중단"…내달 4일 총파업 • '원팀' 전북도·전북 국회의원, 지역 핵심 현안 해결 한 목소리 |
 | 9 | **수도권 광역급행철도 c노선** | 500+ | • [사설] 7년 지연 부전마산선 반쪽개통에 셔틀버스 환승까지 • "정차역만 보지 마세요" GTX-C 최대 수혜지는 '이곳' • ‘붕괴사고로 지연’ 부전~마산 복선전철, 내년 4월 일부 개통 |
@@ -203,17 +203,17 @@ tags: [GoogleTrends, IssueSummary, Top100]
 | 21 | **落雷** | 200+ | '落雷' 검색 급증 이슈입니다. |
 | 22 | **ビル・ゲイツ** | 100+ | • ゲイツ氏異例 AI時代に警鐘 • ビル・ゲイツ氏、AIに対する世界的制限を提唱 恩恵を圧倒する人間への危害に警鐘 • ビル・ゲイツ氏がAI時代に警鐘 「雇用などに破壊的な影響」、変化への対応が最優先事項 |
 | 23 | **自動化ゲート** | 100+ | • タイ入国「Auto Gate」対象に日本も追加と報道 • 【スワンナプーム空港】入国時の自動化ゲート対象予定国が判明 日本もリスト入り • タイ｜スワンナプーム国際空港での入国時自動化ゲート対象を33か国へ拡大予定 |
-| 24 | **天気台風情報** | 500+ | • 【台風情報】台風18号(ソウデル) 今後の進路は？ 28日には新たな台風発生か【雨風シミュレーション8月27日～9月1日】 • 奄美に台風18号 “屋根なく空丸見え” 九州は酷暑日 福岡は40℃超から一転、ゲリラ豪雨に…列島で荒れ... |
+| 24 | **天気台風情報** | 500+ | • 【台風情報】台風18号(ソウデル) 今後の進路は？ 28日には新たな台風発生か【雨風シミュレーション8月27日～9月1日】 • 強い台風18号(ソウデル) 沖縄や奄美、九州は高波の影響が残る • 「勘弁してほしい」 台風18号、沖... |
 | 25 | **八戸 天気** | 200+ | • 【八戸市】8/27 最高29℃、昼間は暑さを感じる場面がありそうな晴れ予想【朝版】 • 【八戸市】8/26 最高29℃、やや暑さを感じる場面も、夜は雨の可能性がある予想【朝版】 |
 | 26 | **バトオペ** | 200+ | • 「バトオペ2」に「機動新世紀ガンダムX」より「ガンダムDX」が参戦！オンドレヤスさんによる先行搭乗動画も公開に • 『バトオペ2』ガンダムDXが8/27参戦。ツインサテライトキャノンを搭載したコスト700の支援機で、PS5/PS4... |
 | 27 | **水卜麻美** | 2000+ | '水卜麻美' 검색 급증 이슈입니다. |
 | 28 | **円** | 1000+ | • 2030年、日本円は「70円台」の超円高に…日本人だけが気づかない「為替」の意外な盲点（クーリエ・ジャポン） • 【為替】為替の大規模介入の効果を考える • コラム：協調介入とＦＩＭＡレポは円反転の切り札か＝内田稔氏 |
-| 29 | **メタ** | 100+ | • 米メタ SNS依存大型訴訟 約180億ドル支払いで和解 対策義務化 • インスタなど未成年「ＳＮＳ依存」対策へ、米国は「１日２時間」「午前０～６時利用不可」に…他社にも波及か • 和解急いだメタ、子どものインスタ利用時間に制限 他... |
+| 29 | **メタ** | 100+ | • インスタなど未成年「ＳＮＳ依存」対策へ、米国は「１日２時間」「午前０～６時利用不可」に…他社にも波及か • 子どものSNS利用めぐる米訴訟、メタが2.8兆円支払いで和解（BBC News） • メタに“審判の時”──Faceboo... |
 | 30 | **北大西洋条約機構** | 200+ | • ＮＡＴＯ攻撃しないよう警告（時事通信） • トランプ氏、予告なしのCIA長官の訪ロで「何かが生まれるかも」 • ロシアを絞り上げるウクライナのドローン攻撃、たまらず企業接収に動くプーチン、その時機に電撃訪露したCIA長官(2/5) |
 | 31 | **weather today** | 5000+ | • UK weather forecast: Will there be another heatwave in September? • UK weather maps turn volcanic red as temperatur... |
 | 32 | **időjárás** | 100+ | • Mindenhol kisüt a nap • Élet+Stílus: Tovább melegszik az idő, 34 fok is lehet • Napi pakk: csütörtökön sok napsütés... |
 | 33 | **clima** | 100+ | • Clima de hoy en Houston para este miércoles 26 de agosto • Houston bajo calor extremo: la sensación térmica trepó a... |
-| 34 | **met office** | 100000+ | • New thunderstorm warnings for parts of UK as rain set to continue • Birmingham hit by ‘significant flooding’ as UK ... |
+| 34 | **met office** | 100000+ | • Birmingham hit by ‘significant flooding’ as UK braces for storms • Thunderstorms warning in force with threat of la... |
 | 35 | **boxing day** | 200+ | • Boxing Day Edinburgh derby rescheduled for broadcast reasons • Key fixture change confirmed for Hibs with festive d... |
 | 36 | **london weather** | 2000+ | • Thunderstorms warning in force for London as rain sweeps capital • London August Bank Holiday 2026 weather forecast... |
 | 37 | **погода** | 500+ | • До +21, давление выше нормы и внезапные дожди. Что ждет Петербург сегодня • Барическая депрессия: чем удивит погода... |
@@ -226,14 +226,14 @@ tags: [GoogleTrends, IssueSummary, Top100]
 | 44 | **matthew mayich hockey** | 2000+ | • Hamilton-born NHL prospect Matthew Mayich in Arizona hospital after 'training incident,' OHL says • Arizona State h... |
 | 45 | **kerry lynne findlay** | 500+ | • 4th BC Conservative member quits party in past three days • Adam Pankratz: The B.C. Conservatives are dissolving be... |
 | 46 | **action thriller** | 100+ | • Netflix's New 114-Episode Action Thriller Series Is Officially One of the Biggest Shows on Streaming • 7-Part CBS S... |
-| 47 | **草間彌生** | 500+ | • 草間氏死去 直前まで絵筆手放さず • 香取慎吾が草間彌生さんを追悼「僕も、描き続けてみます」記事に全文 (2026年8月27日掲載) • 菊池桃子 亡くなった草間彌生さん悼む「たくさんの元気をいただいた」…シルバーヘアの夫とアート鑑賞も |
+| 47 | **草間彌生** | 500+ | • 草間氏死去 直前まで絵筆手放さず • 菊池桃子 亡くなった草間彌生さん悼む「たくさんの元気をいただいた」…シルバーヘアの夫とアート鑑賞も • 香取慎吾、草間弥生さんに「描き続けることの大切さを教えていただきました」 |
 | 48 | **lance franklin sydney swans comments** | 500+ | • The Swans scandal strips bare our nation’s cocaine addiction • Buddy breaks silence on Swans’ ‘absolute disaster’ •... |
 | 49 | **aukus** | 100+ | • Perth prepares for 'one in 10 million' AUKUS nuclear disaster • Emergency plan for AUKUS nuclear submarine accident... |
 | 50 | **mojtaba khamenei** | 200+ | • Is Mojtaba Khamenei Dead? • Trump Says He Doesn't Think Iran's Mojtaba Khamenei Is Dead • President Trump knows neg... |
-| 51 | **jeroen weimar** | 500+ | • Secret transport fare hike to fund Suburban Rail Loop will be abolished • Victorian transport boss ousted amid secr... |
+| 51 | **jeroen weimar** | 500+ | • Victorian transport boss ousted amid secret tax scandal • Secret transport fare hike to fund Suburban Rail Loop wil... |
 | 52 | **seal team** | 200+ | • Netflix's New 114-Episode Action Thriller Series Is Officially One of the Biggest Shows on Streaming • 7-Part CBS S... |
-| 53 | **river plate** | 100+ | • Seven Copa Libertadores quarterfinalists have already been determined • 🚨 Copa Sudamericana quarter-final ties conf... |
-| 54 | **katy perry** | 5000+ | • Why young people didn't just like Dolly — they loved her • Oscar and Emmy winner: how film and TV defined the other... |
+| 53 | **river plate** | 100+ | • Seven Copa Libertadores quarterfinalists have already been determined • Libertadores: 4 Brazilian teams reach quart... |
+| 54 | **katy perry** | 5000+ | • Why young people didn't just like Dolly — they loved her • From 9 to 5 to Steel Magnolias: Dolly Parton’s cinematic... |
 | 55 | **storm vs tempo** | 100+ | • Flau’jae Johnson scores 20 points and the Storm beat the short-handed Tempo 90-78 • Game Highlights: Toronto Tempo ... |
 | 56 | **nord bei nordwest das dritte grab** | 2000+ | • Nord bei Nordwest - Das dritte Grab – Nord bei Nordwest - hier anschauen • "DAS! Rote Sofa": Dieser Gast ist heute ... |
 | 57 | **dortmund** | 500+ | • Verfolgungsjagd durch Dortmund: Mercedes-Fahrer fährt Polizisten um • Dortmund: Mercedes-Rambo fährt Polizisten um ... |
@@ -259,7 +259,7 @@ tags: [GoogleTrends, IssueSummary, Top100]
 | 77 | **ராசி பலன்** | 200+ | • இன்றைய ராசி பலன்கள் (27.8.2026) 12 ராசிகளுக்கும்! மகர ராசிக்கு அனுகூலம்! • இன்றைய ராசிப்பலன் - 27.08.2026 • Rasi Pa... |
 | 78 | **अधिग्रहण** | 500+ | • सीतामढ़ी-मुजफ्फरपुर ट्रैक दोहरीकरण के लिए जमीन अधिग्रहण की प्रक्रिया शुरू • सीतामढ़ी-मुजफ्फरपुर रेल दोहरीकरण: जमीन ... |
 | 79 | **calcutta high court** | 200+ | • Minor's Consent Cannot Mitigate Sexual Assault Under POCSO Act: Calcutta High Court Upholds 24-Yr-Old... • POCSO | ... |
-| 80 | **रक्षा बंधन** | 20000+ | • Chandra Grahan 2026: कल इतने बजे लगेगा साल का आखिरी चंद्र ग्रहण, नोट कर लें अभी से टाइमिंग • राखी पूर्णिमा 2026: भद... |
+| 80 | **रक्षा बंधन** | 20000+ | • Raksha Bandhan 2026 Date: आज या कल, कब मनाया जाएगा रक्षाबंधन? राखी बांधने के लिए मिलेगा बस इतना समय • 28 अगस्त को श... |
 | 81 | **leo horoscope today** | 500+ | • Leo Horoscope Today, August 27, 2026: Hidden currents stir tension; avoid revealing plans or sharing conc • Leo Tar... |
 | 82 | **gds** | 500+ | • India Post GDS Recruitment 2026 notification out for 25,000+ posts, check eligibility, dates and applicat • India P... |
 | 83 | **my bharat** | 2000+ | • MY Bharat volunteer applications extended until August 27 • How PSBs Plan To Target Gen Z • PSBs eye govt portal to... |
@@ -283,4 +283,4 @@ tags: [GoogleTrends, IssueSummary, Top100]
 
 
 ---
-*데이터 수집 일시: 2026-08-27 14:46:17 (KST)*
+*데이터 수집 일시: 2026-08-27 05:46:50 (KST)*
